@@ -1,0 +1,880 @@
+characters = {
+	KON_Ahmet_Umuruthailli={
+		name="Ahmet Umuruthailli"
+
+		
+		country_leader={
+			ideology=centrism
+			traits = { exiled  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	KON_Malcoldo_Arga={
+		name="Malcoldo Arga"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KON_Malcoldo_Arga
+				traits = {	celebrity_junta_leader 	}
+		}
+
+	}
+	KON_Emin_Arga={
+		name="Emin Arga"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KON_Emin_Arga
+				traits = {	headstrong 	}
+		}
+
+	}
+	KON_Bora_Umuruthailli={
+		name="Bora Umuruthailli"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KON_Bora_Umuruthailli
+				traits = {	socialite_connections 	}
+		}
+
+	}
+	KON_Niamalhan_Lioa={
+		name="Niamalhan Lioa"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KON_Niamalhan_Lioa
+				traits = {	staunch_constitutionalist 	}
+		}
+
+	}
+	KON_Aitz_Laintzari={
+		name="Aitz Laintzari"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KON_Aitz_Laintzari
+				traits = {	humble 	}
+		}
+
+	}
+	KON_Quinn_Elkat={
+		name="Quinn Elkat"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KON_Quinn_Elkat
+				traits = {	headstrong 	}
+		}
+
+	}
+	KON_Savas_Elkat={
+		name="Savas Elkat"
+
+		advisor={
+			slot = army_chief
+			idea_token = KON_Savas_Elkat
+				traits = {	army_chief_maneuver_1 	}
+		}
+
+	}
+	KON_Isker_Bereberomhre={
+		name="Isker Bereberomhre"
+
+		advisor={
+			slot = army_chief
+			idea_token = KON_Isker_Bereberomhre
+				traits = {	army_chief_planning_1 	}
+		}
+
+	}
+	KON_Sinn_Elkat={
+		name="Sinn Elkat"
+
+		advisor={
+			slot = army_chief
+			idea_token = KON_Sinn_Elkat
+				traits = {	army_chief_morale_2 	}
+		}
+
+	}
+	KON_Quin_Laintzari={
+		name="Quin Laintzari"
+
+		advisor={
+			slot = army_chief
+			idea_token = KON_Quin_Laintzari
+				traits = {	army_chief_planning_2 	}
+		}
+
+	}
+	KON_Efer_Laintzari={
+		name="Efer Laintzari"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KON_Efer_Laintzari
+				traits = {	navy_chief_naval_aviation_2 	}
+		}
+
+	}
+	KON_Ertuhan_Brean={
+		name="Ertuhan Brean"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KON_Ertuhan_Brean
+				traits = {	navy_chief_reform_1 	}
+		}
+
+	}
+	KON_Emir_Umuruthailli={
+		name="Emir Umuruthailli"
+
+		advisor={
+			slot = air_chief
+			idea_token = KON_Emir_Umuruthailli
+				traits = {	air_chief_ground_support_1 	}
+		}
+
+	}
+	KON_Ander_Errisla={
+		name="Ander Errisla"
+
+		advisor={
+			slot = air_chief
+			idea_token = KON_Ander_Errisla
+				traits = {	air_chief_old_guard_2 	}
+		}
+
+	}
+	KON_Garet_Itzart={
+		name="Garet Itzart"
+
+		advisor={
+			slot = high_command
+			idea_token = KON_Garet_Itzart
+				traits = {	navy_screen_2 	}
+		}
+
+	}
+	KON_Eminan_Lioa={
+		name="Eminan Lioa"
+
+		advisor={
+			slot = high_command
+			idea_token = KON_Eminan_Lioa
+				traits = {	army_CombinedArms_1 	}
+		}
+
+	}
+	KON_Sinat_Lioa={
+		name="Sinat Lioa"
+
+		advisor={
+			slot = high_command
+			idea_token = KON_Sinat_Lioa
+				traits = {	army_cavalry_1 	}
+		}
+
+	}
+	KON_Garet_Laintzari={
+		name="Garet Laintzari"
+
+		advisor={
+			slot = high_command
+			idea_token = KON_Garet_Laintzari
+				traits = {	army_artillery_2 	}
+		}
+
+	}
+	KON_Braizka_Brean={
+		name="Braizka Brean"
+
+		advisor={
+			slot = high_command
+			idea_token = KON_Braizka_Brean
+				traits = {	navy_naval_air_defense_2 	}
+		}
+
+	}
+	KON_Harka_Arga={
+		name="Harka Arga"
+
+		advisor={
+			slot = high_command
+			idea_token = KON_Harka_Arga
+				traits = {	navy_fleet_logistics_2 	}
+		}
+
+	}
+	KON_Amalcolmai_Elkat={
+		name="Amalcolmai Elkat"
+
+		
+		country_leader={
+			ideology=fascism_ideology
+			traits = { polemarch  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	KON_Ahmet_Arga={
+		name="Ahmet Arga"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KON_Ahmet_Arga
+				traits = {	collaborator_king 	}
+		}
+
+	}
+	KON_Haka_Brean={
+		name="Haka Brean"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KON_Haka_Brean
+				traits = {	inexperienced_imperialist 	}
+		}
+
+	}
+	KON_Garkan_Askun={
+		name="Garkan Askun"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KON_Garkan_Askun
+				traits = {	inexperienced_imperialist 	}
+		}
+
+	}
+	KON_Harem_Bereberomhre={
+		name="Harem Bereberomhre"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KON_Harem_Bereberomhre
+				traits = {	infirm 	}
+		}
+
+	}
+	KON_Yustafer_Lioa={
+		name="Yustafer Lioa"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KON_Yustafer_Lioa
+				traits = {	collaborator_king 	}
+		}
+
+	}
+	KON_Taran_Elkat={
+		name="Taran Elkat"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KON_Taran_Elkat
+				traits = {	archon_basileus 	}
+		}
+
+	}
+	KON_Suat_Lioa={
+		name="Suat Lioa"
+
+		advisor={
+			slot = army_chief
+			idea_token = KON_Suat_Lioa
+				traits = {	army_chief_drill_2 	}
+		}
+
+	}
+	KON_Talilm_Umuruthailli={
+		name="Talilm Umuruthailli"
+
+		advisor={
+			slot = army_chief
+			idea_token = KON_Talilm_Umuruthailli
+				traits = {	army_chief_drill_2 	}
+		}
+
+	}
+	KON_Xabiergus_Umuruthailli={
+		name="Xabiergus Umuruthailli"
+
+		advisor={
+			slot = army_chief
+			idea_token = KON_Xabiergus_Umuruthailli
+				traits = {	army_chief_entrenchment_2 	}
+		}
+
+	}
+	KON_Ilkenan_Askun={
+		name="Ilkenan Askun"
+
+		advisor={
+			slot = army_chief
+			idea_token = KON_Ilkenan_Askun
+				traits = {	army_chief_maneuver_2 	}
+		}
+
+	}
+	KON_Utku_Umuruthailli={
+		name="Utku Umuruthailli"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KON_Utku_Umuruthailli
+				traits = {	navy_chief_old_guard_2 	}
+		}
+
+	}
+	KON_Ilkenan_Arga={
+		name="Ilkenan Arga"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KON_Ilkenan_Arga
+				traits = {	navy_chief_decisive_battle_2 	}
+		}
+
+	}
+	KON_Mikender_Itzart={
+		name="Mikender Itzart"
+
+		advisor={
+			slot = air_chief
+			idea_token = KON_Mikender_Itzart
+				traits = {	air_chief_old_guard_1 	}
+		}
+
+	}
+	KON_Zafe_Askun={
+		name="Zafe Askun"
+
+		advisor={
+			slot = air_chief
+			idea_token = KON_Zafe_Askun
+				traits = {	air_chief_ground_support_1 	}
+		}
+
+	}
+	KON_Niamalhan_Askun={
+		name="Niamalhan Askun"
+
+		advisor={
+			slot = high_command
+			idea_token = KON_Niamalhan_Askun
+				traits = {	air_air_superiority_2 	}
+		}
+
+	}
+	KON_Iskenai_Bereberomhre={
+		name="Iskenai Bereberomhre"
+
+		advisor={
+			slot = high_command
+			idea_token = KON_Iskenai_Bereberomhre
+				traits = {	army_commando_2 	}
+		}
+
+	}
+	KON_Talilm_Bereberomhre={
+		name="Talilm Bereberomhre"
+
+		advisor={
+			slot = high_command
+			idea_token = KON_Talilm_Bereberomhre
+				traits = {	navy_naval_air_defense_2 	}
+		}
+
+	}
+	KON_Gorka_Lioa={
+		name="Gorka Lioa"
+
+		advisor={
+			slot = high_command
+			idea_token = KON_Gorka_Lioa
+				traits = {	navy_anti_submarine_1 	}
+		}
+
+	}
+	KON_Sinat_Itzart={
+		name="Sinat Itzart"
+
+		advisor={
+			slot = high_command
+			idea_token = KON_Sinat_Itzart
+				traits = {	air_air_superiority_1 	}
+		}
+
+	}
+	KON_Kolm_Elkat={
+		name="Kolm Elkat"
+
+		advisor={
+			slot = high_command
+			idea_token = KON_Kolm_Elkat
+				traits = {	navy_fleet_logistics_2 	}
+		}
+
+	}
+	KON_Garet_Errisla={
+		name="Garet Errisla"
+
+		
+		country_leader={
+			ideology=leninism
+			traits = { polemarch  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	KON_Tunc_Errisla={
+		name="Tunc Errisla"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KON_Tunc_Errisla
+				traits = {	polemarch 	}
+		}
+
+	}
+	KON_Tarunc_Brean={
+		name="Tarunc Brean"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KON_Tarunc_Brean
+				traits = {	mastermind_code_cracker 	}
+		}
+
+	}
+	KON_Utku_Arga={
+		name="Utku Arga"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KON_Utku_Arga
+				traits = {	reluctant_stalinist 	}
+		}
+
+	}
+	KON_Savas_Lioa={
+		name="Savas Lioa"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KON_Savas_Lioa
+				traits = {	mastermind_code_cracker 	}
+		}
+
+	}
+	KON_Ilkenan_Errisla={
+		name="Ilkenan Errisla"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KON_Ilkenan_Errisla
+				traits = {	reluctant_stalinist 	}
+		}
+
+	}
+	KON_Iskenai_Errisla={
+		name="Iskenai Errisla"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KON_Iskenai_Errisla
+				traits = {	reluctant_stalinist 	}
+		}
+
+	}
+	KON_Owent_Errisla={
+		name="Owent Errisla"
+
+		advisor={
+			slot = army_chief
+			idea_token = KON_Owent_Errisla
+				traits = {	army_chief_maneuver_1 	}
+		}
+
+	}
+	KON_Kolm_Askun={
+		name="Kolm Askun"
+
+		advisor={
+			slot = army_chief
+			idea_token = KON_Kolm_Askun
+				traits = {	army_chief_reform_1 	}
+		}
+
+	}
+	KON_Eoinan_Askun={
+		name="Eoinan Askun"
+
+		advisor={
+			slot = army_chief
+			idea_token = KON_Eoinan_Askun
+				traits = {	army_chief_defensive_1 	}
+		}
+
+	}
+	KON_Harka_Askun={
+		name="Harka Askun"
+
+		advisor={
+			slot = army_chief
+			idea_token = KON_Harka_Askun
+				traits = {	army_chief_defensive_1 	}
+		}
+
+	}
+	KON_Taran_Brean={
+		name="Taran Brean"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KON_Taran_Brean
+				traits = {	navy_chief_old_guard_2 	}
+		}
+
+	}
+	KON_Niarkaitorai_Brean={
+		name="Niarkaitorai Brean"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KON_Niarkaitorai_Brean
+				traits = {	navy_chief_reform_2 	}
+		}
+
+	}
+	KON_Harem_Lioa={
+		name="Harem Lioa"
+
+		advisor={
+			slot = air_chief
+			idea_token = KON_Harem_Lioa
+				traits = {	air_chief_night_operations_1 	}
+		}
+
+	}
+	KON_Yilmaz_Umuruthailli={
+		name="Yilmaz Umuruthailli"
+
+		advisor={
+			slot = air_chief
+			idea_token = KON_Yilmaz_Umuruthailli
+				traits = {	air_chief_night_operations_2 	}
+		}
+
+	}
+	KON_Barka_Askun={
+		name="Barka Askun"
+
+		advisor={
+			slot = high_command
+			idea_token = KON_Barka_Askun
+				traits = {	navy_naval_air_defense_2 	}
+		}
+
+	}
+	KON_Beko_Brean={
+		name="Beko Brean"
+
+		advisor={
+			slot = high_command
+			idea_token = KON_Beko_Brean
+				traits = {	army_infantry_1 	}
+		}
+
+	}
+	KON_Yalcoldo_Elkat={
+		name="Yalcoldo Elkat"
+
+		advisor={
+			slot = high_command
+			idea_token = KON_Yalcoldo_Elkat
+				traits = {	navy_screen_1 	}
+		}
+
+	}
+	KON_Utku_Bereberomhre={
+		name="Utku Bereberomhre"
+
+		advisor={
+			slot = high_command
+			idea_token = KON_Utku_Bereberomhre
+				traits = {	army_radio_intelligence_2 	}
+		}
+
+	}
+	KON_Xabier_Elkat={
+		name="Xabier Elkat"
+
+		advisor={
+			slot = high_command
+			idea_token = KON_Xabier_Elkat
+				traits = {	army_armored_2 	}
+		}
+
+	}
+	KON_Garkan_Laintzari={
+		name="Garkan Laintzari"
+
+		advisor={
+			slot = high_command
+			idea_token = KON_Garkan_Laintzari
+				traits = {	army_commando_2 	}
+		}
+
+	}
+	KON_Taran_Lioa={
+		name="Taran Lioa"
+
+		
+		country_leader={
+			ideology=socialism
+			traits = { the_banker  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	KON_Quinn_Askun={
+		name="Quinn Askun"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KON_Quinn_Askun
+				traits = {	british_bulldog 	}
+		}
+
+	}
+	KON_Emin_Bereberomhre={
+		name="Emin Bereberomhre"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KON_Emin_Bereberomhre
+				traits = {	infirm 	}
+		}
+
+	}
+	KON_Harka_Bereberomhre={
+		name="Harka Bereberomhre"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KON_Harka_Bereberomhre
+				traits = {	british_bulldog 	}
+		}
+
+	}
+	KON_Talilm_Errisla={
+		name="Talilm Errisla"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KON_Talilm_Errisla
+				traits = {	the_banker 	}
+		}
+
+	}
+	KON_Muraiur_Itzart={
+		name="Muraiur Itzart"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KON_Muraiur_Itzart
+				traits = {	the_banker 	}
+		}
+
+	}
+	KON_Yilm_Bereberomhre={
+		name="Yilm Bereberomhre"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KON_Yilm_Bereberomhre
+				traits = {	staunch_constitutionalist 	}
+		}
+
+	}
+	KON_Xabier_Errisla={
+		name="Xabier Errisla"
+
+		advisor={
+			slot = army_chief
+			idea_token = KON_Xabier_Errisla
+				traits = {	army_chief_entrenchment_1 	}
+		}
+
+	}
+	KON_Tarul_Bereberomhre={
+		name="Tarul Bereberomhre"
+
+		advisor={
+			slot = army_chief
+			idea_token = KON_Tarul_Bereberomhre
+				traits = {	army_chief_reform_1 	}
+		}
+
+	}
+	KON_Yustafer_Arga={
+		name="Yustafer Arga"
+
+		advisor={
+			slot = army_chief
+			idea_token = KON_Yustafer_Arga
+				traits = {	army_chief_entrenchment_2 	}
+		}
+
+	}
+	KON_Rhys_Elkat={
+		name="Rhys Elkat"
+
+		advisor={
+			slot = army_chief
+			idea_token = KON_Rhys_Elkat
+				traits = {	army_chief_drill_1 	}
+		}
+
+	}
+	KON_Niarkaitorai_Elkat={
+		name="Niarkaitorai Elkat"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KON_Niarkaitorai_Elkat
+				traits = {	navy_chief_maneuver_2 	}
+		}
+
+	}
+	KON_Mikender_Elkat={
+		name="Mikender Elkat"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KON_Mikender_Elkat
+				traits = {	navy_chief_commerce_raiding_1 	}
+		}
+
+	}
+	KON_Eoinan_Errisla={
+		name="Eoinan Errisla"
+
+		advisor={
+			slot = air_chief
+			idea_token = KON_Eoinan_Errisla
+				traits = {	air_chief_safety_2 	}
+		}
+
+	}
+	KON_Amalcolmai_Itzart={
+		name="Amalcolmai Itzart"
+
+		advisor={
+			slot = air_chief
+			idea_token = KON_Amalcolmai_Itzart
+				traits = {	air_chief_old_guard_1 	}
+		}
+
+	}
+	KON_Xabiergus_Elkat={
+		name="Xabiergus Elkat"
+
+		advisor={
+			slot = high_command
+			idea_token = KON_Xabiergus_Elkat
+				traits = {	army_entrenchment_1 	}
+		}
+
+	}
+	KON_Bran_Brean={
+		name="Bran Brean"
+
+		advisor={
+			slot = high_command
+			idea_token = KON_Bran_Brean
+				traits = {	army_regrouping_2 	}
+		}
+
+	}
+	KON_Ahmet_Elkat={
+		name="Ahmet Elkat"
+
+		advisor={
+			slot = high_command
+			idea_token = KON_Ahmet_Elkat
+				traits = {	navy_naval_air_defense_2 	}
+		}
+
+	}
+	KON_Seamaz_Lioa={
+		name="Seamaz Lioa"
+
+		advisor={
+			slot = high_command
+			idea_token = KON_Seamaz_Lioa
+				traits = {	army_armored_1 	}
+		}
+
+	}
+	KON_Braizka_Lioa={
+		name="Braizka Lioa"
+
+		advisor={
+			slot = high_command
+			idea_token = KON_Braizka_Lioa
+				traits = {	air_air_superiority_1 	}
+		}
+
+	}
+	KON_Muraiur_Laintzari={
+		name="Muraiur Laintzari"
+
+		advisor={
+			slot = high_command
+			idea_token = KON_Muraiur_Laintzari
+				traits = {	air_tactical_bombing_2 	}
+		}
+
+	}
+	KON_Owenai_Elkat={
+		name="Owenai Elkat"
+
+		advisor={
+			slot = theorist
+			idea_token = KON_Owenai_Elkat
+				traits = {	military_theorist 	}
+		}
+
+	}
+	KON_Ulrif_Brean={
+		name="Ulrif Brean"
+
+		advisor={
+			slot = theorist
+			idea_token = KON_Ulrif_Brean
+				traits = {	naval_theorist 	}
+		}
+
+	}
+	KON_Zafe_Laintzari={
+		name="Zafe Laintzari"
+
+		advisor={
+			slot = theorist
+			idea_token = KON_Zafe_Laintzari
+				traits = {	air_warfare_theorist 	}
+		}
+
+	}
+}

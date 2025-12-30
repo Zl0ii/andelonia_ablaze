@@ -1,0 +1,19 @@
+air_wings = {
+		472 = { 								
+		small_plane_airframe_0 = { owner = "KON" amount = 14 version_name = "Umuruthailli Mk 0" }
+large_plane_airframe_0 = { owner = "KON" amount = 15 version_name = "Itzart Mk 1" }
+
+	}
+	483 = { 								
+		medium_plane_airframe_1 = { owner = "KON" amount = 16 version_name = "Errisla Mk 1" }
+medium_plane_airframe_0 = { owner = "KON" amount = 16 version_name = "Laintzari Mk 0" }
+
+	}
+	446 = { 								
+		small_plane_cas_airframe_0 = { owner = "KON" amount = 21 version_name = "Laintzari Mk 1" }
+small_plane_naval_bomber_airframe_0 = { owner = "KON" amount = 14 version_name = "Elkat Mk 0" }
+
+	}
+
+
+}

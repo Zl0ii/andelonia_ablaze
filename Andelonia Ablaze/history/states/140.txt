@@ -1,0 +1,38 @@
+
+state={
+	id=140
+	name="STATE_140"
+	manpower = 4801443
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=7
+		oil=0
+		rubber=0
+		steel=2
+		tungsten=0
+		coal=2
+	}
+
+	history={
+		victory_points = { 2854 13}
+		victory_points = { 2863 13}
+		
+		owner = REL
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = REL
+	}
+
+	provinces={
+		2837 2838 2839 2840 2841 2842 2843 2844 2845 2846 2847 2848 2849 2850 2851 2852 2853 2854 2855 2856 2857 2858 2859 2860 2861 2862 2863 2864 2865 2866 2867 
+	}
+	local_supplies=0.0 
+}

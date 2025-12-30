@@ -1,0 +1,38 @@
+
+state={
+	id=195
+	name="STATE_195"
+	manpower = 3912541
+	
+	state_category = city
+	resources={
+		aluminium=1
+		chromium=1
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=1
+		coal=0
+	}
+
+	history={
+		victory_points = { 3902 2}
+		victory_points = { 3903 19}
+		
+		owner = REL
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = REL
+	}
+
+	provinces={
+		3897 3898 3899 3900 3901 3902 3903 3904 3905 3906 3907 3908 3909 3910 3911 3912 3913 3914 3915 3916 3917 3918 3919 3920 3921 
+	}
+	local_supplies=0.0 
+}

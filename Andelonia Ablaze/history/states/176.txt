@@ -1,0 +1,42 @@
+
+state={
+	id=176
+	name="STATE_176"
+	manpower = 2002931
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=1
+		coal=0
+	}
+
+	history={
+		victory_points = { 3533 7}
+		victory_points = { 3536 2}
+		victory_points = { 3538 1}
+		
+		owner = BOR
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			3544 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = BOR
+	}
+
+	provinces={
+		3533 3534 3535 3536 3537 3538 3539 3540 3541 3542 3543 3544 3545 
+	}
+	local_supplies=0.0 
+}

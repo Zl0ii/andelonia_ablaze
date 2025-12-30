@@ -1,0 +1,880 @@
+characters = {
+	DRR_Balash_Region={
+		name="Balash Region"
+
+		
+		country_leader={
+			ideology=centrism
+			traits = { cabinet_crisis  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	DRR_Tuno_Pringe={
+		name="Tuno Pringe"
+
+		advisor={
+			slot = political_advisor
+			idea_token = DRR_Tuno_Pringe
+				traits = {	exiled 	}
+		}
+
+	}
+	DRR_Ragadeento_Veera={
+		name="Ragadeento Veera"
+
+		advisor={
+			slot = political_advisor
+			idea_token = DRR_Ragadeento_Veera
+				traits = {	staunch_constitutionalist 	}
+		}
+
+	}
+	DRR_Kumarcolos_Lagli={
+		name="Kumarcolos Lagli"
+
+		advisor={
+			slot = political_advisor
+			idea_token = DRR_Kumarcolos_Lagli
+				traits = {	humble 	}
+		}
+
+	}
+	DRR_Alexandrem_Rivali={
+		name="Alexandrem Rivali"
+
+		advisor={
+			slot = political_advisor
+			idea_token = DRR_Alexandrem_Rivali
+				traits = {	staunch_constitutionalist 	}
+		}
+
+	}
+	DRR_Siddhaveen_Veera={
+		name="Siddhaveen Veera"
+
+		advisor={
+			slot = political_advisor
+			idea_token = DRR_Siddhaveen_Veera
+				traits = {	exiled 	}
+		}
+
+	}
+	DRR_Chakalam_Rivali={
+		name="Chakalam Rivali"
+
+		advisor={
+			slot = political_advisor
+			idea_token = DRR_Chakalam_Rivali
+				traits = {	staunch_constitutionalist 	}
+		}
+
+	}
+	DRR_Mohichento_Choggia={
+		name="Mohichento Choggia"
+
+		advisor={
+			slot = army_chief
+			idea_token = DRR_Mohichento_Choggia
+				traits = {	army_chief_entrenchment_2 	}
+		}
+
+	}
+	DRR_Naveen_Kinai={
+		name="Naveen Kinai"
+
+		advisor={
+			slot = army_chief
+			idea_token = DRR_Naveen_Kinai
+				traits = {	army_chief_entrenchment_1 	}
+		}
+
+	}
+	DRR_Jose_Lagli={
+		name="Jose Lagli"
+
+		advisor={
+			slot = army_chief
+			idea_token = DRR_Jose_Lagli
+				traits = {	army_chief_morale_2 	}
+		}
+
+	}
+	DRR_Kumarun_Choggia={
+		name="Kumarun Choggia"
+
+		advisor={
+			slot = army_chief
+			idea_token = DRR_Kumarun_Choggia
+				traits = {	army_chief_entrenchment_1 	}
+		}
+
+	}
+	DRR_Mardo_Tohok={
+		name="Mardo Tohok"
+
+		advisor={
+			slot = navy_chief
+			idea_token = DRR_Mardo_Tohok
+				traits = {	navy_chief_commerce_raiding_1 	}
+		}
+
+	}
+	DRR_Varish_Lagli={
+		name="Varish Lagli"
+
+		advisor={
+			slot = navy_chief
+			idea_token = DRR_Varish_Lagli
+				traits = {	navy_chief_reform_1 	}
+		}
+
+	}
+	DRR_Popo_Mando={
+		name="Popo Mando"
+
+		advisor={
+			slot = air_chief
+			idea_token = DRR_Popo_Mando
+				traits = {	air_chief_old_guard_1 	}
+		}
+
+	}
+	DRR_Anil_Veera={
+		name="Anil Veera"
+
+		advisor={
+			slot = air_chief
+			idea_token = DRR_Anil_Veera
+				traits = {	air_chief_safety_2 	}
+		}
+
+	}
+	DRR_Mario_Lagli={
+		name="Mario Lagli"
+
+		advisor={
+			slot = high_command
+			idea_token = DRR_Mario_Lagli
+				traits = {	army_CombinedArms_2 	}
+		}
+
+	}
+	DRR_Arun_Lagli={
+		name="Arun Lagli"
+
+		advisor={
+			slot = high_command
+			idea_token = DRR_Arun_Lagli
+				traits = {	navy_submarine_2 	}
+		}
+
+	}
+	DRR_Karis_Lagli={
+		name="Karis Lagli"
+
+		advisor={
+			slot = high_command
+			idea_token = DRR_Karis_Lagli
+				traits = {	air_naval_strike_2 	}
+		}
+
+	}
+	DRR_Chakalam_Pringe={
+		name="Chakalam Pringe"
+
+		advisor={
+			slot = high_command
+			idea_token = DRR_Chakalam_Pringe
+				traits = {	navy_fleet_logistics_1 	}
+		}
+
+	}
+	DRR_Jean_Choggia={
+		name="Jean Choggia"
+
+		advisor={
+			slot = high_command
+			idea_token = DRR_Jean_Choggia
+				traits = {	navy_amphibious_assault_1 	}
+		}
+
+	}
+	DRR_Varish_Tohok={
+		name="Varish Tohok"
+
+		advisor={
+			slot = high_command
+			idea_token = DRR_Varish_Tohok
+				traits = {	army_armored_2 	}
+		}
+
+	}
+	DRR_Mari_Abbam={
+		name="Mari Abbam"
+
+		
+		country_leader={
+			ideology=rexism
+			traits = { warmonger  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	DRR_Jagadeepakan_Abbam={
+		name="Jagadeepakan Abbam"
+
+		advisor={
+			slot = political_advisor
+			idea_token = DRR_Jagadeepakan_Abbam
+				traits = {	autocratic_imperialist 	}
+		}
+
+	}
+	DRR_Jose_Abbam={
+		name="Jose Abbam"
+
+		advisor={
+			slot = political_advisor
+			idea_token = DRR_Jose_Abbam
+				traits = {	celebrity_junta_leader 	}
+		}
+
+	}
+	DRR_Alexandranek_Rivali={
+		name="Alexandranek Rivali"
+
+		advisor={
+			slot = political_advisor
+			idea_token = DRR_Alexandranek_Rivali
+				traits = {	spirit_of_genghis 	}
+		}
+
+	}
+	DRR_Pakanoj_Rivali={
+		name="Pakanoj Rivali"
+
+		advisor={
+			slot = political_advisor
+			idea_token = DRR_Pakanoj_Rivali
+				traits = {	warmonger 	}
+		}
+
+	}
+	DRR_Varish_Pringe={
+		name="Varish Pringe"
+
+		advisor={
+			slot = political_advisor
+			idea_token = DRR_Varish_Pringe
+				traits = {	archon_basileus 	}
+		}
+
+	}
+	DRR_Mattez_Rivali={
+		name="Mattez Rivali"
+
+		advisor={
+			slot = political_advisor
+			idea_token = DRR_Mattez_Rivali
+				traits = {	autocratic_imperialist 	}
+		}
+
+	}
+	DRR_Paolo_Region={
+		name="Paolo Region"
+
+		advisor={
+			slot = army_chief
+			idea_token = DRR_Paolo_Region
+				traits = {	army_chief_morale_1 	}
+		}
+
+	}
+	DRR_Mardo_Rivali={
+		name="Mardo Rivali"
+
+		advisor={
+			slot = army_chief
+			idea_token = DRR_Mardo_Rivali
+				traits = {	army_chief_organizational_2 	}
+		}
+
+	}
+	DRR_Jagadeepakan_Pringe={
+		name="Jagadeepakan Pringe"
+
+		advisor={
+			slot = army_chief
+			idea_token = DRR_Jagadeepakan_Pringe
+				traits = {	army_chief_defensive_2 	}
+		}
+
+	}
+	DRR_Jeandre_Region={
+		name="Jeandre Region"
+
+		advisor={
+			slot = army_chief
+			idea_token = DRR_Jeandre_Region
+				traits = {	army_chief_drill_1 	}
+		}
+
+	}
+	DRR_Satl_Pringe={
+		name="Satl Pringe"
+
+		advisor={
+			slot = navy_chief
+			idea_token = DRR_Satl_Pringe
+				traits = {	navy_chief_maneuver_1 	}
+		}
+
+	}
+	DRR_Ragadeento_Tohok={
+		name="Ragadeento Tohok"
+
+		advisor={
+			slot = navy_chief
+			idea_token = DRR_Ragadeento_Tohok
+				traits = {	navy_chief_old_guard_2 	}
+		}
+
+	}
+	DRR_Mardo_Abbam={
+		name="Mardo Abbam"
+
+		advisor={
+			slot = air_chief
+			idea_token = DRR_Mardo_Abbam
+				traits = {	air_chief_night_operations_2 	}
+		}
+
+	}
+	DRR_Chicto_Choggia={
+		name="Chicto Choggia"
+
+		advisor={
+			slot = air_chief
+			idea_token = DRR_Chicto_Choggia
+				traits = {	air_chief_safety_1 	}
+		}
+
+	}
+	DRR_Kumardo_Abbam={
+		name="Kumardo Abbam"
+
+		advisor={
+			slot = high_command
+			idea_token = DRR_Kumardo_Abbam
+				traits = {	army_entrenchment_2 	}
+		}
+
+	}
+	DRR_Mohil_Kinai={
+		name="Mohil Kinai"
+
+		advisor={
+			slot = high_command
+			idea_token = DRR_Mohil_Kinai
+				traits = {	army_CombinedArms_1 	}
+		}
+
+	}
+	DRR_Tecun_Tohok={
+		name="Tecun Tohok"
+
+		advisor={
+			slot = high_command
+			idea_token = DRR_Tecun_Tohok
+				traits = {	army_concealment_1 	}
+		}
+
+	}
+	DRR_Itzamona_Veera={
+		name="Itzamona Veera"
+
+		advisor={
+			slot = high_command
+			idea_token = DRR_Itzamona_Veera
+				traits = {	army_artillery_1 	}
+		}
+
+	}
+	DRR_Acatish_Choggia={
+		name="Acatish Choggia"
+
+		advisor={
+			slot = high_command
+			idea_token = DRR_Acatish_Choggia
+				traits = {	navy_naval_air_defense_2 	}
+		}
+
+	}
+	DRR_Brun_Choggia={
+		name="Brun Choggia"
+
+		advisor={
+			slot = high_command
+			idea_token = DRR_Brun_Choggia
+				traits = {	air_pilot_training_2 	}
+		}
+
+	}
+	DRR_Chandrano_Mando={
+		name="Chandrano Mando"
+
+		
+		country_leader={
+			ideology=stalinism
+			traits = { mastermind_code_cracker  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	DRR_Varco_Pringe={
+		name="Varco Pringe"
+
+		advisor={
+			slot = political_advisor
+			idea_token = DRR_Varco_Pringe
+				traits = {	political_dancer 	}
+		}
+
+	}
+	DRR_Nicarcolas_Mando={
+		name="Nicarcolas Mando"
+
+		advisor={
+			slot = political_advisor
+			idea_token = DRR_Nicarcolas_Mando
+				traits = {	political_dancer 	}
+		}
+
+	}
+	DRR_Nacarun_Veera={
+		name="Nacarun Veera"
+
+		advisor={
+			slot = political_advisor
+			idea_token = DRR_Nacarun_Veera
+				traits = {	infirm 	}
+		}
+
+	}
+	DRR_Jean_Veera={
+		name="Jean Veera"
+
+		advisor={
+			slot = political_advisor
+			idea_token = DRR_Jean_Veera
+				traits = {	mastermind_code_cracker 	}
+		}
+
+	}
+	DRR_Ragadeento_Pringe={
+		name="Ragadeento Pringe"
+
+		advisor={
+			slot = political_advisor
+			idea_token = DRR_Ragadeento_Pringe
+				traits = {	infirm 	}
+		}
+
+	}
+	DRR_Chicto_Veera={
+		name="Chicto Veera"
+
+		advisor={
+			slot = political_advisor
+			idea_token = DRR_Chicto_Veera
+				traits = {	polemarch 	}
+		}
+
+	}
+	DRR_Pran_Rivali={
+		name="Pran Rivali"
+
+		advisor={
+			slot = army_chief
+			idea_token = DRR_Pran_Rivali
+				traits = {	army_chief_offensive_1 	}
+		}
+
+	}
+	DRR_Naveen_Tohok={
+		name="Naveen Tohok"
+
+		advisor={
+			slot = army_chief
+			idea_token = DRR_Naveen_Tohok
+				traits = {	army_chief_entrenchment_2 	}
+		}
+
+	}
+	DRR_Bacomo_Abbam={
+		name="Bacomo Abbam"
+
+		advisor={
+			slot = army_chief
+			idea_token = DRR_Bacomo_Abbam
+				traits = {	army_chief_reform_1 	}
+		}
+
+	}
+	DRR_Arun_Kinai={
+		name="Arun Kinai"
+
+		advisor={
+			slot = army_chief
+			idea_token = DRR_Arun_Kinai
+				traits = {	army_chief_defensive_1 	}
+		}
+
+	}
+	DRR_Tecun_Choggia={
+		name="Tecun Choggia"
+
+		advisor={
+			slot = navy_chief
+			idea_token = DRR_Tecun_Choggia
+				traits = {	navy_chief_old_guard_2 	}
+		}
+
+	}
+	DRR_Acatish_Pringe={
+		name="Acatish Pringe"
+
+		advisor={
+			slot = navy_chief
+			idea_token = DRR_Acatish_Pringe
+				traits = {	navy_chief_commerce_raiding_2 	}
+		}
+
+	}
+	DRR_Jeandre_Mando={
+		name="Jeandre Mando"
+
+		advisor={
+			slot = air_chief
+			idea_token = DRR_Jeandre_Mando
+				traits = {	air_chief_reform_2 	}
+		}
+
+	}
+	DRR_Steo_Rivali={
+		name="Steo Rivali"
+
+		advisor={
+			slot = air_chief
+			idea_token = DRR_Steo_Rivali
+				traits = {	air_chief_reform_2 	}
+		}
+
+	}
+	DRR_Jean_Abbam={
+		name="Jean Abbam"
+
+		advisor={
+			slot = high_command
+			idea_token = DRR_Jean_Abbam
+				traits = {	army_regrouping_2 	}
+		}
+
+	}
+	DRR_Andre_Abbam={
+		name="Andre Abbam"
+
+		advisor={
+			slot = high_command
+			idea_token = DRR_Andre_Abbam
+				traits = {	army_armored_1 	}
+		}
+
+	}
+	DRR_Rajiv_Kinai={
+		name="Rajiv Kinai"
+
+		advisor={
+			slot = high_command
+			idea_token = DRR_Rajiv_Kinai
+				traits = {	army_regrouping_1 	}
+		}
+
+	}
+	DRR_Mattez_Veera={
+		name="Mattez Veera"
+
+		advisor={
+			slot = high_command
+			idea_token = DRR_Mattez_Veera
+				traits = {	army_commando_2 	}
+		}
+
+	}
+	DRR_Brun_Rivali={
+		name="Brun Rivali"
+
+		advisor={
+			slot = high_command
+			idea_token = DRR_Brun_Rivali
+				traits = {	army_armored_2 	}
+		}
+
+	}
+	DRR_Kumarcolos_Kinai={
+		name="Kumarcolos Kinai"
+
+		advisor={
+			slot = high_command
+			idea_token = DRR_Kumarcolos_Kinai
+				traits = {	navy_naval_air_defense_2 	}
+		}
+
+	}
+	DRR_Mohil_Region={
+		name="Mohil Region"
+
+		
+		country_leader={
+			ideology=socialism
+			traits = { rearmer  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	DRR_Ganod_Pringe={
+		name="Ganod Pringe"
+
+		advisor={
+			slot = political_advisor
+			idea_token = DRR_Ganod_Pringe
+				traits = {	the_young_magnate 	}
+		}
+
+	}
+	DRR_Pranesh_Kinai={
+		name="Pranesh Kinai"
+
+		advisor={
+			slot = political_advisor
+			idea_token = DRR_Pranesh_Kinai
+				traits = {	liberal_democratic_paragon 	}
+		}
+
+	}
+	DRR_Arun_Mando={
+		name="Arun Mando"
+
+		advisor={
+			slot = political_advisor
+			idea_token = DRR_Arun_Mando
+				traits = {	first_lady 	}
+		}
+
+	}
+	DRR_Andre_Rivali={
+		name="Andre Rivali"
+
+		advisor={
+			slot = political_advisor
+			idea_token = DRR_Andre_Rivali
+				traits = {	chamberlain_appeaser 	}
+		}
+
+	}
+	DRR_Karis_Abbam={
+		name="Karis Abbam"
+
+		advisor={
+			slot = political_advisor
+			idea_token = DRR_Karis_Abbam
+				traits = {	staunch_constitutionalist 	}
+		}
+
+	}
+	DRR_Brun_Region={
+		name="Brun Region"
+
+		advisor={
+			slot = political_advisor
+			idea_token = DRR_Brun_Region
+				traits = {	british_bulldog 	}
+		}
+
+	}
+	DRR_Kumarun_Lagli={
+		name="Kumarun Lagli"
+
+		advisor={
+			slot = army_chief
+			idea_token = DRR_Kumarun_Lagli
+				traits = {	army_chief_drill_1 	}
+		}
+
+	}
+	DRR_Leona_Tohok={
+		name="Leona Tohok"
+
+		advisor={
+			slot = army_chief
+			idea_token = DRR_Leona_Tohok
+				traits = {	army_chief_maneuver_2 	}
+		}
+
+	}
+	DRR_Ragadeento_Choggia={
+		name="Ragadeento Choggia"
+
+		advisor={
+			slot = army_chief
+			idea_token = DRR_Ragadeento_Choggia
+				traits = {	army_chief_planning_2 	}
+		}
+
+	}
+	DRR_Enzo_Choggia={
+		name="Enzo Choggia"
+
+		advisor={
+			slot = army_chief
+			idea_token = DRR_Enzo_Choggia
+				traits = {	army_chief_drill_1 	}
+		}
+
+	}
+	DRR_Jose_Choggia={
+		name="Jose Choggia"
+
+		advisor={
+			slot = navy_chief
+			idea_token = DRR_Jose_Choggia
+				traits = {	navy_chief_commerce_raiding_1 	}
+		}
+
+	}
+	DRR_Anio_Pringe={
+		name="Anio Pringe"
+
+		advisor={
+			slot = navy_chief
+			idea_token = DRR_Anio_Pringe
+				traits = {	navy_chief_naval_aviation_1 	}
+		}
+
+	}
+	DRR_Anil_Rivali={
+		name="Anil Rivali"
+
+		advisor={
+			slot = air_chief
+			idea_token = DRR_Anil_Rivali
+				traits = {	air_chief_old_guard_1 	}
+		}
+
+	}
+	DRR_Steo_Pringe={
+		name="Steo Pringe"
+
+		advisor={
+			slot = air_chief
+			idea_token = DRR_Steo_Pringe
+				traits = {	air_chief_old_guard_2 	}
+		}
+
+	}
+	DRR_Acatish_Mando={
+		name="Acatish Mando"
+
+		advisor={
+			slot = high_command
+			idea_token = DRR_Acatish_Mando
+				traits = {	army_logistics_1 	}
+		}
+
+	}
+	DRR_Varun_Region={
+		name="Varun Region"
+
+		advisor={
+			slot = high_command
+			idea_token = DRR_Varun_Region
+				traits = {	navy_carrier_2 	}
+		}
+
+	}
+	DRR_Jagadeepakan_Region={
+		name="Jagadeepakan Region"
+
+		advisor={
+			slot = high_command
+			idea_token = DRR_Jagadeepakan_Region
+				traits = {	air_pilot_training_2 	}
+		}
+
+	}
+	DRR_Prem_Pringe={
+		name="Prem Pringe"
+
+		advisor={
+			slot = high_command
+			idea_token = DRR_Prem_Pringe
+				traits = {	air_bomber_interception_1 	}
+		}
+
+	}
+	DRR_Pakanoj_Pringe={
+		name="Pakanoj Pringe"
+
+		advisor={
+			slot = high_command
+			idea_token = DRR_Pakanoj_Pringe
+				traits = {	army_commando_2 	}
+		}
+
+	}
+	DRR_Pranesh_Choggia={
+		name="Pranesh Choggia"
+
+		advisor={
+			slot = high_command
+			idea_token = DRR_Pranesh_Choggia
+				traits = {	navy_capital_ship_1 	}
+		}
+
+	}
+	DRR_Martor_Choggia={
+		name="Martor Choggia"
+
+		advisor={
+			slot = theorist
+			idea_token = DRR_Martor_Choggia
+				traits = {	military_theorist 	}
+		}
+
+	}
+	DRR_Pranesh_Pringe={
+		name="Pranesh Pringe"
+
+		advisor={
+			slot = theorist
+			idea_token = DRR_Pranesh_Pringe
+				traits = {	naval_theorist 	}
+		}
+
+	}
+	DRR_Itzamona_Abbam={
+		name="Itzamona Abbam"
+
+		advisor={
+			slot = theorist
+			idea_token = DRR_Itzamona_Abbam
+				traits = {	air_warfare_theorist 	}
+		}
+
+	}
+}

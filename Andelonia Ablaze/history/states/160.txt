@@ -1,0 +1,37 @@
+
+state={
+	id=160
+	name="STATE_160"
+	manpower = 3371291
+	
+	state_category = town
+	resources={
+		aluminium=1
+		chromium=2
+		oil=1
+		rubber=0
+		steel=2
+		tungsten=1
+		coal=0
+	}
+
+	history={
+		victory_points = { 3217 15}
+		
+		owner = SAR
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = SAR
+	}
+
+	provinces={
+		3211 3212 3213 3214 3215 3216 3217 3218 3219 3220 3221 3222 3223 3224 3225 3226 3227 3228 3229 3230 3231 3232 3233 3234 3235 3236 3237 3238 
+	}
+	local_supplies=0.0 
+}

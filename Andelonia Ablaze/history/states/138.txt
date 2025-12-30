@@ -1,0 +1,40 @@
+
+state={
+	id=138
+	name="STATE_138"
+	manpower = 114022
+	
+	state_category = small_island
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 2817 1}
+		
+		owner = SAR
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			2817 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = SAR
+	}
+
+	provinces={
+		2817 
+	}
+	local_supplies=0.0 
+}

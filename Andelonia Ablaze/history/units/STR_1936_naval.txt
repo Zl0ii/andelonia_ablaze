@@ -1,0 +1,27 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Straera Fleet"			
+		naval_base = 1027
+		task_force = {
+			name = "Straera Fleet"
+			location = 1027
+			
+						ship = { name = "Paadanistrum" definition = battle_cruiser equipment = { battle_cruiser_2 = { amount = 1 owner = STR version_name = "Paadanistrum Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

@@ -1,0 +1,38 @@
+
+state={
+	id=592
+	name="STATE_592"
+	manpower = 1130965
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 11431 4}
+		victory_points = { 11433 1}
+		
+		owner = KAS
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = KAS
+	}
+
+	provinces={
+		11429 11430 11431 11432 11433 11434 
+	}
+	local_supplies=0.0 
+}

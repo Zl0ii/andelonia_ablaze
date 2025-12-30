@@ -1,0 +1,38 @@
+
+state={
+	id=508
+	name="STATE_508"
+	manpower = 1725803
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=25
+	}
+
+	history={
+		victory_points = { 9912 1}
+		victory_points = { 9916 7}
+		
+		owner = KON
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = KON
+	}
+
+	provinces={
+		9911 9912 9913 9914 9915 9916 9917 9918 9919 9920 
+	}
+	local_supplies=0.0 
+}

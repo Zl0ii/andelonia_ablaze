@@ -1,0 +1,41 @@
+
+state={
+	id=93
+	name="STATE_93"
+	manpower = 4838148
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 1965 23}
+		victory_points = { 1967 2}
+		
+		owner = DRR
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 1
+			
+			1962 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = DRR
+	}
+
+	provinces={
+		1944 1945 1946 1947 1948 1949 1950 1951 1952 1953 1954 1955 1956 1957 1958 1959 1960 1961 1962 1963 1964 1965 1966 1967 1968 1969 1970 1971 1972 1973 1974 
+	}
+	local_supplies=0.0 
+}

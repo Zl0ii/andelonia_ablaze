@@ -1,0 +1,42 @@
+
+state={
+	id=420
+	name="STATE_420"
+	manpower = 6002766
+	
+	state_category = large_city
+	resources={
+		aluminium=1
+		chromium=1
+		oil=0
+		rubber=0
+		steel=3
+		tungsten=1
+		coal=0
+	}
+
+	history={
+		victory_points = { 8199 21}
+		victory_points = { 8200 2}
+		victory_points = { 8208 8}
+		
+		owner = REL
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 3
+			
+			8222 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = REL
+	}
+
+	provinces={
+		8186 8187 8188 8189 8190 8191 8192 8193 8194 8195 8196 8197 8198 8199 8200 8201 8202 8203 8204 8205 8206 8207 8208 8209 8210 8211 8212 8213 8214 8215 8216 8217 8218 8219 8220 8221 8222 8223 8224 
+	}
+	local_supplies=0.0 
+}

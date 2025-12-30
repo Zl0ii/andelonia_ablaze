@@ -1,0 +1,40 @@
+
+state={
+	id=604
+	name="STATE_604"
+	manpower = 1120960
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 11589 5}
+		
+		owner = KAS
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 0
+			
+			11588 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = KAS
+	}
+
+	provinces={
+		11585 11586 11587 11588 11589 11590 
+	}
+	local_supplies=0.0 
+}

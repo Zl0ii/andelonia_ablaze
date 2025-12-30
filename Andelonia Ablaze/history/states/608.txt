@@ -1,0 +1,42 @@
+
+state={
+	id=608
+	name="STATE_608"
+	manpower = 3447862
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 11626 9}
+		victory_points = { 11628 1}
+		victory_points = { 11637 8}
+		
+		owner = FER
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			11629 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = FER
+	}
+
+	provinces={
+		11621 11622 11623 11624 11625 11626 11627 11628 11629 11630 11631 11632 11633 11634 11635 11636 11637 11638 11639 11640 11641 
+	}
+	local_supplies=0.0 
+}

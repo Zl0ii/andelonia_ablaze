@@ -1,0 +1,38 @@
+
+state={
+	id=469
+	name="STATE_469"
+	manpower = 2011945
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 9104 5}
+		victory_points = { 9110 5}
+		
+		owner = KHN
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = KHN
+	}
+
+	provinces={
+		9101 9102 9103 9104 9105 9106 9107 9108 9109 9110 9111 9112 
+	}
+	local_supplies=0.0 
+}

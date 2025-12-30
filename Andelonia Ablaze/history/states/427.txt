@@ -1,0 +1,38 @@
+
+state={
+	id=427
+	name="STATE_427"
+	manpower = 1597737
+	
+	state_category = rural
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=1
+		coal=0
+	}
+
+	history={
+		victory_points = { 8329 6}
+		victory_points = { 8335 1}
+		
+		owner = KHN
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = KHN
+	}
+
+	provinces={
+		8329 8330 8331 8332 8333 8334 8335 8336 8337 8338 
+	}
+	local_supplies=0.0 
+}

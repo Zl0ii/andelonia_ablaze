@@ -1,0 +1,39 @@
+
+state={
+	id=146
+	name="STATE_146"
+	manpower = 3732704
+	
+	state_category = city
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=2
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 2963 2}
+		victory_points = { 2967 16}
+		victory_points = { 2976 1}
+		
+		owner = DRR
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = DRR
+	}
+
+	provinces={
+		2955 2956 2957 2958 2959 2960 2961 2962 2963 2964 2965 2966 2967 2968 2969 2970 2971 2972 2973 2974 2975 2976 2977 2978 
+	}
+	local_supplies=0.0 
+}

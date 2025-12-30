@@ -1,0 +1,38 @@
+
+state={
+	id=40
+	name="STATE_40"
+	manpower = 1484679
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=1
+		coal=0
+	}
+
+	history={
+		victory_points = { 859 3}
+		victory_points = { 860 2}
+		
+		owner = SAR
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = SAR
+	}
+
+	provinces={
+		857 858 859 860 861 862 863 864 865 866 867 868 869 870 871 
+	}
+	local_supplies=0.0 
+}

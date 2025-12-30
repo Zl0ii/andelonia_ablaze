@@ -1,0 +1,41 @@
+
+state={
+	id=287
+	name="STATE_287"
+	manpower = 1262065
+	
+	state_category = pastoral
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 5645 2}
+		victory_points = { 5648 1}
+		
+		owner = PON
+		buildings = {
+			infrastructure = 1
+			air_base = 2
+			arms_factory = 0
+			industrial_complex = 0
+			
+			5653 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = PON
+	}
+
+	provinces={
+		5642 5643 5644 5645 5646 5647 5648 5649 5650 5651 5652 5653 5654 5655 5656 5657 5658 5659 5660 
+	}
+	local_supplies=0.0 
+}

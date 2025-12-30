@@ -1,0 +1,38 @@
+
+state={
+	id=255
+	name="STATE_255"
+	manpower = 2285412
+	
+	state_category = town
+	resources={
+		aluminium=1
+		chromium=1
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=1
+		coal=0
+	}
+
+	history={
+		victory_points = { 5045 5}
+		victory_points = { 5048 5}
+		
+		owner = ADR
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = ADR
+	}
+
+	provinces={
+		5042 5043 5044 5045 5046 5047 5048 5049 5050 5051 5052 5053 5054 5055 5056 
+	}
+	local_supplies=0.0 
+}

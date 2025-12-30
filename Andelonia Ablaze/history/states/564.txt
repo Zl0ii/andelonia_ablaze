@@ -1,0 +1,40 @@
+
+state={
+	id=564
+	name="STATE_564"
+	manpower = 2706018
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 10971 1}
+		victory_points = { 10972 2}
+		victory_points = { 10973 9}
+		victory_points = { 10974 2}
+		
+		owner = BOR
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = BOR
+	}
+
+	provinces={
+		10969 10970 10971 10972 10973 10974 10975 10976 10977 10978 10979 10980 10981 10982 10983 10984 10985 10986 
+	}
+	local_supplies=0.0 
+}

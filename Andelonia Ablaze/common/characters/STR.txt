@@ -1,0 +1,880 @@
+characters = {
+	STR_Valerish_Velamunum={
+		name="Valerish Velamunum"
+
+		
+		country_leader={
+			ideology=centrism
+			traits = { exiled  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	STR_Vitus_Paadanistrum={
+		name="Vitus Paadanistrum"
+
+		advisor={
+			slot = political_advisor
+			idea_token = STR_Vitus_Paadanistrum
+				traits = {	exiled 	}
+		}
+
+	}
+	STR_Julus_Arbilaetas={
+		name="Julus Arbilaetas"
+
+		advisor={
+			slot = political_advisor
+			idea_token = STR_Julus_Arbilaetas
+				traits = {	inexperienced_monarch 	}
+		}
+
+	}
+	STR_Tracchus_Velamunum={
+		name="Tracchus Velamunum"
+
+		advisor={
+			slot = political_advisor
+			idea_token = STR_Tracchus_Velamunum
+				traits = {	cabinet_crisis 	}
+		}
+
+	}
+	STR_Scaeveesh_Poetor={
+		name="Scaeveesh Poetor"
+
+		advisor={
+			slot = political_advisor
+			idea_token = STR_Scaeveesh_Poetor
+				traits = {	humble 	}
+		}
+
+	}
+	STR_Massius_Fernit={
+		name="Massius Fernit"
+
+		advisor={
+			slot = political_advisor
+			idea_token = STR_Massius_Fernit
+				traits = {	exiled 	}
+		}
+
+	}
+	STR_Atticus_Velamunum={
+		name="Atticus Velamunum"
+
+		advisor={
+			slot = political_advisor
+			idea_token = STR_Atticus_Velamunum
+				traits = {	exiled 	}
+		}
+
+	}
+	STR_Caius_Paadanistrum={
+		name="Caius Paadanistrum"
+
+		advisor={
+			slot = army_chief
+			idea_token = STR_Caius_Paadanistrum
+				traits = {	army_chief_defensive_2 	}
+		}
+
+	}
+	STR_Varen_Arbilaetas={
+		name="Varen Arbilaetas"
+
+		advisor={
+			slot = army_chief
+			idea_token = STR_Varen_Arbilaetas
+				traits = {	army_chief_organizational_1 	}
+		}
+
+	}
+	STR_Sevola_Ametz={
+		name="Sevola Ametz"
+
+		advisor={
+			slot = army_chief
+			idea_token = STR_Sevola_Ametz
+				traits = {	army_chief_offensive_2 	}
+		}
+
+	}
+	STR_Faus_Ametz={
+		name="Faus Ametz"
+
+		advisor={
+			slot = army_chief
+			idea_token = STR_Faus_Ametz
+				traits = {	army_chief_planning_2 	}
+		}
+
+	}
+	STR_Rajivi_Fernit={
+		name="Rajivi Fernit"
+
+		advisor={
+			slot = navy_chief
+			idea_token = STR_Rajivi_Fernit
+				traits = {	navy_chief_reform_1 	}
+		}
+
+	}
+	STR_Sextus_Conus={
+		name="Sextus Conus"
+
+		advisor={
+			slot = navy_chief
+			idea_token = STR_Sextus_Conus
+				traits = {	navy_chief_commerce_raiding_1 	}
+		}
+
+	}
+	STR_Krissiustus_Conus={
+		name="Krissiustus Conus"
+
+		advisor={
+			slot = air_chief
+			idea_token = STR_Krissiustus_Conus
+				traits = {	air_chief_old_guard_1 	}
+		}
+
+	}
+	STR_Rajivi_Ametz={
+		name="Rajivi Ametz"
+
+		advisor={
+			slot = air_chief
+			idea_token = STR_Rajivi_Ametz
+				traits = {	air_chief_ground_support_2 	}
+		}
+
+	}
+	STR_Dintonius_Fernit={
+		name="Dintonius Fernit"
+
+		advisor={
+			slot = high_command
+			idea_token = STR_Dintonius_Fernit
+				traits = {	army_infantry_2 	}
+		}
+
+	}
+	STR_Urbanus_Conus={
+		name="Urbanus Conus"
+
+		advisor={
+			slot = high_command
+			idea_token = STR_Urbanus_Conus
+				traits = {	navy_carrier_1 	}
+		}
+
+	}
+	STR_Scaevola_Ametz={
+		name="Scaevola Ametz"
+
+		advisor={
+			slot = high_command
+			idea_token = STR_Scaevola_Ametz
+				traits = {	navy_screen_1 	}
+		}
+
+	}
+	STR_Caianus_Poetor={
+		name="Caianus Poetor"
+
+		advisor={
+			slot = high_command
+			idea_token = STR_Caianus_Poetor
+				traits = {	army_entrenchment_2 	}
+		}
+
+	}
+	STR_Raveeshna_Paadanistrum={
+		name="Raveeshna Paadanistrum"
+
+		advisor={
+			slot = high_command
+			idea_token = STR_Raveeshna_Paadanistrum
+				traits = {	navy_naval_air_defense_1 	}
+		}
+
+	}
+	STR_Nerimokranus_Pris={
+		name="Nerimokranus Pris"
+
+		advisor={
+			slot = high_command
+			idea_token = STR_Nerimokranus_Pris
+				traits = {	navy_capital_ship_1 	}
+		}
+
+	}
+	STR_Nonius_Fernit={
+		name="Nonius Fernit"
+
+		
+		country_leader={
+			ideology=nazism
+			traits = { inexperienced_imperialist  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	STR_Atticus_Pris={
+		name="Atticus Pris"
+
+		advisor={
+			slot = political_advisor
+			idea_token = STR_Atticus_Pris
+				traits = {	collaborator_king 	}
+		}
+
+	}
+	STR_Ragadeepak_Paadanistrum={
+		name="Ragadeepak Paadanistrum"
+
+		advisor={
+			slot = political_advisor
+			idea_token = STR_Ragadeepak_Paadanistrum
+				traits = {	warmonger 	}
+		}
+
+	}
+	STR_Asellus_Histor={
+		name="Asellus Histor"
+
+		advisor={
+			slot = political_advisor
+			idea_token = STR_Asellus_Histor
+				traits = {	basileus 	}
+		}
+
+	}
+	STR_Vitus_Histor={
+		name="Vitus Histor"
+
+		advisor={
+			slot = political_advisor
+			idea_token = STR_Vitus_Histor
+				traits = {	autokrator 	}
+		}
+
+	}
+	STR_Valerish_Pris={
+		name="Valerish Pris"
+
+		advisor={
+			slot = political_advisor
+			idea_token = STR_Valerish_Pris
+				traits = {	collaborator_king 	}
+		}
+
+	}
+	STR_Taresh_Poetor={
+		name="Taresh Poetor"
+
+		advisor={
+			slot = political_advisor
+			idea_token = STR_Taresh_Poetor
+				traits = {	collaborator_king 	}
+		}
+
+	}
+	STR_Liviustus_Poetor={
+		name="Liviustus Poetor"
+
+		advisor={
+			slot = army_chief
+			idea_token = STR_Liviustus_Poetor
+				traits = {	army_chief_entrenchment_2 	}
+		}
+
+	}
+	STR_Valerus_Velamunum={
+		name="Valerus Velamunum"
+
+		advisor={
+			slot = army_chief
+			idea_token = STR_Valerus_Velamunum
+				traits = {	army_chief_offensive_1 	}
+		}
+
+	}
+	STR_Caianus_Velamunum={
+		name="Caianus Velamunum"
+
+		advisor={
+			slot = army_chief
+			idea_token = STR_Caianus_Velamunum
+				traits = {	army_chief_defensive_2 	}
+		}
+
+	}
+	STR_Raveeshna_Ametz={
+		name="Raveeshna Ametz"
+
+		advisor={
+			slot = army_chief
+			idea_token = STR_Raveeshna_Ametz
+				traits = {	army_chief_defensive_2 	}
+		}
+
+	}
+	STR_Suresh_Paadanistrum={
+		name="Suresh Paadanistrum"
+
+		advisor={
+			slot = navy_chief
+			idea_token = STR_Suresh_Paadanistrum
+				traits = {	navy_chief_decisive_battle_1 	}
+		}
+
+	}
+	STR_Titius_Pest={
+		name="Titius Pest"
+
+		advisor={
+			slot = navy_chief
+			idea_token = STR_Titius_Pest
+				traits = {	navy_chief_reform_1 	}
+		}
+
+	}
+	STR_Moharth_Poetor={
+		name="Moharth Poetor"
+
+		advisor={
+			slot = air_chief
+			idea_token = STR_Moharth_Poetor
+				traits = {	air_chief_ground_support_1 	}
+		}
+
+	}
+	STR_Nerimokranus_Pest={
+		name="Nerimokranus Pest"
+
+		advisor={
+			slot = air_chief
+			idea_token = STR_Nerimokranus_Pest
+				traits = {	air_chief_night_operations_1 	}
+		}
+
+	}
+	STR_Krius_Paadanistrum={
+		name="Krius Paadanistrum"
+
+		advisor={
+			slot = high_command
+			idea_token = STR_Krius_Paadanistrum
+				traits = {	army_cavalry_2 	}
+		}
+
+	}
+	STR_Scaevola_Fernit={
+		name="Scaevola Fernit"
+
+		advisor={
+			slot = high_command
+			idea_token = STR_Scaevola_Fernit
+				traits = {	army_artillery_1 	}
+		}
+
+	}
+	STR_Vinus_Conus={
+		name="Vinus Conus"
+
+		advisor={
+			slot = high_command
+			idea_token = STR_Vinus_Conus
+				traits = {	army_entrenchment_2 	}
+		}
+
+	}
+	STR_Amokrandraid_Histor={
+		name="Amokrandraid Histor"
+
+		advisor={
+			slot = high_command
+			idea_token = STR_Amokrandraid_Histor
+				traits = {	air_pilot_training_1 	}
+		}
+
+	}
+	STR_Yubandraian_Pest={
+		name="Yubandraian Pest"
+
+		advisor={
+			slot = high_command
+			idea_token = STR_Yubandraian_Pest
+				traits = {	air_air_superiority_1 	}
+		}
+
+	}
+	STR_Vinus_Paadanistrum={
+		name="Vinus Paadanistrum"
+
+		advisor={
+			slot = high_command
+			idea_token = STR_Vinus_Paadanistrum
+				traits = {	army_concealment_2 	}
+		}
+
+	}
+	STR_Suri_Velamunum={
+		name="Suri Velamunum"
+
+		
+		country_leader={
+			ideology=anarchist_communism
+			traits = { political_dancer  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	STR_Rajesh_Pris={
+		name="Rajesh Pris"
+
+		advisor={
+			slot = political_advisor
+			idea_token = STR_Rajesh_Pris
+				traits = {	indomitable_perseverance 	}
+		}
+
+	}
+	STR_Yanlius_Pris={
+		name="Yanlius Pris"
+
+		advisor={
+			slot = political_advisor
+			idea_token = STR_Yanlius_Pris
+				traits = {	mastermind_code_cracker 	}
+		}
+
+	}
+	STR_Amarish_Ametz={
+		name="Amarish Ametz"
+
+		advisor={
+			slot = political_advisor
+			idea_token = STR_Amarish_Ametz
+				traits = {	infirm 	}
+		}
+
+	}
+	STR_Krissiustus_Velamunum={
+		name="Krissiustus Velamunum"
+
+		advisor={
+			slot = political_advisor
+			idea_token = STR_Krissiustus_Velamunum
+				traits = {	mastermind_code_cracker 	}
+		}
+
+	}
+	STR_Caianus_Paadanistrum={
+		name="Caianus Paadanistrum"
+
+		advisor={
+			slot = political_advisor
+			idea_token = STR_Caianus_Paadanistrum
+				traits = {	infirm 	}
+		}
+
+	}
+	STR_Kumarimus_Velamunum={
+		name="Kumarimus Velamunum"
+
+		advisor={
+			slot = political_advisor
+			idea_token = STR_Kumarimus_Velamunum
+				traits = {	reluctant_stalinist 	}
+		}
+
+	}
+	STR_Vijay_Histor={
+		name="Vijay Histor"
+
+		advisor={
+			slot = army_chief
+			idea_token = STR_Vijay_Histor
+				traits = {	army_chief_maneuver_2 	}
+		}
+
+	}
+	STR_Suri_Arbilaetas={
+		name="Suri Arbilaetas"
+
+		advisor={
+			slot = army_chief
+			idea_token = STR_Suri_Arbilaetas
+				traits = {	army_chief_planning_1 	}
+		}
+
+	}
+	STR_Mokracchus_Velamunum={
+		name="Mokracchus Velamunum"
+
+		advisor={
+			slot = army_chief
+			idea_token = STR_Mokracchus_Velamunum
+				traits = {	army_chief_defensive_1 	}
+		}
+
+	}
+	STR_Vala_Histor={
+		name="Vala Histor"
+
+		advisor={
+			slot = army_chief
+			idea_token = STR_Vala_Histor
+				traits = {	army_chief_planning_1 	}
+		}
+
+	}
+	STR_Fabius_Arbilaetas={
+		name="Fabius Arbilaetas"
+
+		advisor={
+			slot = navy_chief
+			idea_token = STR_Fabius_Arbilaetas
+				traits = {	navy_chief_commerce_raiding_1 	}
+		}
+
+	}
+	STR_Caius_Conus={
+		name="Caius Conus"
+
+		advisor={
+			slot = navy_chief
+			idea_token = STR_Caius_Conus
+				traits = {	navy_chief_naval_aviation_2 	}
+		}
+
+	}
+	STR_Kumadeeshna_Velamunum={
+		name="Kumadeeshna Velamunum"
+
+		advisor={
+			slot = air_chief
+			idea_token = STR_Kumadeeshna_Velamunum
+				traits = {	air_chief_old_guard_2 	}
+		}
+
+	}
+	STR_Taresh_Ametz={
+		name="Taresh Ametz"
+
+		advisor={
+			slot = air_chief
+			idea_token = STR_Taresh_Ametz
+				traits = {	air_chief_night_operations_2 	}
+		}
+
+	}
+	STR_Scaevola_Paadanistrum={
+		name="Scaevola Paadanistrum"
+
+		advisor={
+			slot = high_command
+			idea_token = STR_Scaevola_Paadanistrum
+				traits = {	air_naval_strike_2 	}
+		}
+
+	}
+	STR_Prius_Arbilaetas={
+		name="Prius Arbilaetas"
+
+		advisor={
+			slot = high_command
+			idea_token = STR_Prius_Arbilaetas
+				traits = {	navy_capital_ship_1 	}
+		}
+
+	}
+	STR_Valerish_Histor={
+		name="Valerish Histor"
+
+		advisor={
+			slot = high_command
+			idea_token = STR_Valerish_Histor
+				traits = {	navy_anti_submarine_1 	}
+		}
+
+	}
+	STR_Nerimokranus_Velamunum={
+		name="Nerimokranus Velamunum"
+
+		advisor={
+			slot = high_command
+			idea_token = STR_Nerimokranus_Velamunum
+				traits = {	navy_naval_air_defense_2 	}
+		}
+
+	}
+	STR_Julus_Conus={
+		name="Julus Conus"
+
+		advisor={
+			slot = high_command
+			idea_token = STR_Julus_Conus
+				traits = {	army_cavalry_1 	}
+		}
+
+	}
+	STR_Yanlius_Paadanistrum={
+		name="Yanlius Paadanistrum"
+
+		advisor={
+			slot = high_command
+			idea_token = STR_Yanlius_Paadanistrum
+				traits = {	air_pilot_training_2 	}
+		}
+
+	}
+	STR_Rajesh_Pest={
+		name="Rajesh Pest"
+
+		
+		country_leader={
+			ideology=conservatism
+			traits = { famous_aviator  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	STR_Nerish_Ametz={
+		name="Nerish Ametz"
+
+		advisor={
+			slot = political_advisor
+			idea_token = STR_Nerish_Ametz
+				traits = {	chamberlain_appeaser 	}
+		}
+
+	}
+	STR_Urbanlius_Ametz={
+		name="Urbanlius Ametz"
+
+		advisor={
+			slot = political_advisor
+			idea_token = STR_Urbanlius_Ametz
+				traits = {	liberal_democratic_paragon 	}
+		}
+
+	}
+	STR_Mimus_Conus={
+		name="Mimus Conus"
+
+		advisor={
+			slot = political_advisor
+			idea_token = STR_Mimus_Conus
+				traits = {	the_banker 	}
+		}
+
+	}
+	STR_Zirimus_Histor={
+		name="Zirimus Histor"
+
+		advisor={
+			slot = political_advisor
+			idea_token = STR_Zirimus_Histor
+				traits = {	infirm 	}
+		}
+
+	}
+	STR_Urbanelmader_Fernit={
+		name="Urbanelmader Fernit"
+
+		advisor={
+			slot = political_advisor
+			idea_token = STR_Urbanelmader_Fernit
+				traits = {	rearmer 	}
+		}
+
+	}
+	STR_Krius_Histor={
+		name="Krius Histor"
+
+		advisor={
+			slot = political_advisor
+			idea_token = STR_Krius_Histor
+				traits = {	first_lady 	}
+		}
+
+	}
+	STR_Moharth_Velamunum={
+		name="Moharth Velamunum"
+
+		advisor={
+			slot = army_chief
+			idea_token = STR_Moharth_Velamunum
+				traits = {	army_chief_entrenchment_1 	}
+		}
+
+	}
+	STR_Chanod_Paadanistrum={
+		name="Chanod Paadanistrum"
+
+		advisor={
+			slot = army_chief
+			idea_token = STR_Chanod_Paadanistrum
+				traits = {	army_chief_defensive_2 	}
+		}
+
+	}
+	STR_Kumaremus_Poetor={
+		name="Kumaremus Poetor"
+
+		advisor={
+			slot = army_chief
+			idea_token = STR_Kumaremus_Poetor
+				traits = {	army_chief_defensive_2 	}
+		}
+
+	}
+	STR_Anil_Paadanistrum={
+		name="Anil Paadanistrum"
+
+		advisor={
+			slot = army_chief
+			idea_token = STR_Anil_Paadanistrum
+				traits = {	army_chief_defensive_2 	}
+		}
+
+	}
+	STR_Julus_Velamunum={
+		name="Julus Velamunum"
+
+		advisor={
+			slot = navy_chief
+			idea_token = STR_Julus_Velamunum
+				traits = {	navy_chief_commerce_raiding_2 	}
+		}
+
+	}
+	STR_Atticus_Poetor={
+		name="Atticus Poetor"
+
+		advisor={
+			slot = navy_chief
+			idea_token = STR_Atticus_Poetor
+				traits = {	navy_chief_reform_2 	}
+		}
+
+	}
+	STR_Raveeshna_Pris={
+		name="Raveeshna Pris"
+
+		advisor={
+			slot = air_chief
+			idea_token = STR_Raveeshna_Pris
+				traits = {	air_chief_reform_1 	}
+		}
+
+	}
+	STR_Rajesh_Paadanistrum={
+		name="Rajesh Paadanistrum"
+
+		advisor={
+			slot = air_chief
+			idea_token = STR_Rajesh_Paadanistrum
+				traits = {	air_chief_night_operations_1 	}
+		}
+
+	}
+	STR_Vala_Pest={
+		name="Vala Pest"
+
+		advisor={
+			slot = high_command
+			idea_token = STR_Vala_Pest
+				traits = {	army_infantry_2 	}
+		}
+
+	}
+	STR_Nerish_Poetor={
+		name="Nerish Poetor"
+
+		advisor={
+			slot = high_command
+			idea_token = STR_Nerish_Poetor
+				traits = {	navy_screen_2 	}
+		}
+
+	}
+	STR_Yubandraian_Poetor={
+		name="Yubandraian Poetor"
+
+		advisor={
+			slot = high_command
+			idea_token = STR_Yubandraian_Poetor
+				traits = {	navy_amphibious_assault_2 	}
+		}
+
+	}
+	STR_Ragadeepak_Ametz={
+		name="Ragadeepak Ametz"
+
+		advisor={
+			slot = high_command
+			idea_token = STR_Ragadeepak_Ametz
+				traits = {	air_bomber_interception_2 	}
+		}
+
+	}
+	STR_Sevola_Conus={
+		name="Sevola Conus"
+
+		advisor={
+			slot = high_command
+			idea_token = STR_Sevola_Conus
+				traits = {	army_CombinedArms_2 	}
+		}
+
+	}
+	STR_Regulus_Velamunum={
+		name="Regulus Velamunum"
+
+		advisor={
+			slot = high_command
+			idea_token = STR_Regulus_Velamunum
+				traits = {	army_radio_intelligence_1 	}
+		}
+
+	}
+	STR_Presh_Histor={
+		name="Presh Histor"
+
+		advisor={
+			slot = theorist
+			idea_token = STR_Presh_Histor
+				traits = {	military_theorist 	}
+		}
+
+	}
+	STR_Varen_Pest={
+		name="Varen Pest"
+
+		advisor={
+			slot = theorist
+			idea_token = STR_Varen_Pest
+				traits = {	naval_theorist 	}
+		}
+
+	}
+	STR_Atticus_Pest={
+		name="Atticus Pest"
+
+		advisor={
+			slot = theorist
+			idea_token = STR_Atticus_Pest
+				traits = {	air_warfare_theorist 	}
+		}
+
+	}
+}

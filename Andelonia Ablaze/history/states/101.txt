@@ -1,0 +1,40 @@
+
+state={
+	id=101
+	name="STATE_101"
+	manpower = 2151097
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=3
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 2161 9}
+		
+		owner = SAR
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			2171 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = SAR
+	}
+
+	provinces={
+		2157 2158 2159 2160 2161 2162 2163 2164 2165 2166 2167 2168 2169 2170 2171 
+	}
+	local_supplies=0.0 
+}

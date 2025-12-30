@@ -1,0 +1,12 @@
+air_wings = {
+		206 = { 								
+		medium_plane_airframe_0 = { owner = "ADR" amount = 50 version_name = "Kalp Mk 1" }
+
+	}
+	306 = { 								
+		medium_plane_airframe_0 = { owner = "ADR" amount = 50 version_name = "Kalp Mk 1" }
+
+	}
+
+
+}

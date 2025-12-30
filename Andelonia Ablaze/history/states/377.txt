@@ -1,0 +1,39 @@
+
+state={
+	id=377
+	name="STATE_377"
+	manpower = 1750545
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 7357 1}
+		victory_points = { 7361 6}
+		victory_points = { 7362 1}
+		
+		owner = SIL
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = SIL
+	}
+
+	provinces={
+		7356 7357 7358 7359 7360 7361 7362 7363 7364 7365 7366 7367 
+	}
+	local_supplies=0.0 
+}

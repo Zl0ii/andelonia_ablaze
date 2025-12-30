@@ -1,0 +1,880 @@
+characters = {
+	REL_Yuba_Domhregiava={
+		name="Yuba Domhregiava"
+
+		
+		country_leader={
+			ideology=despotism
+			traits = { inexperienced_monarch  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	REL_Antor_Doras={
+		name="Antor Doras"
+
+		advisor={
+			slot = political_advisor
+			idea_token = REL_Antor_Doras
+				traits = {	exiled 	}
+		}
+
+	}
+	REL_Zirimokran_Volo={
+		name="Zirimokran Volo"
+
+		advisor={
+			slot = political_advisor
+			idea_token = REL_Zirimokran_Volo
+				traits = {	inexperienced_monarch 	}
+		}
+
+	}
+	REL_Iderry_Tamda={
+		name="Iderry Tamda"
+
+		advisor={
+			slot = political_advisor
+			idea_token = REL_Iderry_Tamda
+				traits = {	staunch_constitutionalist 	}
+		}
+
+	}
+	REL_Ulrio_Feile={
+		name="Ulrio Feile"
+
+		advisor={
+			slot = political_advisor
+			idea_token = REL_Ulrio_Feile
+				traits = {	humble 	}
+		}
+
+	}
+	REL_Niar_Soglamdancha={
+		name="Niar Soglamdancha"
+
+		advisor={
+			slot = political_advisor
+			idea_token = REL_Niar_Soglamdancha
+				traits = {	humble 	}
+		}
+
+	}
+	REL_Paolo_Odiorre={
+		name="Paolo Odiorre"
+
+		advisor={
+			slot = political_advisor
+			idea_token = REL_Paolo_Odiorre
+				traits = {	cabinet_crisis 	}
+		}
+
+	}
+	REL_Iderto_Feile={
+		name="Iderto Feile"
+
+		advisor={
+			slot = army_chief
+			idea_token = REL_Iderto_Feile
+				traits = {	army_chief_maneuver_2 	}
+		}
+
+	}
+	REL_Tafsut_Odiorre={
+		name="Tafsut Odiorre"
+
+		advisor={
+			slot = army_chief
+			idea_token = REL_Tafsut_Odiorre
+				traits = {	army_chief_maneuver_2 	}
+		}
+
+	}
+	REL_Seann_Domhregiava={
+		name="Seann Domhregiava"
+
+		advisor={
+			slot = army_chief
+			idea_token = REL_Seann_Domhregiava
+				traits = {	army_chief_offensive_1 	}
+		}
+
+	}
+	REL_Taran_Odiorre={
+		name="Taran Odiorre"
+
+		advisor={
+			slot = army_chief
+			idea_token = REL_Taran_Odiorre
+				traits = {	army_chief_planning_2 	}
+		}
+
+	}
+	REL_Alberry_Cuochasamhne={
+		name="Alberry Cuochasamhne"
+
+		advisor={
+			slot = navy_chief
+			idea_token = REL_Alberry_Cuochasamhne
+				traits = {	navy_chief_commerce_raiding_1 	}
+		}
+
+	}
+	REL_Thierfandren_Cuochasamhne={
+		name="Thierfandren Cuochasamhne"
+
+		advisor={
+			slot = navy_chief
+			idea_token = REL_Thierfandren_Cuochasamhne
+				traits = {	navy_chief_commerce_raiding_1 	}
+		}
+
+	}
+	REL_Ramouno_Odiorre={
+		name="Ramouno Odiorre"
+
+		advisor={
+			slot = air_chief
+			idea_token = REL_Ramouno_Odiorre
+				traits = {	air_chief_reform_1 	}
+		}
+
+	}
+	REL_Lyes_Volo={
+		name="Lyes Volo"
+
+		advisor={
+			slot = air_chief
+			idea_token = REL_Lyes_Volo
+				traits = {	air_chief_safety_1 	}
+		}
+
+	}
+	REL_Quinnio_Bunt={
+		name="Quinnio Bunt"
+
+		advisor={
+			slot = high_command
+			idea_token = REL_Quinnio_Bunt
+				traits = {	air_airborne_1 	}
+		}
+
+	}
+	REL_Alberry_Soglamdancha={
+		name="Alberry Soglamdancha"
+
+		advisor={
+			slot = high_command
+			idea_token = REL_Alberry_Soglamdancha
+				traits = {	navy_anti_submarine_2 	}
+		}
+
+	}
+	REL_Cian_Doras={
+		name="Cian Doras"
+
+		advisor={
+			slot = high_command
+			idea_token = REL_Cian_Doras
+				traits = {	navy_fleet_logistics_2 	}
+		}
+
+	}
+	REL_Ramouno_Tamda={
+		name="Ramouno Tamda"
+
+		advisor={
+			slot = high_command
+			idea_token = REL_Ramouno_Tamda
+				traits = {	navy_amphibious_assault_1 	}
+		}
+
+	}
+	REL_Care_Bunt={
+		name="Care Bunt"
+
+		advisor={
+			slot = high_command
+			idea_token = REL_Care_Bunt
+				traits = {	air_tactical_bombing_1 	}
+		}
+
+	}
+	REL_Niar_Feile={
+		name="Niar Feile"
+
+		advisor={
+			slot = high_command
+			idea_token = REL_Niar_Feile
+				traits = {	air_tactical_bombing_2 	}
+		}
+
+	}
+	REL_Iskari_Doras={
+		name="Iskari Doras"
+
+		
+		country_leader={
+			ideology=nazism
+			traits = { the_young_magnate  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	REL_Care_Odiorre={
+		name="Care Odiorre"
+
+		advisor={
+			slot = political_advisor
+			idea_token = REL_Care_Odiorre
+				traits = {	celebrity_junta_leader 	}
+		}
+
+	}
+	REL_Bruno_Domhregiava={
+		name="Bruno Domhregiava"
+
+		advisor={
+			slot = political_advisor
+			idea_token = REL_Bruno_Domhregiava
+				traits = {	celebrity_junta_leader 	}
+		}
+
+	}
+	REL_Brane_Bunt={
+		name="Brane Bunt"
+
+		advisor={
+			slot = political_advisor
+			idea_token = REL_Brane_Bunt
+				traits = {	archon_basileus 	}
+		}
+
+	}
+	REL_Tafsut_Soglamdancha={
+		name="Tafsut Soglamdancha"
+
+		advisor={
+			slot = political_advisor
+			idea_token = REL_Tafsut_Soglamdancha
+				traits = {	celebrity_junta_leader 	}
+		}
+
+	}
+	REL_Ulri_Doras={
+		name="Ulri Doras"
+
+		advisor={
+			slot = political_advisor
+			idea_token = REL_Ulri_Doras
+				traits = {	basileus 	}
+		}
+
+	}
+	REL_Julipe_Cuochasamhne={
+		name="Julipe Cuochasamhne"
+
+		advisor={
+			slot = political_advisor
+			idea_token = REL_Julipe_Cuochasamhne
+				traits = {	archon_basileus 	}
+		}
+
+	}
+	REL_Ulrio_Tamda={
+		name="Ulrio Tamda"
+
+		advisor={
+			slot = army_chief
+			idea_token = REL_Ulrio_Tamda
+				traits = {	army_chief_planning_1 	}
+		}
+
+	}
+	REL_Mokrannio_Domhregiava={
+		name="Mokrannio Domhregiava"
+
+		advisor={
+			slot = army_chief
+			idea_token = REL_Mokrannio_Domhregiava
+				traits = {	army_chief_reform_1 	}
+		}
+
+	}
+	REL_Ramonari_Volo={
+		name="Ramonari Volo"
+
+		advisor={
+			slot = army_chief
+			idea_token = REL_Ramonari_Volo
+				traits = {	army_chief_defensive_1 	}
+		}
+
+	}
+	REL_Taharaidi_Doras={
+		name="Taharaidi Doras"
+
+		advisor={
+			slot = army_chief
+			idea_token = REL_Taharaidi_Doras
+				traits = {	army_chief_offensive_1 	}
+		}
+
+	}
+	REL_Taran_Doras={
+		name="Taran Doras"
+
+		advisor={
+			slot = navy_chief
+			idea_token = REL_Taran_Doras
+				traits = {	navy_chief_commerce_raiding_2 	}
+		}
+
+	}
+	REL_Idertor_Doras={
+		name="Idertor Doras"
+
+		advisor={
+			slot = navy_chief
+			idea_token = REL_Idertor_Doras
+				traits = {	navy_chief_maneuver_2 	}
+		}
+
+	}
+	REL_Alberry_Tamda={
+		name="Alberry Tamda"
+
+		advisor={
+			slot = air_chief
+			idea_token = REL_Alberry_Tamda
+				traits = {	air_chief_reform_2 	}
+		}
+
+	}
+	REL_Nica_Tamda={
+		name="Nica Tamda"
+
+		advisor={
+			slot = air_chief
+			idea_token = REL_Nica_Tamda
+				traits = {	air_chief_night_operations_1 	}
+		}
+
+	}
+	REL_Careth_Odiorre={
+		name="Careth Odiorre"
+
+		advisor={
+			slot = high_command
+			idea_token = REL_Careth_Odiorre
+				traits = {	army_CombinedArms_1 	}
+		}
+
+	}
+	REL_Niar_Cuochasamhne={
+		name="Niar Cuochasamhne"
+
+		advisor={
+			slot = high_command
+			idea_token = REL_Niar_Cuochasamhne
+				traits = {	air_air_combat_training_2 	}
+		}
+
+	}
+	REL_Aselipe_Volo={
+		name="Aselipe Volo"
+
+		advisor={
+			slot = high_command
+			idea_token = REL_Aselipe_Volo
+				traits = {	army_commando_1 	}
+		}
+
+	}
+	REL_Enzo_Doras={
+		name="Enzo Doras"
+
+		advisor={
+			slot = high_command
+			idea_token = REL_Enzo_Doras
+				traits = {	navy_capital_ship_2 	}
+		}
+
+	}
+	REL_Stefano_Feile={
+		name="Stefano Feile"
+
+		advisor={
+			slot = high_command
+			idea_token = REL_Stefano_Feile
+				traits = {	navy_carrier_2 	}
+		}
+
+	}
+	REL_Tarimokran_Tamda={
+		name="Tarimokran Tamda"
+
+		advisor={
+			slot = high_command
+			idea_token = REL_Tarimokran_Tamda
+				traits = {	army_logistics_2 	}
+		}
+
+	}
+	REL_Rico_Bunt={
+		name="Rico Bunt"
+
+		
+		country_leader={
+			ideology=stalinism
+			traits = { political_dancer  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	REL_Julipe_Soglamdancha={
+		name="Julipe Soglamdancha"
+
+		advisor={
+			slot = political_advisor
+			idea_token = REL_Julipe_Soglamdancha
+				traits = {	indomitable_perseverance 	}
+		}
+
+	}
+	REL_Ramouno_Volo={
+		name="Ramouno Volo"
+
+		advisor={
+			slot = political_advisor
+			idea_token = REL_Ramouno_Volo
+				traits = {	reluctant_stalinist 	}
+		}
+
+	}
+	REL_Nica_Odiorre={
+		name="Nica Odiorre"
+
+		advisor={
+			slot = political_advisor
+			idea_token = REL_Nica_Odiorre
+				traits = {	mastermind_code_cracker 	}
+		}
+
+	}
+	REL_Thierfandren_Doras={
+		name="Thierfandren Doras"
+
+		advisor={
+			slot = political_advisor
+			idea_token = REL_Thierfandren_Doras
+				traits = {	political_dancer 	}
+		}
+
+	}
+	REL_Care_Cuochasamhne={
+		name="Care Cuochasamhne"
+
+		advisor={
+			slot = political_advisor
+			idea_token = REL_Care_Cuochasamhne
+				traits = {	indomitable_perseverance 	}
+		}
+
+	}
+	REL_Niar_Volo={
+		name="Niar Volo"
+
+		advisor={
+			slot = political_advisor
+			idea_token = REL_Niar_Volo
+				traits = {	reluctant_stalinist 	}
+		}
+
+	}
+	REL_Iderry_Feile={
+		name="Iderry Feile"
+
+		advisor={
+			slot = army_chief
+			idea_token = REL_Iderry_Feile
+				traits = {	army_chief_organizational_1 	}
+		}
+
+	}
+	REL_Ulrio_Domhregiava={
+		name="Ulrio Domhregiava"
+
+		advisor={
+			slot = army_chief
+			idea_token = REL_Ulrio_Domhregiava
+				traits = {	army_chief_morale_1 	}
+		}
+
+	}
+	REL_Paolan_Domhregiava={
+		name="Paolan Domhregiava"
+
+		advisor={
+			slot = army_chief
+			idea_token = REL_Paolan_Domhregiava
+				traits = {	army_chief_drill_1 	}
+		}
+
+	}
+	REL_Albergus_Feile={
+		name="Albergus Feile"
+
+		advisor={
+			slot = army_chief
+			idea_token = REL_Albergus_Feile
+				traits = {	army_chief_planning_1 	}
+		}
+
+	}
+	REL_Ulriq_Piabh={
+		name="Ulriq Piabh"
+
+		advisor={
+			slot = navy_chief
+			idea_token = REL_Ulriq_Piabh
+				traits = {	navy_chief_naval_aviation_2 	}
+		}
+
+	}
+	REL_Sean_Domhregiava={
+		name="Sean Domhregiava"
+
+		advisor={
+			slot = navy_chief
+			idea_token = REL_Sean_Domhregiava
+				traits = {	navy_chief_maneuver_2 	}
+		}
+
+	}
+	REL_Aziz_Odiorre={
+		name="Aziz Odiorre"
+
+		advisor={
+			slot = air_chief
+			idea_token = REL_Aziz_Odiorre
+				traits = {	air_chief_old_guard_2 	}
+		}
+
+	}
+	REL_Garcolm_Cuochasamhne={
+		name="Garcolm Cuochasamhne"
+
+		advisor={
+			slot = air_chief
+			idea_token = REL_Garcolm_Cuochasamhne
+				traits = {	air_chief_reform_2 	}
+		}
+
+	}
+	REL_Ricomonar_Doras={
+		name="Ricomonar Doras"
+
+		advisor={
+			slot = high_command
+			idea_token = REL_Ricomonar_Doras
+				traits = {	army_entrenchment_1 	}
+		}
+
+	}
+	REL_Stefano_Soglamdancha={
+		name="Stefano Soglamdancha"
+
+		advisor={
+			slot = high_command
+			idea_token = REL_Stefano_Soglamdancha
+				traits = {	army_radio_intelligence_1 	}
+		}
+
+	}
+	REL_Hugh_Domhregiava={
+		name="Hugh Domhregiava"
+
+		advisor={
+			slot = high_command
+			idea_token = REL_Hugh_Domhregiava
+				traits = {	air_close_air_support_2 	}
+		}
+
+	}
+	REL_Garco_Cuochasamhne={
+		name="Garco Cuochasamhne"
+
+		advisor={
+			slot = high_command
+			idea_token = REL_Garco_Cuochasamhne
+				traits = {	army_cavalry_2 	}
+		}
+
+	}
+	REL_Mariq_Volo={
+		name="Mariq Volo"
+
+		advisor={
+			slot = high_command
+			idea_token = REL_Mariq_Volo
+				traits = {	navy_fleet_logistics_2 	}
+		}
+
+	}
+	REL_Mokran_Soglamdancha={
+		name="Mokran Soglamdancha"
+
+		advisor={
+			slot = high_command
+			idea_token = REL_Mokran_Soglamdancha
+				traits = {	army_artillery_1 	}
+		}
+
+	}
+	REL_Ziran_Soglamdancha={
+		name="Ziran Soglamdancha"
+
+		
+		country_leader={
+			ideology=conservatism
+			traits = { first_lady  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	REL_Liances_Domhregiava={
+		name="Liances Domhregiava"
+
+		advisor={
+			slot = political_advisor
+			idea_token = REL_Liances_Domhregiava
+				traits = {	rearmer 	}
+		}
+
+	}
+	REL_Tare_Volo={
+		name="Tare Volo"
+
+		advisor={
+			slot = political_advisor
+			idea_token = REL_Tare_Volo
+				traits = {	famous_aviator 	}
+		}
+
+	}
+	REL_Amouno_Doras={
+		name="Amouno Doras"
+
+		advisor={
+			slot = political_advisor
+			idea_token = REL_Amouno_Doras
+				traits = {	british_bulldog 	}
+		}
+
+	}
+	REL_Niar_Doras={
+		name="Niar Doras"
+
+		advisor={
+			slot = political_advisor
+			idea_token = REL_Niar_Doras
+				traits = {	the_young_magnate 	}
+		}
+
+	}
+	REL_Ulriq_Cuochasamhne={
+		name="Ulriq Cuochasamhne"
+
+		advisor={
+			slot = political_advisor
+			idea_token = REL_Ulriq_Cuochasamhne
+				traits = {	rearmer 	}
+		}
+
+	}
+	REL_Mimonis_Tamda={
+		name="Mimonis Tamda"
+
+		advisor={
+			slot = political_advisor
+			idea_token = REL_Mimonis_Tamda
+				traits = {	british_bulldog 	}
+		}
+
+	}
+	REL_Idergus_Doras={
+		name="Idergus Doras"
+
+		advisor={
+			slot = army_chief
+			idea_token = REL_Idergus_Doras
+				traits = {	army_chief_organizational_2 	}
+		}
+
+	}
+	REL_Amouno_Feile={
+		name="Amouno Feile"
+
+		advisor={
+			slot = army_chief
+			idea_token = REL_Amouno_Feile
+				traits = {	army_chief_defensive_2 	}
+		}
+
+	}
+	REL_Paolan_Soglamdancha={
+		name="Paolan Soglamdancha"
+
+		advisor={
+			slot = army_chief
+			idea_token = REL_Paolan_Soglamdancha
+				traits = {	army_chief_maneuver_2 	}
+		}
+
+	}
+	REL_Owen_Doras={
+		name="Owen Doras"
+
+		advisor={
+			slot = army_chief
+			idea_token = REL_Owen_Doras
+				traits = {	army_chief_organizational_2 	}
+		}
+
+	}
+	REL_Iderry_Doras={
+		name="Iderry Doras"
+
+		advisor={
+			slot = navy_chief
+			idea_token = REL_Iderry_Doras
+				traits = {	navy_chief_commerce_raiding_1 	}
+		}
+
+	}
+	REL_Bruno_Piabh={
+		name="Bruno Piabh"
+
+		advisor={
+			slot = navy_chief
+			idea_token = REL_Bruno_Piabh
+				traits = {	navy_chief_reform_2 	}
+		}
+
+	}
+	REL_Aziz_Soglamdancha={
+		name="Aziz Soglamdancha"
+
+		advisor={
+			slot = air_chief
+			idea_token = REL_Aziz_Soglamdancha
+				traits = {	air_chief_reform_2 	}
+		}
+
+	}
+	REL_Careth_Tamda={
+		name="Careth Tamda"
+
+		advisor={
+			slot = air_chief
+			idea_token = REL_Careth_Tamda
+				traits = {	air_chief_night_operations_1 	}
+		}
+
+	}
+	REL_Tafsut_Bunt={
+		name="Tafsut Bunt"
+
+		advisor={
+			slot = high_command
+			idea_token = REL_Tafsut_Bunt
+				traits = {	air_bomber_interception_1 	}
+		}
+
+	}
+	REL_Alexan_Feile={
+		name="Alexan Feile"
+
+		advisor={
+			slot = high_command
+			idea_token = REL_Alexan_Feile
+				traits = {	navy_submarine_1 	}
+		}
+
+	}
+	REL_Thierry_Tamda={
+		name="Thierry Tamda"
+
+		advisor={
+			slot = high_command
+			idea_token = REL_Thierry_Tamda
+				traits = {	army_CombinedArms_1 	}
+		}
+
+	}
+	REL_Paolo_Cuochasamhne={
+		name="Paolo Cuochasamhne"
+
+		advisor={
+			slot = high_command
+			idea_token = REL_Paolo_Cuochasamhne
+				traits = {	air_air_superiority_2 	}
+		}
+
+	}
+	REL_Mariq_Bunt={
+		name="Mariq Bunt"
+
+		advisor={
+			slot = high_command
+			idea_token = REL_Mariq_Bunt
+				traits = {	army_cavalry_2 	}
+		}
+
+	}
+	REL_Lyes_Domhregiava={
+		name="Lyes Domhregiava"
+
+		advisor={
+			slot = high_command
+			idea_token = REL_Lyes_Domhregiava
+				traits = {	army_cavalry_1 	}
+		}
+
+	}
+	REL_Quinnio_Volo={
+		name="Quinnio Volo"
+
+		advisor={
+			slot = theorist
+			idea_token = REL_Quinnio_Volo
+				traits = {	military_theorist 	}
+		}
+
+	}
+	REL_Tare_Bunt={
+		name="Tare Bunt"
+
+		advisor={
+			slot = theorist
+			idea_token = REL_Tare_Bunt
+				traits = {	naval_theorist 	}
+		}
+
+	}
+	REL_Tare_Piabh={
+		name="Tare Piabh"
+
+		advisor={
+			slot = theorist
+			idea_token = REL_Tare_Piabh
+				traits = {	air_warfare_theorist 	}
+		}
+
+	}
+}

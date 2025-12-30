@@ -1,0 +1,38 @@
+
+state={
+	id=43
+	name="STATE_43"
+	manpower = 2344029
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=2
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 898 9}
+		victory_points = { 905 2}
+		
+		owner = REL
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = REL
+	}
+
+	provinces={
+		897 898 899 900 901 902 903 904 905 906 907 908 909 910 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,40 @@
+
+state={
+	id=480
+	name="STATE_480"
+	manpower = 2545839
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 9317 1}
+		victory_points = { 9320 1}
+		victory_points = { 9323 1}
+		victory_points = { 9328 9}
+		
+		owner = SIL
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = SIL
+	}
+
+	provinces={
+		9312 9313 9314 9315 9316 9317 9318 9319 9320 9321 9322 9323 9324 9325 9326 9327 9328 9329 
+	}
+	local_supplies=0.0 
+}

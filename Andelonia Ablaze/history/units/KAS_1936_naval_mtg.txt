@@ -1,0 +1,27 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Kastilka Fleet"			
+		naval_base = 12626
+		task_force = {
+			name = "Kastilka Fleet"
+			location = 12626
+			
+						ship = { name = "Fioch" definition = battle_cruiser equipment = { ship_hull_heavy_2 = { amount = 1 owner = KAS version_name = "Aigh Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

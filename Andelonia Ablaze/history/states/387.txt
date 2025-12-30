@@ -1,0 +1,38 @@
+
+state={
+	id=387
+	name="STATE_387"
+	manpower = 2514683
+	
+	state_category = large_town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 7570 5}
+		victory_points = { 7571 7}
+		
+		owner = REL
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = REL
+	}
+
+	provinces={
+		7560 7561 7562 7563 7564 7565 7566 7567 7568 7569 7570 7571 7572 7573 7574 7575 
+	}
+	local_supplies=0.0 
+}

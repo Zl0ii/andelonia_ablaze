@@ -1,0 +1,38 @@
+
+state={
+	id=503
+	name="STATE_503"
+	manpower = 2585961
+	
+	state_category = town
+	resources={
+		aluminium=1
+		chromium=
+		oil=0
+		rubber=0
+		steel=3
+		tungsten=1
+		coal=1
+	}
+
+	history={
+		victory_points = { 9820 6}
+		victory_points = { 9826 6}
+		
+		owner = BOR
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = BOR
+	}
+
+	provinces={
+		9816 9817 9818 9819 9820 9821 9822 9823 9824 9825 9826 9827 9828 9829 9830 9831 9832 9833 
+	}
+	local_supplies=0.0 
+}

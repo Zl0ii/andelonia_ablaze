@@ -1,0 +1,38 @@
+
+state={
+	id=451
+	name="STATE_451"
+	manpower = 1470653
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=1
+		coal=0
+	}
+
+	history={
+		victory_points = { 8773 3}
+		victory_points = { 8774 3}
+		
+		owner = PON
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = PON
+	}
+
+	provinces={
+		8766 8767 8768 8769 8770 8771 8772 8773 8774 8775 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,251 @@
+division_template = {
+	name = "Militia Division"
+
+	regiments = {
+			infantry = {  x = 0 y = 0 }
+			infantry = {  x = 0 y = 1 }
+			infantry = {  x = 1 y = 0 }
+			infantry = {  x = 1 y = 1 }
+
+	}
+	
+	support = {
+
+	}
+}
+division_template = {
+	name = "Infantry Division"
+
+	regiments = {
+			infantry = {  x = 0 y = 0 }
+			infantry = {  x = 0 y = 1 }
+			infantry = {  x = 0 y = 2 }
+			infantry = {  x = 1 y = 0 }
+			infantry = {  x = 1 y = 1 }
+			infantry = {  x = 1 y = 2 }
+			infantry = {  x = 2 y = 0 }
+			infantry = {  x = 2 y = 1 }
+			infantry = {  x = 2 y = 2 }
+
+	}
+	
+	support = {
+
+	}
+}
+division_template = {
+	name = "Supported Infantry Division"
+
+	regiments = {
+			infantry = {  x = 0 y = 0 }
+			infantry = {  x = 0 y = 1 }
+			infantry = {  x = 0 y = 2 }
+			infantry = {  x = 1 y = 0 }
+			infantry = {  x = 1 y = 1 }
+			infantry = {  x = 1 y = 2 }
+			infantry = {  x = 2 y = 0 }
+			infantry = {  x = 2 y = 1 }
+			infantry = {  x = 2 y = 2 }
+
+	}
+	
+	support = {
+			maintenance_company = {  x = 0 y = 0 }
+			recon = {  x = 1 y = 0 }
+
+	}
+}
+division_template = {
+	name = "Artillery Division"
+
+	regiments = {
+			infantry = {  x = 0 y = 0 }
+			infantry = {  x = 0 y = 1 }
+			infantry = {  x = 0 y = 2 }
+			infantry = {  x = 1 y = 0 }
+			infantry = {  x = 1 y = 1 }
+			infantry = {  x = 1 y = 2 }
+			infantry = {  x = 2 y = 0 }
+			infantry = {  x = 2 y = 1 }
+			infantry = {  x = 2 y = 2 }
+			artillery_brigade = {  x = 3 y = 0 }
+
+	}
+	
+	support = {
+			anti_air = {  x = 0 y = 0 }
+
+	}
+}
+division_template = {
+	name = "Cavalry Division"
+
+	regiments = {
+			cavalry = {  x = 0 y = 0 }
+			cavalry = {  x = 0 y = 1 }
+			cavalry = {  x = 0 y = 2 }
+			cavalry = {  x = 1 y = 0 }
+			cavalry = {  x = 1 y = 1 }
+			cavalry = {  x = 1 y = 2 }
+			cavalry = {  x = 2 y = 0 }
+			cavalry = {  x = 2 y = 1 }
+			cavalry = {  x = 2 y = 2 }
+
+	}
+	
+	support = {
+
+	}
+}
+
+
+units = {
+	division= {
+		name = "1nd 'Tifar' Militia Division"
+		location = 8277
+		division_template = "Militia Division"
+		start_experience_factor = 0.066007
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "2rd 'Taza' Militia Division"
+		location = 7378
+		division_template = "Militia Division"
+		start_experience_factor = 0.034116
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "3th 'Anza' Militia Division"
+		location = 7379
+		division_template = "Militia Division"
+		start_experience_factor = 0.734722
+		start_equipment_factor = 0.982272
+	}
+	division= {
+		name = "4th 'Umuruthailli' Militia Division"
+		location = 8397
+		division_template = "Militia Division"
+		start_experience_factor = 0.981919
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "5th 'Tafrawt' Militia Division"
+		location = 7595
+		division_template = "Militia Division"
+		start_experience_factor = 0.131431
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "6th 'Gaute' Militia Division"
+		location = 8847
+		division_template = "Militia Division"
+		start_experience_factor = 0.121480
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "7th 'Errisla' Militia Division"
+		location = 8331
+		division_template = "Militia Division"
+		start_experience_factor = 0.539383
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "8th 'Eurasun' Militia Division"
+		location = 5257
+		division_template = "Militia Division"
+		start_experience_factor = 0.073373
+		start_equipment_factor = 0.993251
+	}
+	division= {
+		name = "9th 'Itzart' Militia Division"
+		location = 8104
+		division_template = "Militia Division"
+		start_experience_factor = 0.599994
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "1nd 'Eurasun' Infantry Division"
+		location = 8064
+		division_template = "Infantry Division"
+		start_experience_factor = 0.089310
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "2rd 'Bereberomhre' Infantry Division"
+		location = 7853
+		division_template = "Infantry Division"
+		start_experience_factor = 0.809609
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "3th 'Arga' Infantry Division"
+		location = 7657
+		division_template = "Infantry Division"
+		start_experience_factor = 0.057156
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "4th 'Arnarro' Infantry Division"
+		location = 7604
+		division_template = "Infantry Division"
+		start_experience_factor = 0.926817
+		start_equipment_factor = 0.990939
+	}
+	division= {
+		name = "1nd 'Itzart' Supported Infantry Division"
+		location = 7650
+		division_template = "Supported Infantry Division"
+		start_experience_factor = 0.851363
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "2rd 'Jumu' Supported Infantry Division"
+		location = 3524
+		division_template = "Supported Infantry Division"
+		start_experience_factor = 0.584137
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "1nd 'Mapionnti' Artillery Division"
+		location = 191
+		division_template = "Artillery Division"
+		start_experience_factor = 0.040905
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "2rd 'Tamsafawindu' Artillery Division"
+		location = 9124
+		division_template = "Artillery Division"
+		start_experience_factor = 0.995504
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "1nd 'Mili' Cavalry Division"
+		location = 8929
+		division_template = "Cavalry Division"
+		start_experience_factor = 0.034134
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "2rd 'Jumu' Cavalry Division"
+		location = 5014
+		division_template = "Cavalry Division"
+		start_experience_factor = 0.904586
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "3th 'Taguzki' Cavalry Division"
+		location = 5013
+		division_template = "Cavalry Division"
+		start_experience_factor = 0.517772
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "4th 'Barubhalelu' Cavalry Division"
+		location = 179
+		division_template = "Cavalry Division"
+		start_experience_factor = 0.575482
+		start_equipment_factor = 1.000000
+	}
+
+}

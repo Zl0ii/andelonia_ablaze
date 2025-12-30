@@ -1,0 +1,40 @@
+
+state={
+	id=385
+	name="STATE_385"
+	manpower = 2818209
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=1
+		coal=0
+	}
+
+	history={
+		victory_points = { 7539 14}
+		
+		owner = KHN
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			7541 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = KHN
+	}
+
+	provinces={
+		7534 7535 7536 7537 7538 7539 7540 7541 7542 7543 7544 7545 7546 7547 7548 7549 7550 7551 7552 
+	}
+	local_supplies=0.0 
+}

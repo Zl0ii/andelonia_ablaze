@@ -1,0 +1,40 @@
+
+state={
+	id=89
+	name="STATE_89"
+	manpower = 2451800
+	
+	state_category = town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=1
+		coal=0
+	}
+
+	history={
+		victory_points = { 1841 10}
+		
+		owner = TON
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			arms_factory = 1
+			industrial_complex = 0
+			
+			1842 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = TON
+	}
+
+	provinces={
+		1839 1840 1841 1842 1843 1844 1845 1846 1847 1848 1849 1850 1851 1852 1853 1854 1855 1856 1857 1858 1859 1860 
+	}
+	local_supplies=0.0 
+}

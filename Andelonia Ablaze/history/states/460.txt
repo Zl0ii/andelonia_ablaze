@@ -1,0 +1,38 @@
+
+state={
+	id=460
+	name="STATE_460"
+	manpower = 2759036
+	
+	state_category = large_town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 8933 10}
+		victory_points = { 8941 2}
+		
+		owner = KHN
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = KHN
+	}
+
+	provinces={
+		8933 8934 8935 8936 8937 8938 8939 8940 8941 8942 8943 8944 8945 8946 8947 8948 8949 
+	}
+	local_supplies=0.0 
+}

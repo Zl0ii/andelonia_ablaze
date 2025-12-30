@@ -1,0 +1,40 @@
+
+state={
+	id=105
+	name="STATE_105"
+	manpower = 3110384
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 2222 14}
+		
+		owner = DRR
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			2226 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = DRR
+	}
+
+	provinces={
+		2214 2215 2216 2217 2218 2219 2220 2221 2222 2223 2224 2225 2226 2227 2228 2229 2230 2231 2232 2233 
+	}
+	local_supplies=0.0 
+}

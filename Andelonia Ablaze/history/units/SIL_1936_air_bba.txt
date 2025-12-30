@@ -1,0 +1,81 @@
+air_wings = {
+		482 = { 								
+		small_plane_cas_airframe_1 = { owner = "SIL" amount = 50 version_name = "Herealabairl Mk 2" }
+small_plane_cas_airframe_0 = { owner = "SIL" amount = 50 version_name = "Agach Mk 0" }
+small_plane_naval_bomber_airframe_0 = { owner = "SIL" amount = 50 version_name = "Haradea Mk 2" }
+
+	}
+	480 = { 								
+		small_plane_airframe_1 = { owner = "SIL" amount = 50 version_name = "Beata Mk 2" }
+
+	}
+	489 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "SIL" amount = 50 version_name = "Haradea Mk 2" }
+
+	}
+	478 = { 								
+		small_plane_cas_airframe_1 = { owner = "SIL" amount = 50 version_name = "Herealabairl Mk 2" }
+small_plane_airframe_0 = { owner = "SIL" amount = 50 version_name = "Haradea Mk 1" }
+
+	}
+	505 = { 								
+		medium_plane_airframe_0 = { owner = "SIL" amount = 50 version_name = "Herealabairl Mk 2" }
+
+	}
+	521 = { 								
+		small_plane_naval_bomber_airframe_1 = { owner = "SIL" amount = 50 version_name = "Zuharrionn Mk 2" }
+
+	}
+	548 = { 								
+		small_plane_naval_bomber_airframe_1 = { owner = "SIL" amount = 50 version_name = "Zuharrionn Mk 2" }
+
+	}
+	375 = { 								
+		small_plane_cas_airframe_0 = { owner = "SIL" amount = 50 version_name = "Agach Mk 0" }
+
+	}
+	400 = { 								
+		medium_plane_airframe_0 = { owner = "SIL" amount = 50 version_name = "Herealabairl Mk 2" }
+
+	}
+	82 = { 								
+		medium_plane_airframe_0 = { owner = "SIL" amount = 50 version_name = "Herealabairl Mk 2" }
+
+	}
+	117 = { 								
+		small_plane_cas_airframe_1 = { owner = "SIL" amount = 50 version_name = "Herealabairl Mk 2" }
+small_plane_airframe_1 = { owner = "SIL" amount = 50 version_name = "Beata Mk 2" }
+small_plane_naval_bomber_airframe_1 = { owner = "SIL" amount = 50 version_name = "Zuharrionn Mk 2" }
+
+	}
+	144 = { 								
+		small_plane_airframe_1 = { owner = "SIL" amount = 50 version_name = "Beata Mk 2" }
+
+	}
+	179 = { 								
+		small_plane_airframe_0 = { owner = "SIL" amount = 50 version_name = "Haradea Mk 1" }
+
+	}
+	186 = { 								
+		small_plane_cas_airframe_0 = { owner = "SIL" amount = 50 version_name = "Agach Mk 0" }
+
+	}
+	224 = { 								
+		small_plane_airframe_0 = { owner = "SIL" amount = 50 version_name = "Haradea Mk 1" }
+
+	}
+	258 = { 								
+		small_plane_naval_bomber_airframe_1 = { owner = "SIL" amount = 50 version_name = "Zuharrionn Mk 2" }
+
+	}
+	324 = { 								
+		small_plane_airframe_0 = { owner = "SIL" amount = 50 version_name = "Haradea Mk 1" }
+
+	}
+	317 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "SIL" amount = 50 version_name = "Haradea Mk 2" }
+
+	}
+
+
+}

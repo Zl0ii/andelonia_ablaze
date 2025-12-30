@@ -1,0 +1,880 @@
+characters = {
+	TON_Unanti_Khayr={
+		name="Unanti Khayr"
+
+		
+		country_leader={
+			ideology=despotism
+			traits = { inexperienced_monarch  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	TON_Iker_Kokarrakim={
+		name="Iker Kokarrakim"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TON_Iker_Kokarrakim
+				traits = {	celebrity_junta_leader 	}
+		}
+
+	}
+	TON_Hami_Alis={
+		name="Hami Alis"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TON_Hami_Alis
+				traits = {	cabinet_crisis 	}
+		}
+
+	}
+	TON_Gaitor_Kitzua={
+		name="Gaitor Kitzua"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TON_Gaitor_Kitzua
+				traits = {	celebrity_junta_leader 	}
+		}
+
+	}
+	TON_Benan_Hayahreko={
+		name="Benan Hayahreko"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TON_Benan_Hayahreko
+				traits = {	staunch_constitutionalist 	}
+		}
+
+	}
+	TON_Benat_Hezurhaqa={
+		name="Benat Hezurhaqa"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TON_Benat_Hezurhaqa
+				traits = {	celebrity_junta_leader 	}
+		}
+
+	}
+	TON_Eder_Bihotza={
+		name="Eder Bihotza"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TON_Eder_Bihotza
+				traits = {	celebrity_junta_leader 	}
+		}
+
+	}
+	TON_Harim_Hezurhaqa={
+		name="Harim Hezurhaqa"
+
+		advisor={
+			slot = army_chief
+			idea_token = TON_Harim_Hezurhaqa
+				traits = {	army_chief_entrenchment_2 	}
+		}
+
+	}
+	TON_Eneko_Hezurhaqa={
+		name="Eneko Hezurhaqa"
+
+		advisor={
+			slot = army_chief
+			idea_token = TON_Eneko_Hezurhaqa
+				traits = {	army_chief_defensive_2 	}
+		}
+
+	}
+	TON_Miker_Hezurhaqa={
+		name="Miker Hezurhaqa"
+
+		advisor={
+			slot = army_chief
+			idea_token = TON_Miker_Hezurhaqa
+				traits = {	army_chief_defensive_2 	}
+		}
+
+	}
+	TON_Kariq_Khayr={
+		name="Kariq Khayr"
+
+		advisor={
+			slot = army_chief
+			idea_token = TON_Kariq_Khayr
+				traits = {	army_chief_reform_1 	}
+		}
+
+	}
+	TON_Sami_Hikmaadra={
+		name="Sami Hikmaadra"
+
+		advisor={
+			slot = navy_chief
+			idea_token = TON_Sami_Hikmaadra
+				traits = {	navy_chief_commerce_raiding_1 	}
+		}
+
+	}
+	TON_Jami_Hikmaadra={
+		name="Jami Hikmaadra"
+
+		advisor={
+			slot = navy_chief
+			idea_token = TON_Jami_Hikmaadra
+				traits = {	navy_chief_old_guard_2 	}
+		}
+
+	}
+	TON_Harim_Alis={
+		name="Harim Alis"
+
+		advisor={
+			slot = air_chief
+			idea_token = TON_Harim_Alis
+				traits = {	air_chief_ground_support_2 	}
+		}
+
+	}
+	TON_Abdullal_Matinai={
+		name="Abdullal Matinai"
+
+		advisor={
+			slot = air_chief
+			idea_token = TON_Abdullal_Matinai
+				traits = {	air_chief_night_operations_1 	}
+		}
+
+	}
+	TON_Ibran_Kitzua={
+		name="Ibran Kitzua"
+
+		advisor={
+			slot = high_command
+			idea_token = TON_Ibran_Kitzua
+				traits = {	navy_anti_submarine_1 	}
+		}
+
+	}
+	TON_Bilalid_Rihar={
+		name="Bilalid Rihar"
+
+		advisor={
+			slot = high_command
+			idea_token = TON_Bilalid_Rihar
+				traits = {	army_entrenchment_2 	}
+		}
+
+	}
+	TON_Eder_Kitzua={
+		name="Eder Kitzua"
+
+		advisor={
+			slot = high_command
+			idea_token = TON_Eder_Kitzua
+				traits = {	navy_capital_ship_1 	}
+		}
+
+	}
+	TON_Aitorkaid_Hezurhaqa={
+		name="Aitorkaid Hezurhaqa"
+
+		advisor={
+			slot = high_command
+			idea_token = TON_Aitorkaid_Hezurhaqa
+				traits = {	army_concealment_2 	}
+		}
+
+	}
+	TON_Ahmad_Bihotza={
+		name="Ahmad Bihotza"
+
+		advisor={
+			slot = high_command
+			idea_token = TON_Ahmad_Bihotza
+				traits = {	navy_capital_ship_2 	}
+		}
+
+	}
+	TON_Aitz_Khayr={
+		name="Aitz Khayr"
+
+		advisor={
+			slot = high_command
+			idea_token = TON_Aitz_Khayr
+				traits = {	navy_anti_submarine_2 	}
+		}
+
+	}
+	TON_Ahmoud_Matinai={
+		name="Ahmoud Matinai"
+
+		
+		country_leader={
+			ideology=fascism_ideology
+			traits = { inexperienced_imperialist  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	TON_Xanti_Hayahreko={
+		name="Xanti Hayahreko"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TON_Xanti_Hayahreko
+				traits = {	spirit_of_genghis 	}
+		}
+
+	}
+	TON_Xanti_Khayr={
+		name="Xanti Khayr"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TON_Xanti_Khayr
+				traits = {	spirit_of_genghis 	}
+		}
+
+	}
+	TON_Aitz_Hikmaadra={
+		name="Aitz Hikmaadra"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TON_Aitz_Hikmaadra
+				traits = {	polemarch 	}
+		}
+
+	}
+	TON_Mohal_Khayr={
+		name="Mohal Khayr"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TON_Mohal_Khayr
+				traits = {	warmonger 	}
+		}
+
+	}
+	TON_Alid_Alis={
+		name="Alid Alis"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TON_Alid_Alis
+				traits = {	autocratic_imperialist 	}
+		}
+
+	}
+	TON_Ibaiur_Alis={
+		name="Ibaiur Alis"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TON_Ibaiur_Alis
+				traits = {	infirm 	}
+		}
+
+	}
+	TON_Gorka_Khayr={
+		name="Gorka Khayr"
+
+		advisor={
+			slot = army_chief
+			idea_token = TON_Gorka_Khayr
+				traits = {	army_chief_maneuver_1 	}
+		}
+
+	}
+	TON_Faizkaizka_Alis={
+		name="Faizkaizka Alis"
+
+		advisor={
+			slot = army_chief
+			idea_token = TON_Faizkaizka_Alis
+				traits = {	army_chief_entrenchment_2 	}
+		}
+
+	}
+	TON_Xabier_Hezurhaqa={
+		name="Xabier Hezurhaqa"
+
+		advisor={
+			slot = army_chief
+			idea_token = TON_Xabier_Hezurhaqa
+				traits = {	army_chief_planning_1 	}
+		}
+
+	}
+	TON_Harim_Bihotza={
+		name="Harim Bihotza"
+
+		advisor={
+			slot = army_chief
+			idea_token = TON_Harim_Bihotza
+				traits = {	army_chief_offensive_2 	}
+		}
+
+	}
+	TON_Mikel_Kitzua={
+		name="Mikel Kitzua"
+
+		advisor={
+			slot = navy_chief
+			idea_token = TON_Mikel_Kitzua
+				traits = {	navy_chief_maneuver_1 	}
+		}
+
+	}
+	TON_Sammed_Hayahreko={
+		name="Sammed Hayahreko"
+
+		advisor={
+			slot = navy_chief
+			idea_token = TON_Sammed_Hayahreko
+				traits = {	navy_chief_old_guard_1 	}
+		}
+
+	}
+	TON_Unanti_Hikmaadra={
+		name="Unanti Hikmaadra"
+
+		advisor={
+			slot = air_chief
+			idea_token = TON_Unanti_Hikmaadra
+				traits = {	air_chief_all_weather_1 	}
+		}
+
+	}
+	TON_Hassal_Kokarrakim={
+		name="Hassal Kokarrakim"
+
+		advisor={
+			slot = air_chief
+			idea_token = TON_Hassal_Kokarrakim
+				traits = {	air_chief_all_weather_1 	}
+		}
+
+	}
+	TON_Alid_Kitzua={
+		name="Alid Kitzua"
+
+		advisor={
+			slot = high_command
+			idea_token = TON_Alid_Kitzua
+				traits = {	navy_carrier_1 	}
+		}
+
+	}
+	TON_Mahim_Alis={
+		name="Mahim Alis"
+
+		advisor={
+			slot = high_command
+			idea_token = TON_Mahim_Alis
+				traits = {	navy_anti_submarine_1 	}
+		}
+
+	}
+	TON_Mohal_Rihar={
+		name="Mohal Rihar"
+
+		advisor={
+			slot = high_command
+			idea_token = TON_Mohal_Rihar
+				traits = {	army_commando_1 	}
+		}
+
+	}
+	TON_Sammed_Kokarrakim={
+		name="Sammed Kokarrakim"
+
+		advisor={
+			slot = high_command
+			idea_token = TON_Sammed_Kokarrakim
+				traits = {	army_CombinedArms_1 	}
+		}
+
+	}
+	TON_Gorka_Rihar={
+		name="Gorka Rihar"
+
+		advisor={
+			slot = high_command
+			idea_token = TON_Gorka_Rihar
+				traits = {	army_logistics_1 	}
+		}
+
+	}
+	TON_Mohal_Kitzua={
+		name="Mohal Kitzua"
+
+		advisor={
+			slot = high_command
+			idea_token = TON_Mohal_Kitzua
+				traits = {	navy_naval_air_defense_1 	}
+		}
+
+	}
+	TON_Abdullahmad_Bihotza={
+		name="Abdullahmad Bihotza"
+
+		
+		country_leader={
+			ideology=stalinism
+			traits = { mastermind_code_cracker  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	TON_Adnat_Hikmaadra={
+		name="Adnat Hikmaadra"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TON_Adnat_Hikmaadra
+				traits = {	reluctant_stalinist 	}
+		}
+
+	}
+	TON_Gaid_Hayahreko={
+		name="Gaid Hayahreko"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TON_Gaid_Hayahreko
+				traits = {	reluctant_stalinist 	}
+		}
+
+	}
+	TON_Mahim_Bihotza={
+		name="Mahim Bihotza"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TON_Mahim_Bihotza
+				traits = {	polemarch 	}
+		}
+
+	}
+	TON_Ramarid_Hikmaadra={
+		name="Ramarid Hikmaadra"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TON_Ramarid_Hikmaadra
+				traits = {	polemarch 	}
+		}
+
+	}
+	TON_Ramad_Matinai={
+		name="Ramad Matinai"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TON_Ramad_Matinai
+				traits = {	political_dancer 	}
+		}
+
+	}
+	TON_Miker_Hikmaadra={
+		name="Miker Hikmaadra"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TON_Miker_Hikmaadra
+				traits = {	polemarch 	}
+		}
+
+	}
+	TON_Aitorka_Khayr={
+		name="Aitorka Khayr"
+
+		advisor={
+			slot = army_chief
+			idea_token = TON_Aitorka_Khayr
+				traits = {	army_chief_morale_1 	}
+		}
+
+	}
+	TON_Alid_Matinai={
+		name="Alid Matinai"
+
+		advisor={
+			slot = army_chief
+			idea_token = TON_Alid_Matinai
+				traits = {	army_chief_planning_1 	}
+		}
+
+	}
+	TON_Eneko_Bihotza={
+		name="Eneko Bihotza"
+
+		advisor={
+			slot = army_chief
+			idea_token = TON_Eneko_Bihotza
+				traits = {	army_chief_maneuver_2 	}
+		}
+
+	}
+	TON_Khal_Rihar={
+		name="Khal Rihar"
+
+		advisor={
+			slot = army_chief
+			idea_token = TON_Khal_Rihar
+				traits = {	army_chief_drill_1 	}
+		}
+
+	}
+	TON_Mahya_Bihotza={
+		name="Mahya Bihotza"
+
+		advisor={
+			slot = navy_chief
+			idea_token = TON_Mahya_Bihotza
+				traits = {	navy_chief_commerce_raiding_2 	}
+		}
+
+	}
+	TON_Koldo_Khayr={
+		name="Koldo Khayr"
+
+		advisor={
+			slot = navy_chief
+			idea_token = TON_Koldo_Khayr
+				traits = {	navy_chief_reform_1 	}
+		}
+
+	}
+	TON_Tariq_Hikmaadra={
+		name="Tariq Hikmaadra"
+
+		advisor={
+			slot = air_chief
+			idea_token = TON_Tariq_Hikmaadra
+				traits = {	air_chief_night_operations_2 	}
+		}
+
+	}
+	TON_Imran_Hikmaadra={
+		name="Imran Hikmaadra"
+
+		advisor={
+			slot = air_chief
+			idea_token = TON_Imran_Hikmaadra
+				traits = {	air_chief_night_operations_2 	}
+		}
+
+	}
+	TON_Ramarid_Bihotza={
+		name="Ramarid Bihotza"
+
+		advisor={
+			slot = high_command
+			idea_token = TON_Ramarid_Bihotza
+				traits = {	army_concealment_1 	}
+		}
+
+	}
+	TON_Khami_Kitzua={
+		name="Khami Kitzua"
+
+		advisor={
+			slot = high_command
+			idea_token = TON_Khami_Kitzua
+				traits = {	army_logistics_1 	}
+		}
+
+	}
+	TON_Hami_Kitzua={
+		name="Hami Kitzua"
+
+		advisor={
+			slot = high_command
+			idea_token = TON_Hami_Kitzua
+				traits = {	army_radio_intelligence_2 	}
+		}
+
+	}
+	TON_Aitz_Matinai={
+		name="Aitz Matinai"
+
+		advisor={
+			slot = high_command
+			idea_token = TON_Aitz_Matinai
+				traits = {	army_concealment_1 	}
+		}
+
+	}
+	TON_Ibanti_Kitzua={
+		name="Ibanti Kitzua"
+
+		advisor={
+			slot = high_command
+			idea_token = TON_Ibanti_Kitzua
+				traits = {	navy_capital_ship_1 	}
+		}
+
+	}
+	TON_Miker_Khayr={
+		name="Miker Khayr"
+
+		advisor={
+			slot = high_command
+			idea_token = TON_Miker_Khayr
+				traits = {	army_infantry_2 	}
+		}
+
+	}
+	TON_Sammed_Kitzua={
+		name="Sammed Kitzua"
+
+		
+		country_leader={
+			ideology=socialism
+			traits = { the_young_magnate  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	TON_Aitorka_Hikmaadra={
+		name="Aitorka Hikmaadra"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TON_Aitorka_Hikmaadra
+				traits = {	the_banker 	}
+		}
+
+	}
+	TON_Khalid_Hayahreko={
+		name="Khalid Hayahreko"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TON_Khalid_Hayahreko
+				traits = {	conservative_grandee 	}
+		}
+
+	}
+	TON_Omal_Alis={
+		name="Omal Alis"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TON_Omal_Alis
+				traits = {	staunch_constitutionalist 	}
+		}
+
+	}
+	TON_Benat_Matinai={
+		name="Benat Matinai"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TON_Benat_Matinai
+				traits = {	british_bulldog 	}
+		}
+
+	}
+	TON_Bilalid_Kitzua={
+		name="Bilalid Kitzua"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TON_Bilalid_Kitzua
+				traits = {	famous_aviator 	}
+		}
+
+	}
+	TON_Mohal_Hikmaadra={
+		name="Mohal Hikmaadra"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TON_Mohal_Hikmaadra
+				traits = {	the_young_magnate 	}
+		}
+
+	}
+	TON_Miker_Rihar={
+		name="Miker Rihar"
+
+		advisor={
+			slot = army_chief
+			idea_token = TON_Miker_Rihar
+				traits = {	army_chief_offensive_2 	}
+		}
+
+	}
+	TON_Adnan_Bihotza={
+		name="Adnan Bihotza"
+
+		advisor={
+			slot = army_chief
+			idea_token = TON_Adnan_Bihotza
+				traits = {	army_chief_defensive_1 	}
+		}
+
+	}
+	TON_Ramarid_Kitzua={
+		name="Ramarid Kitzua"
+
+		advisor={
+			slot = army_chief
+			idea_token = TON_Ramarid_Kitzua
+				traits = {	army_chief_drill_1 	}
+		}
+
+	}
+	TON_Ramad_Alis={
+		name="Ramad Alis"
+
+		advisor={
+			slot = army_chief
+			idea_token = TON_Ramad_Alis
+				traits = {	army_chief_planning_1 	}
+		}
+
+	}
+	TON_Omad_Hezurhaqa={
+		name="Omad Hezurhaqa"
+
+		advisor={
+			slot = navy_chief
+			idea_token = TON_Omad_Hezurhaqa
+				traits = {	navy_chief_naval_aviation_2 	}
+		}
+
+	}
+	TON_Amal_Kitzua={
+		name="Amal Kitzua"
+
+		advisor={
+			slot = navy_chief
+			idea_token = TON_Amal_Kitzua
+				traits = {	navy_chief_decisive_battle_1 	}
+		}
+
+	}
+	TON_Ibran_Alis={
+		name="Ibran Alis"
+
+		advisor={
+			slot = air_chief
+			idea_token = TON_Ibran_Alis
+				traits = {	air_chief_old_guard_2 	}
+		}
+
+	}
+	TON_Adnan_Rihar={
+		name="Adnan Rihar"
+
+		advisor={
+			slot = air_chief
+			idea_token = TON_Adnan_Rihar
+				traits = {	air_chief_old_guard_2 	}
+		}
+
+	}
+	TON_Aitz_Kokarrakim={
+		name="Aitz Kokarrakim"
+
+		advisor={
+			slot = high_command
+			idea_token = TON_Aitz_Kokarrakim
+				traits = {	air_bomber_interception_1 	}
+		}
+
+	}
+	TON_Ibanti_Matinai={
+		name="Ibanti Matinai"
+
+		advisor={
+			slot = high_command
+			idea_token = TON_Ibanti_Matinai
+				traits = {	army_radio_intelligence_2 	}
+		}
+
+	}
+	TON_Karkaitz_Matinai={
+		name="Karkaitz Matinai"
+
+		advisor={
+			slot = high_command
+			idea_token = TON_Karkaitz_Matinai
+				traits = {	air_close_air_support_1 	}
+		}
+
+	}
+	TON_Anwarkaizkai_Rihar={
+		name="Anwarkaizkai Rihar"
+
+		advisor={
+			slot = high_command
+			idea_token = TON_Anwarkaizkai_Rihar
+				traits = {	air_tactical_bombing_1 	}
+		}
+
+	}
+	TON_Mahim_Kitzua={
+		name="Mahim Kitzua"
+
+		advisor={
+			slot = high_command
+			idea_token = TON_Mahim_Kitzua
+				traits = {	navy_fleet_logistics_2 	}
+		}
+
+	}
+	TON_Khami_Alis={
+		name="Khami Alis"
+
+		advisor={
+			slot = high_command
+			idea_token = TON_Khami_Alis
+				traits = {	army_radio_intelligence_1 	}
+		}
+
+	}
+	TON_Mahya_Matinai={
+		name="Mahya Matinai"
+
+		advisor={
+			slot = theorist
+			idea_token = TON_Mahya_Matinai
+				traits = {	military_theorist 	}
+		}
+
+	}
+	TON_Ibran_Matinai={
+		name="Ibran Matinai"
+
+		advisor={
+			slot = theorist
+			idea_token = TON_Ibran_Matinai
+				traits = {	naval_theorist 	}
+		}
+
+	}
+	TON_Khal_Matinai={
+		name="Khal Matinai"
+
+		advisor={
+			slot = theorist
+			idea_token = TON_Khal_Matinai
+				traits = {	air_warfare_theorist 	}
+		}
+
+	}
+}

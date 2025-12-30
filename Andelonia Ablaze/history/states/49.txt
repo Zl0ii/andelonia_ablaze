@@ -1,0 +1,37 @@
+
+state={
+	id=49
+	name="STATE_49"
+	manpower = 1630617
+	
+	state_category = rural
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=1
+		coal=0
+	}
+
+	history={
+		victory_points = { 1053 7}
+		
+		owner = SAR
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = SAR
+	}
+
+	provinces={
+		1052 1053 1054 1055 1056 1057 1058 1059 1060 1061 1062 1063 1064 
+	}
+	local_supplies=0.0 
+}

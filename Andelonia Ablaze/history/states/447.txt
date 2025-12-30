@@ -1,0 +1,38 @@
+
+state={
+	id=447
+	name="STATE_447"
+	manpower = 800527
+	
+	state_category = pastoral
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 8739 2}
+		victory_points = { 8741 1}
+		
+		owner = BOR
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = BOR
+	}
+
+	provinces={
+		8739 8740 8741 8742 8743 
+	}
+	local_supplies=0.0 
+}

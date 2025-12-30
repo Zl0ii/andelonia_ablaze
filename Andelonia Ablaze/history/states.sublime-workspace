@@ -1,0 +1,602 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/.gitignore",
+			"settings":
+			{
+				"buffer_size": 57,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "/*"
+					},
+					"AgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "\n!"
+					},
+					"AgAAAAIAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAAEAAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "/an"
+					},
+					"AwAAAAQAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAcAAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					2,
+					"left_delete",
+					null,
+					"AgAAAAYAAAAAAAAABgAAAAAAAAABAAAAbgUAAAAAAAAABQAAAAAAAAABAAAAYQ",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAABwAAAAAAAAAHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "Andelobi"
+					},
+					"CAAAAAUAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAANAAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					2,
+					"left_delete",
+					null,
+					"AgAAAAwAAAAAAAAADAAAAAAAAAABAAAAaQsAAAAAAAAACwAAAAAAAAABAAAAYg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADQAAAAAAAAANAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "nia"
+					},
+					"AwAAAAsAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA4AAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": " Ablaze"
+					},
+					"BwAAAA4AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFQAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADgAAAAAAAAAOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "\n!/"
+					},
+					"AwAAABUAAAAAAAAAFgAAAAAAAAAAAAAAFgAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABgAAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAFQAAAAAAAAAVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "n"
+					},
+					"AQAAABgAAAAAAAAAGQAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"left_delete",
+					null,
+					"AQAAABgAAAAAAAAAGAAAAAAAAAABAAAAbg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAGQAAAAAAAAAZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "Andelonia"
+					},
+					"CQAAABgAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABsAAAAAAAAAAAAAABsAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB4AAAAAAAAAAAAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACEAAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": " Ablaze."
+					},
+					"CAAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACcAAAAAAAAAAAAAACcAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAApAAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "mod"
+					},
+					"AwAAACkAAAAAAAAAKgAAAAAAAAAAAAAAKgAAAAAAAAArAAAAAAAAAAAAAAArAAAAAAAAACwAAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAKQAAAAAAAAApAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAABUAAAAAAAAAFgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAVAAAAAAAAABUAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					1,
+					1,
+					"insert",
+					{
+						"characters": "\n!/"
+					},
+					"AwAAAC0AAAAAAAAALgAAAAAAAAAAAAAALgAAAAAAAAAvAAAAAAAAAAAAAAAvAAAAAAAAADAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					2,
+					1,
+					"insert",
+					{
+						"characters": "rea"
+					},
+					"AwAAADAAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAyAAAAAAAAAAAAAAAyAAAAAAAAADMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					3,
+					3,
+					"left_delete",
+					null,
+					"AwAAADIAAAAAAAAAMgAAAAAAAAABAAAAYTEAAAAAAAAAMQAAAAAAAAABAAAAZTAAAAAAAAAAMAAAAAAAAAABAAAAcg",
+					"AQAAAAAAAAABAAAAMwAAAAAAAAAzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "READ"
+					},
+					"BAAAADAAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAyAAAAAAAAAAAAAAAyAAAAAAAAADMAAAAAAAAAAAAAADMAAAAAAAAANAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "ME."
+					},
+					"AwAAADQAAAAAAAAANQAAAAAAAAAAAAAANQAAAAAAAAA2AAAAAAAAAAAAAAA2AAAAAAAAADcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANAAAAAAAAAA0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "MD"
+					},
+					"AgAAADcAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA5AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					2,
+					"left_delete",
+					null,
+					"AgAAADgAAAAAAAAAOAAAAAAAAAABAAAARDcAAAAAAAAANwAAAAAAAAABAAAATQ",
+					"AQAAAAAAAAABAAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "md"
+					},
+					"AgAAADcAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA5AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sort",
+				"Sort Lines (Numerically)"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/countries/ADR - Aderania.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/countries/BOR - Bornar.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/countries/DRR - Democratic Republic Reladannia.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/countries/FER - Ferea.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/countries/KAS - Kastilka.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/countries/KHN - Khaneria.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/descriptor.mod",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/localisation/russian/countries_l_russian.yml",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/common/national_focus/Aderania.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/common/national_focus/Bornar.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/common/national_focus/Democratic Republic Reladannia.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/common/national_focus/Ferea.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/common/national_focus/generic.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/common/national_focus/Kastilka.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/common/national_focus/Khaneria.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/common/national_focus/Kont.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/common/national_focus/Pontreana.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/common/national_focus/Republic Reladannia.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/common/national_focus/Sarian Federation.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/common/national_focus/Sillarea.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/common/national_focus/Soldreyn.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/common/national_focus/Straera.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/common/national_focus/Tonlar.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/gfx/fonts/hoi_mapfont4.fnt",
+		"/F/SteamLibrary/steamapps/common/Hearts of Iron IV/common/national_focus/generic.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/countries/KON - Kont.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/countries/PON - Pontreana.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/countries/REL - Republic Reladannia.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/countries/SAR - Sarian Federation.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/countries/SIL - Sillarea.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/countries/SOL - Soldreyn.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/countries/STR - Straera.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/countries/TON - Tonlar.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/map/buildings.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/crashes/hoi4_20251225_180634/meta.yml",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/map/supply_nodes.txt",
+		"/F/SteamLibrary/steamapps/common/Hearts of Iron IV/map/seasons.txt",
+		"/F/SteamLibrary/steamapps/common/Hearts of Iron IV/map/cities.txt",
+		"/F/SteamLibrary/steamapps/common/Hearts of Iron IV/music/_songs.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/map/railways.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/history/states/506.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/history/states/529.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/history/states/153.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/history/states/612.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/history/states/609.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/history/states/611.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/history/states/600.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/history/states/328.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/history/states/633.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/history/states/297.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/history/states/440.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/history/states/635.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/history/states/619.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/history/states/643.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/history/states/638.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/history/states/125.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/history/states/487.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/history/states/204.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/history/states/641.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/history/states/2.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/history/states/169.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/history/states/443.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/map/adjacencies.csv",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/history/states/631.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/events/Decisions_Events.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/events/ElectionEvents.txt",
+		"/F/SteamLibrary/steamapps/common/Hearts of Iron IV/common/ai_equipment/ENG_tank.txt",
+		"/F/SteamLibrary/steamapps/common/Hearts of Iron IV/common/on_actions/00_on_actions.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze.mod",
+		"/C/Users/Linsor/Downloads/VPN.conf",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/3.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/149.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/events/GOT_Generic_Events.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/crashes/hoi4_20251224_191950/meta.yml",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/common/bookmarks/the_gathering_storm.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/common/ai_areas/default.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/crashes/hoi4_20251224_191640/meta.yml",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/events/stability_events.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/events/NewsEvents.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/common/scripted_triggers/ROM_scripted_triggers.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/tutorial/tutorial.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/crashes/hoi4_20251224_190844/meta.yml",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/crashes/hoi4_20251224_191102/meta.yml",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/crashes/hoi4_20251224_191421/meta.yml",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/common/countries/colors.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/events/Generic.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/events/LAR_TestEvents.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/events/TestEvents.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/events/treaty_orgs.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/crashes/hoi4_20251224_185202/meta.yml",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/109.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/11.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/110.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/111.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/112.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/113.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/114.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/115.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/116.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/117.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/118.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/119.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/12.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/120.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/121.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/122.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/123.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/124.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/125.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/126.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/127.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/128.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/129.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/13.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/130.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/131.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/132.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/133.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/134.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/135.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/136.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/137.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/138.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/139.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/14.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/140.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/141.txt",
+		"/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/Andelonia Ablaze/history/states/142.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"id = ",
+			"generic",
+			"HAN",
+			"focus_tree",
+			";;",
+			"has_comp",
+			":",
+			" ",
+			"5885",
+			"(tungsten=)([0-9]+)",
+			"tungsten=[0-9]",
+			"rubber=[0-9]",
+			"rubber=0[0-9]",
+			"rubber=03",
+			"rubber=02",
+			"rubber=01",
+			"rubber=[0-9]"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"id = ADR_",
+			"ADR",
+			"KHN",
+			";",
+			"",
+			"$1$2\\n\\t\\tcoal=0",
+			"tungsten=[0-9]\\n\\t\\tcoal=0",
+			"rubber=0"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Linsor/Documents/Paradox Interactive/Hearts of Iron IV/mod/.gitignore",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 57,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "states.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

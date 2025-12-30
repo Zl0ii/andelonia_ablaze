@@ -1,0 +1,200 @@
+division_template = {
+	name = "Militia Division"
+
+	regiments = {
+			infantry = {  x = 0 y = 0 }
+			infantry = {  x = 0 y = 1 }
+			infantry = {  x = 1 y = 0 }
+			infantry = {  x = 1 y = 1 }
+
+	}
+	
+	support = {
+
+	}
+}
+division_template = {
+	name = "Infantry Division"
+
+	regiments = {
+			infantry = {  x = 0 y = 0 }
+			infantry = {  x = 0 y = 1 }
+			infantry = {  x = 0 y = 2 }
+			infantry = {  x = 0 y = 3 }
+			infantry = {  x = 1 y = 0 }
+			infantry = {  x = 1 y = 1 }
+			infantry = {  x = 1 y = 2 }
+			infantry = {  x = 1 y = 3 }
+
+	}
+	
+	support = {
+
+	}
+}
+division_template = {
+	name = "Cavalry Division"
+
+	regiments = {
+			cavalry = {  x = 0 y = 0 }
+			cavalry = {  x = 0 y = 1 }
+			cavalry = {  x = 0 y = 2 }
+			cavalry = {  x = 1 y = 0 }
+			cavalry = {  x = 1 y = 1 }
+			cavalry = {  x = 1 y = 2 }
+			cavalry = {  x = 2 y = 0 }
+			cavalry = {  x = 2 y = 1 }
+			cavalry = {  x = 2 y = 2 }
+
+	}
+	
+	support = {
+
+	}
+}
+division_template = {
+	name = "Motorized Division"
+
+	regiments = {
+			motorized = {  x = 0 y = 0 }
+			motorized = {  x = 0 y = 1 }
+			motorized = {  x = 1 y = 0 }
+			motorized = {  x = 1 y = 1 }
+
+	}
+	
+	support = {
+
+	}
+}
+
+
+units = {
+	division= {
+		name = "1nd 'Mando' Militia Division"
+		location = 3556
+		division_template = "Militia Division"
+		start_experience_factor = 0.589104
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "2rd 'Labissa' Militia Division"
+		location = 2455
+		division_template = "Militia Division"
+		start_experience_factor = 0.076587
+		start_equipment_factor = 0.988239
+	}
+	division= {
+		name = "3th 'Region' Militia Division"
+		location = 3779
+		division_template = "Militia Division"
+		start_experience_factor = 0.483598
+		start_equipment_factor = 0.994359
+	}
+	division= {
+		name = "4th 'Suval' Militia Division"
+		location = 2227
+		division_template = "Militia Division"
+		start_experience_factor = 0.669574
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "5th 'Sayam' Militia Division"
+		location = 1950
+		division_template = "Militia Division"
+		start_experience_factor = 0.578634
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "6th 'Vizhuram' Militia Division"
+		location = 2962
+		division_template = "Militia Division"
+		start_experience_factor = 0.476288
+		start_equipment_factor = 0.997833
+	}
+	division= {
+		name = "7th 'Karo' Militia Division"
+		location = 2541
+		division_template = "Militia Division"
+		start_experience_factor = 0.506194
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "8th 'Inilangerto' Militia Division"
+		location = 3265
+		division_template = "Militia Division"
+		start_experience_factor = 0.481258
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "1nd 'Ahakchau' Infantry Division"
+		location = 2964
+		division_template = "Infantry Division"
+		start_experience_factor = 0.403337
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "2rd 'Dientia' Infantry Division"
+		location = 2890
+		division_template = "Infantry Division"
+		start_experience_factor = 0.829221
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "3th 'Labissa' Infantry Division"
+		location = 3260
+		division_template = "Infantry Division"
+		start_experience_factor = 0.419289
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "4th 'Kinai' Infantry Division"
+		location = 3574
+		division_template = "Infantry Division"
+		start_experience_factor = 0.390650
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "1nd 'Oasa' Cavalry Division"
+		location = 2961
+		division_template = "Cavalry Division"
+		start_experience_factor = 0.669475
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "2rd 'Tazdakfaw' Cavalry Division"
+		location = 2368
+		division_template = "Cavalry Division"
+		start_experience_factor = 0.913613
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "3th 'Aett' Cavalry Division"
+		location = 2371
+		division_template = "Cavalry Division"
+		start_experience_factor = 0.170104
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "1nd 'Codus' Motorized Division"
+		location = 3673
+		division_template = "Motorized Division"
+		start_experience_factor = 0.701196
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "2rd 'Tajmillalut' Motorized Division"
+		location = 1998
+		division_template = "Motorized Division"
+		start_experience_factor = 0.232498
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "3th 'Cani' Motorized Division"
+		location = 1485
+		division_template = "Motorized Division"
+		start_experience_factor = 0.723473
+		start_equipment_factor = 1.000000
+	}
+
+}

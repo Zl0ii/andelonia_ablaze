@@ -1,0 +1,21 @@
+air_wings = {
+		545 = { 								
+		tac_bomber_equipment_0 = { owner = "BOR" amount = 50 version_name = "Runamnai Mk 0" }
+
+	}
+	395 = { 								
+		tac_bomber_equipment_0 = { owner = "BOR" amount = 50 version_name = "Runamnai Mk 0" }
+
+	}
+	115 = { 								
+		tac_bomber_equipment_0 = { owner = "BOR" amount = 50 version_name = "Runamnai Mk 0" }
+
+	}
+	176 = { 								
+		tac_bomber_equipment_0 = { owner = "BOR" amount = 50 version_name = "Runamnai Mk 0" }
+tac_bomber_equipment_0 = { owner = "BOR" amount = 50 version_name = "Runamnai Mk 0" }
+
+	}
+
+
+}

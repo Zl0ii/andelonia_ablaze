@@ -1,0 +1,40 @@
+
+state={
+	id=413
+	name="STATE_413"
+	manpower = 3668876
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 8090 1}
+		victory_points = { 8098 2}
+		victory_points = { 8103 11}
+		victory_points = { 8109 4}
+		
+		owner = KHN
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = KHN
+	}
+
+	provinces={
+		8087 8088 8089 8090 8091 8092 8093 8094 8095 8096 8097 8098 8099 8100 8101 8102 8103 8104 8105 8106 8107 8108 8109 8110 
+	}
+	local_supplies=0.0 
+}

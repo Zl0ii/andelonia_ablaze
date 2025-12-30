@@ -1,0 +1,40 @@
+
+state={
+	id=50
+	name="STATE_50"
+	manpower = 592234
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 1065 2}
+		
+		owner = BOR
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			1065 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = BOR
+	}
+
+	provinces={
+		1065 1066 1067 
+	}
+	local_supplies=0.0 
+}

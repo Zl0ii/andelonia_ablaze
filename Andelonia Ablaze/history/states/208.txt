@@ -1,0 +1,38 @@
+
+state={
+	id=208
+	name="STATE_208"
+	manpower = 4120413
+	
+	state_category = large_town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=7
+		rubber=0
+		steel=3
+		tungsten=1
+		coal=0
+	}
+
+	history={
+		victory_points = { 4205 10}
+		victory_points = { 4210 10}
+		
+		owner = SAR
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = SAR
+	}
+
+	provinces={
+		4182 4183 4184 4185 4186 4187 4188 4189 4190 4191 4192 4193 4194 4195 4196 4197 4198 4199 4200 4201 4202 4203 4204 4205 4206 4207 4208 4209 4210 4211 4212 4213 
+	}
+	local_supplies=0.0 
+}

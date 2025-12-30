@@ -1,0 +1,40 @@
+
+state={
+	id=354
+	name="STATE_354"
+	manpower = 4922465
+	
+	state_category = large_town
+	resources={
+		aluminium=1
+		chromium=1
+		oil=5
+		rubber=0
+		steel=4
+		tungsten=2
+		coal=0
+	}
+
+	history={
+		victory_points = { 6879 19}
+		
+		owner = PON
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			6883 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = PON
+	}
+
+	provinces={
+		6861 6862 6863 6864 6865 6866 6867 6868 6869 6870 6871 6872 6873 6874 6875 6876 6877 6878 6879 6880 6881 6882 6883 6884 6885 6886 6887 6888 6889 6890 6891 6892 6893 6894 6895 6896 6897 6898 6899 6900 6901 6902 6903 6904 6905 6906 6907 6908 6909 6910 6911 6912 6913 6914 
+	}
+	local_supplies=0.0 
+}

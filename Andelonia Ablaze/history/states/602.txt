@@ -1,0 +1,42 @@
+
+state={
+	id=602
+	name="STATE_602"
+	manpower = 1095036
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=1
+		coal=0
+	}
+
+	history={
+		victory_points = { 11546 1}
+		victory_points = { 11548 2}
+		victory_points = { 11549 2}
+		
+		owner = KAS
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 0
+			
+			11545 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = KAS
+	}
+
+	provinces={
+		11544 11545 11546 11547 11548 11549 
+	}
+	local_supplies=0.0 
+}

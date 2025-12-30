@@ -1,0 +1,46 @@
+air_wings = {
+		52 = { 								
+		nav_bomber_equipment_0 = { owner = "DRR" amount = 50 version_name = "Mando Mk 0" }
+
+	}
+	80 = { 								
+		CAS_equipment_0 = { owner = "DRR" amount = 50 version_name = "Choggia Mk 0" }
+
+	}
+	81 = { 								
+		CAS_equipment_0 = { owner = "DRR" amount = 50 version_name = "Kinai Mk 2" }
+
+	}
+	84 = { 								
+		CAS_equipment_0 = { owner = "DRR" amount = 50 version_name = "Kinai Mk 2" }
+
+	}
+	94 = { 								
+		CAS_equipment_0 = { owner = "DRR" amount = 50 version_name = "Choggia Mk 0" }
+
+	}
+	95 = { 								
+		tac_bomber_equipment_0 = { owner = "DRR" amount = 46 version_name = "Choggia Mk 1" }
+
+	}
+	178 = { 								
+		fighter_equipment_0 = { owner = "DRR" amount = 46 version_name = "Veera Mk 1" }
+
+	}
+	181 = { 								
+		fighter_equipment_0 = { owner = "DRR" amount = 50 version_name = "Choggia Mk 1" }
+nav_bomber_equipment_0 = { owner = "DRR" amount = 50 version_name = "Mando Mk 0" }
+
+	}
+	197 = { 								
+		strat_bomber_equipment_0 = { owner = "DRR" amount = 47 version_name = "Lagli Mk 2" }
+
+	}
+	234 = { 								
+		nav_bomber_equipment_0 = { owner = "DRR" amount = 41 version_name = "Region Mk 1" }
+fighter_equipment_0 = { owner = "DRR" amount = 50 version_name = "Choggia Mk 1" }
+
+	}
+
+
+}

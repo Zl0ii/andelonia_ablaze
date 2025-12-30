@@ -1,0 +1,41 @@
+
+state={
+	id=240
+	name="STATE_240"
+	manpower = 2297122
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=3
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 4792 1}
+		victory_points = { 4794 9}
+		
+		owner = ADR
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			4792 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = ADR
+	}
+
+	provinces={
+		4790 4791 4792 4793 4794 4795 4796 4797 4798 4799 4800 4801 4802 4803 4804 
+	}
+	local_supplies=0.0 
+}

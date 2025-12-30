@@ -1,0 +1,38 @@
+
+state={
+	id=82
+	name="STATE_82"
+	manpower = 2204518
+	
+	state_category = town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 1634 2}
+		victory_points = { 1638 8}
+		
+		owner = SIL
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = SIL
+	}
+
+	provinces={
+		1630 1631 1632 1633 1634 1635 1636 1637 1638 1639 1640 1641 1642 1643 1644 1645 
+	}
+	local_supplies=0.0 
+}

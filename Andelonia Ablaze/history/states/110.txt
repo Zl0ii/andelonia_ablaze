@@ -1,0 +1,41 @@
+
+state={
+	id=110
+	name="STATE_110"
+	manpower = 6773277
+	
+	state_category = metropolis
+	resources={
+		aluminium=1
+		chromium=0
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 2338 16}
+		victory_points = { 2365 21}
+		
+		owner = REL
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+			arms_factory = 1
+			industrial_complex = 2
+			
+			2349 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = REL
+	}
+
+	provinces={
+		2322 2323 2324 2325 2326 2327 2328 2329 2330 2331 2332 2333 2334 2335 2336 2337 2338 2339 2340 2341 2342 2343 2344 2345 2346 2347 2348 2349 2350 2351 2352 2353 2354 2355 2356 2357 2358 2359 2360 2361 2362 2363 2364 2365 2366 2367 
+	}
+	local_supplies=0.0 
+}

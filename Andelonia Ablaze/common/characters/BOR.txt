@@ -1,0 +1,880 @@
+characters = {
+	BOR_Sveepakars_Suska={
+		name="Sveepakars Suska"
+
+		
+		country_leader={
+			ideology=despotism
+			traits = { headstrong  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	BOR_Prenrik_Pipaadak={
+		name="Prenrik Pipaadak"
+
+		advisor={
+			slot = political_advisor
+			idea_token = BOR_Prenrik_Pipaadak
+				traits = {	inexperienced_monarch 	}
+		}
+
+	}
+	BOR_Amaq_Kaadam={
+		name="Amaq Kaadam"
+
+		advisor={
+			slot = political_advisor
+			idea_token = BOR_Amaq_Kaadam
+				traits = {	staunch_constitutionalist 	}
+		}
+
+	}
+	BOR_Bala_Suska={
+		name="Bala Suska"
+
+		advisor={
+			slot = political_advisor
+			idea_token = BOR_Bala_Suska
+				traits = {	inexperienced_monarch 	}
+		}
+
+	}
+	BOR_Senthil_Pipaadak={
+		name="Senthil Pipaadak"
+
+		advisor={
+			slot = political_advisor
+			idea_token = BOR_Senthil_Pipaadak
+				traits = {	socialite_connections 	}
+		}
+
+	}
+	BOR_Bala_Runamnai={
+		name="Bala Runamnai"
+
+		advisor={
+			slot = political_advisor
+			idea_token = BOR_Bala_Runamnai
+				traits = {	exiled 	}
+		}
+
+	}
+	BOR_Jagharakaspa_Pipaadak={
+		name="Jagharakaspa Pipaadak"
+
+		advisor={
+			slot = political_advisor
+			idea_token = BOR_Jagharakaspa_Pipaadak
+				traits = {	socialite_connections 	}
+		}
+
+	}
+	BOR_Kumaq_Nalik={
+		name="Kumaq Nalik"
+
+		advisor={
+			slot = army_chief
+			idea_token = BOR_Kumaq_Nalik
+				traits = {	army_chief_reform_2 	}
+		}
+
+	}
+	BOR_Atkarald_Runamnai={
+		name="Atkarald Runamnai"
+
+		advisor={
+			slot = army_chief
+			idea_token = BOR_Atkarald_Runamnai
+				traits = {	army_chief_drill_2 	}
+		}
+
+	}
+	BOR_Anilaf_Mozhi={
+		name="Anilaf Mozhi"
+
+		advisor={
+			slot = army_chief
+			idea_token = BOR_Anilaf_Mozhi
+				traits = {	army_chief_offensive_2 	}
+		}
+
+	}
+	BOR_Hermann_Alaq={
+		name="Hermann Alaq"
+
+		advisor={
+			slot = army_chief
+			idea_token = BOR_Hermann_Alaq
+				traits = {	army_chief_reform_2 	}
+		}
+
+	}
+	BOR_Bjorenrik_Kaadam={
+		name="Bjorenrik Kaadam"
+
+		advisor={
+			slot = navy_chief
+			idea_token = BOR_Bjorenrik_Kaadam
+				traits = {	navy_chief_decisive_battle_1 	}
+		}
+
+	}
+	BOR_Jaghan_Suska={
+		name="Jaghan Suska"
+
+		advisor={
+			slot = navy_chief
+			idea_token = BOR_Jaghan_Suska
+				traits = {	navy_chief_old_guard_2 	}
+		}
+
+	}
+	BOR_Surendranuq_Weineelapeel={
+		name="Surendranuq Weineelapeel"
+
+		advisor={
+			slot = air_chief
+			idea_token = BOR_Surendranuq_Weineelapeel
+				traits = {	air_chief_night_operations_1 	}
+		}
+
+	}
+	BOR_Olik_Weineelapeel={
+		name="Olik Weineelapeel"
+
+		advisor={
+			slot = air_chief
+			idea_token = BOR_Olik_Weineelapeel
+				traits = {	air_chief_ground_support_1 	}
+		}
+
+	}
+	BOR_Rudolfren_Kuvutaq={
+		name="Rudolfren Kuvutaq"
+
+		advisor={
+			slot = high_command
+			idea_token = BOR_Rudolfren_Kuvutaq
+				traits = {	navy_fleet_logistics_1 	}
+		}
+
+	}
+	BOR_Thilhelm_Arani={
+		name="Thilhelm Arani"
+
+		advisor={
+			slot = high_command
+			idea_token = BOR_Thilhelm_Arani
+				traits = {	army_armored_2 	}
+		}
+
+	}
+	BOR_Hann_Mozhi={
+		name="Hann Mozhi"
+
+		advisor={
+			slot = high_command
+			idea_token = BOR_Hann_Mozhi
+				traits = {	navy_fleet_logistics_1 	}
+		}
+
+	}
+	BOR_Manik_Nalik={
+		name="Manik Nalik"
+
+		advisor={
+			slot = high_command
+			idea_token = BOR_Manik_Nalik
+				traits = {	navy_capital_ship_2 	}
+		}
+
+	}
+	BOR_Frann_Alaq={
+		name="Frann Alaq"
+
+		advisor={
+			slot = high_command
+			idea_token = BOR_Frann_Alaq
+				traits = {	navy_carrier_1 	}
+		}
+
+	}
+	BOR_Ansels_Weineelapeel={
+		name="Ansels Weineelapeel"
+
+		advisor={
+			slot = high_command
+			idea_token = BOR_Ansels_Weineelapeel
+				traits = {	army_logistics_2 	}
+		}
+
+	}
+	BOR_Thilhelm_Alaq={
+		name="Thilhelm Alaq"
+
+		
+		country_leader={
+			ideology=falangism
+			traits = { autocratic_imperialist  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	BOR_Otthilhelm_Runamnai={
+		name="Otthilhelm Runamnai"
+
+		advisor={
+			slot = political_advisor
+			idea_token = BOR_Otthilhelm_Runamnai
+				traits = {	autokrator 	}
+		}
+
+	}
+	BOR_Wilhelm_Alaq={
+		name="Wilhelm Alaq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = BOR_Wilhelm_Alaq
+				traits = {	autokrator 	}
+		}
+
+	}
+	BOR_Johan_Suska={
+		name="Johan Suska"
+
+		advisor={
+			slot = political_advisor
+			idea_token = BOR_Johan_Suska
+				traits = {	collaborator_king 	}
+		}
+
+	}
+	BOR_Senthil_Mozhi={
+		name="Senthil Mozhi"
+
+		advisor={
+			slot = political_advisor
+			idea_token = BOR_Senthil_Mozhi
+				traits = {	the_young_magnate 	}
+		}
+
+	}
+	BOR_Kumaq_Arani={
+		name="Kumaq Arani"
+
+		advisor={
+			slot = political_advisor
+			idea_token = BOR_Kumaq_Arani
+				traits = {	celebrity_junta_leader 	}
+		}
+
+	}
+	BOR_Franila_Kuvutaq={
+		name="Franila Kuvutaq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = BOR_Franila_Kuvutaq
+				traits = {	autocratic_imperialist 	}
+		}
+
+	}
+	BOR_Bjorn_Weineelapeel={
+		name="Bjorn Weineelapeel"
+
+		advisor={
+			slot = army_chief
+			idea_token = BOR_Bjorn_Weineelapeel
+				traits = {	army_chief_offensive_1 	}
+		}
+
+	}
+	BOR_Johavi_Kaadam={
+		name="Johavi Kaadam"
+
+		advisor={
+			slot = army_chief
+			idea_token = BOR_Johavi_Kaadam
+				traits = {	army_chief_organizational_1 	}
+		}
+
+	}
+	BOR_Dinod_Nalik={
+		name="Dinod Nalik"
+
+		advisor={
+			slot = army_chief
+			idea_token = BOR_Dinod_Nalik
+				traits = {	army_chief_drill_1 	}
+		}
+
+	}
+	BOR_Otto_Arani={
+		name="Otto Arani"
+
+		advisor={
+			slot = army_chief
+			idea_token = BOR_Otto_Arani
+				traits = {	army_chief_planning_1 	}
+		}
+
+	}
+	BOR_Wila_Suska={
+		name="Wila Suska"
+
+		advisor={
+			slot = navy_chief
+			idea_token = BOR_Wila_Suska
+				traits = {	navy_chief_reform_1 	}
+		}
+
+	}
+	BOR_Erich_Pipaadak={
+		name="Erich Pipaadak"
+
+		advisor={
+			slot = navy_chief
+			idea_token = BOR_Erich_Pipaadak
+				traits = {	navy_chief_decisive_battle_1 	}
+		}
+
+	}
+	BOR_Anselm_Weineelapeel={
+		name="Anselm Weineelapeel"
+
+		advisor={
+			slot = air_chief
+			idea_token = BOR_Anselm_Weineelapeel
+				traits = {	air_chief_ground_support_2 	}
+		}
+
+	}
+	BOR_Senthil_Arani={
+		name="Senthil Arani"
+
+		advisor={
+			slot = air_chief
+			idea_token = BOR_Senthil_Arani
+				traits = {	air_chief_safety_1 	}
+		}
+
+	}
+	BOR_Thilhelm_Mozhi={
+		name="Thilhelm Mozhi"
+
+		advisor={
+			slot = high_command
+			idea_token = BOR_Thilhelm_Mozhi
+				traits = {	navy_amphibious_assault_2 	}
+		}
+
+	}
+	BOR_Rajay_Kuvutaq={
+		name="Rajay Kuvutaq"
+
+		advisor={
+			slot = high_command
+			idea_token = BOR_Rajay_Kuvutaq
+				traits = {	army_CombinedArms_1 	}
+		}
+
+	}
+	BOR_Bjorn_Nalik={
+		name="Bjorn Nalik"
+
+		advisor={
+			slot = high_command
+			idea_token = BOR_Bjorn_Nalik
+				traits = {	air_pilot_training_1 	}
+		}
+
+	}
+	BOR_Dirish_Arani={
+		name="Dirish Arani"
+
+		advisor={
+			slot = high_command
+			idea_token = BOR_Dirish_Arani
+				traits = {	army_CombinedArms_1 	}
+		}
+
+	}
+	BOR_Rudolfren_Pipaadak={
+		name="Rudolfren Pipaadak"
+
+		advisor={
+			slot = high_command
+			idea_token = BOR_Rudolfren_Pipaadak
+				traits = {	army_commando_2 	}
+		}
+
+	}
+	BOR_Rudolfren_Arani={
+		name="Rudolfren Arani"
+
+		advisor={
+			slot = high_command
+			idea_token = BOR_Rudolfren_Arani
+				traits = {	army_entrenchment_1 	}
+		}
+
+	}
+	BOR_Helm_Mozhi={
+		name="Helm Mozhi"
+
+		
+		country_leader={
+			ideology=anti_revisionism
+			traits = { polemarch  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	BOR_Ajay_Suska={
+		name="Ajay Suska"
+
+		advisor={
+			slot = political_advisor
+			idea_token = BOR_Ajay_Suska
+				traits = {	infirm 	}
+		}
+
+	}
+	BOR_Johan_Runamnai={
+		name="Johan Runamnai"
+
+		advisor={
+			slot = political_advisor
+			idea_token = BOR_Johan_Runamnai
+				traits = {	infirm 	}
+		}
+
+	}
+	BOR_Hermann_Nalik={
+		name="Hermann Nalik"
+
+		advisor={
+			slot = political_advisor
+			idea_token = BOR_Hermann_Nalik
+				traits = {	political_dancer 	}
+		}
+
+	}
+	BOR_Satth_Suska={
+		name="Satth Suska"
+
+		advisor={
+			slot = political_advisor
+			idea_token = BOR_Satth_Suska
+				traits = {	mastermind_code_cracker 	}
+		}
+
+	}
+	BOR_Satth_Kaadam={
+		name="Satth Kaadam"
+
+		advisor={
+			slot = political_advisor
+			idea_token = BOR_Satth_Kaadam
+				traits = {	polemarch 	}
+		}
+
+	}
+	BOR_Rolf_Weineelapeel={
+		name="Rolf Weineelapeel"
+
+		advisor={
+			slot = political_advisor
+			idea_token = BOR_Rolf_Weineelapeel
+				traits = {	political_dancer 	}
+		}
+
+	}
+	BOR_Dinod_Weineelapeel={
+		name="Dinod Weineelapeel"
+
+		advisor={
+			slot = army_chief
+			idea_token = BOR_Dinod_Weineelapeel
+				traits = {	army_chief_morale_2 	}
+		}
+
+	}
+	BOR_Jagharakaspa_Weineelapeel={
+		name="Jagharakaspa Weineelapeel"
+
+		advisor={
+			slot = army_chief
+			idea_token = BOR_Jagharakaspa_Weineelapeel
+				traits = {	army_chief_morale_2 	}
+		}
+
+	}
+	BOR_Otthik_Nalik={
+		name="Otthik Nalik"
+
+		advisor={
+			slot = army_chief
+			idea_token = BOR_Otthik_Nalik
+				traits = {	army_chief_drill_1 	}
+		}
+
+	}
+	BOR_Kumaq_Runamnai={
+		name="Kumaq Runamnai"
+
+		advisor={
+			slot = army_chief
+			idea_token = BOR_Kumaq_Runamnai
+				traits = {	army_chief_defensive_1 	}
+		}
+
+	}
+	BOR_Aman_Arani={
+		name="Aman Arani"
+
+		advisor={
+			slot = navy_chief
+			idea_token = BOR_Aman_Arani
+				traits = {	navy_chief_naval_aviation_2 	}
+		}
+
+	}
+	BOR_Dinod_Runamnai={
+		name="Dinod Runamnai"
+
+		advisor={
+			slot = navy_chief
+			idea_token = BOR_Dinod_Runamnai
+				traits = {	navy_chief_old_guard_2 	}
+		}
+
+	}
+	BOR_Dirish_Pipaadak={
+		name="Dirish Pipaadak"
+
+		advisor={
+			slot = air_chief
+			idea_token = BOR_Dirish_Pipaadak
+				traits = {	air_chief_night_operations_1 	}
+		}
+
+	}
+	BOR_Thikigaq_Weineelapeel={
+		name="Thikigaq Weineelapeel"
+
+		advisor={
+			slot = air_chief
+			idea_token = BOR_Thikigaq_Weineelapeel
+				traits = {	air_chief_reform_1 	}
+		}
+
+	}
+	BOR_Wila_Mozhi={
+		name="Wila Mozhi"
+
+		advisor={
+			slot = high_command
+			idea_token = BOR_Wila_Mozhi
+				traits = {	army_radio_intelligence_2 	}
+		}
+
+	}
+	BOR_Wila_Runamnai={
+		name="Wila Runamnai"
+
+		advisor={
+			slot = high_command
+			idea_token = BOR_Wila_Runamnai
+				traits = {	navy_submarine_2 	}
+		}
+
+	}
+	BOR_Thiaspakon_Weineelapeel={
+		name="Thiaspakon Weineelapeel"
+
+		advisor={
+			slot = high_command
+			idea_token = BOR_Thiaspakon_Weineelapeel
+				traits = {	navy_amphibious_assault_2 	}
+		}
+
+	}
+	BOR_Nuvuk_Suska={
+		name="Nuvuk Suska"
+
+		advisor={
+			slot = high_command
+			idea_token = BOR_Nuvuk_Suska
+				traits = {	army_CombinedArms_2 	}
+		}
+
+	}
+	BOR_Tulok_Kaadam={
+		name="Tulok Kaadam"
+
+		advisor={
+			slot = high_command
+			idea_token = BOR_Tulok_Kaadam
+				traits = {	navy_capital_ship_2 	}
+		}
+
+	}
+	BOR_Olik_Suska={
+		name="Olik Suska"
+
+		advisor={
+			slot = high_command
+			idea_token = BOR_Olik_Suska
+				traits = {	air_pilot_training_2 	}
+		}
+
+	}
+	BOR_Rudolfren_Kaadam={
+		name="Rudolfren Kaadam"
+
+		
+		country_leader={
+			ideology=socialism
+			traits = { conservative_grandee  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	BOR_Harans_Arani={
+		name="Harans Arani"
+
+		advisor={
+			slot = political_advisor
+			idea_token = BOR_Harans_Arani
+				traits = {	conservative_grandee 	}
+		}
+
+	}
+	BOR_Nala_Runamnai={
+		name="Nala Runamnai"
+
+		advisor={
+			slot = political_advisor
+			idea_token = BOR_Nala_Runamnai
+				traits = {	first_lady 	}
+		}
+
+	}
+	BOR_Georesh_Nalik={
+		name="Georesh Nalik"
+
+		advisor={
+			slot = political_advisor
+			idea_token = BOR_Georesh_Nalik
+				traits = {	first_lady 	}
+		}
+
+	}
+	BOR_Jaghan_Nalik={
+		name="Jaghan Nalik"
+
+		advisor={
+			slot = political_advisor
+			idea_token = BOR_Jaghan_Nalik
+				traits = {	famous_aviator 	}
+		}
+
+	}
+	BOR_Wilhelm_Weineelapeel={
+		name="Wilhelm Weineelapeel"
+
+		advisor={
+			slot = political_advisor
+			idea_token = BOR_Wilhelm_Weineelapeel
+				traits = {	the_young_magnate 	}
+		}
+
+	}
+	BOR_Senthil_Runamnai={
+		name="Senthil Runamnai"
+
+		advisor={
+			slot = political_advisor
+			idea_token = BOR_Senthil_Runamnai
+				traits = {	the_banker 	}
+		}
+
+	}
+	BOR_Amaq_Pipaadak={
+		name="Amaq Pipaadak"
+
+		advisor={
+			slot = army_chief
+			idea_token = BOR_Amaq_Pipaadak
+				traits = {	army_chief_drill_2 	}
+		}
+
+	}
+	BOR_Helm_Kaadam={
+		name="Helm Kaadam"
+
+		advisor={
+			slot = army_chief
+			idea_token = BOR_Helm_Kaadam
+				traits = {	army_chief_offensive_2 	}
+		}
+
+	}
+	BOR_Atkarald_Mozhi={
+		name="Atkarald Mozhi"
+
+		advisor={
+			slot = army_chief
+			idea_token = BOR_Atkarald_Mozhi
+				traits = {	army_chief_planning_1 	}
+		}
+
+	}
+	BOR_Otto_Pipaadak={
+		name="Otto Pipaadak"
+
+		advisor={
+			slot = army_chief
+			idea_token = BOR_Otto_Pipaadak
+				traits = {	army_chief_maneuver_2 	}
+		}
+
+	}
+	BOR_Kumaq_Mozhi={
+		name="Kumaq Mozhi"
+
+		advisor={
+			slot = navy_chief
+			idea_token = BOR_Kumaq_Mozhi
+				traits = {	navy_chief_reform_1 	}
+		}
+
+	}
+	BOR_Johavi_Arani={
+		name="Johavi Arani"
+
+		advisor={
+			slot = navy_chief
+			idea_token = BOR_Johavi_Arani
+				traits = {	navy_chief_naval_aviation_1 	}
+		}
+
+	}
+	BOR_Emil_Pipaadak={
+		name="Emil Pipaadak"
+
+		advisor={
+			slot = air_chief
+			idea_token = BOR_Emil_Pipaadak
+				traits = {	air_chief_reform_2 	}
+		}
+
+	}
+	BOR_Dirish_Nalik={
+		name="Dirish Nalik"
+
+		advisor={
+			slot = air_chief
+			idea_token = BOR_Dirish_Nalik
+				traits = {	air_chief_all_weather_2 	}
+		}
+
+	}
+	BOR_Ansels_Runamnai={
+		name="Ansels Runamnai"
+
+		advisor={
+			slot = high_command
+			idea_token = BOR_Ansels_Runamnai
+				traits = {	army_cavalry_2 	}
+		}
+
+	}
+	BOR_Sveen_Runamnai={
+		name="Sveen Runamnai"
+
+		advisor={
+			slot = high_command
+			idea_token = BOR_Sveen_Runamnai
+				traits = {	navy_carrier_1 	}
+		}
+
+	}
+	BOR_Matth_Arani={
+		name="Matth Arani"
+
+		advisor={
+			slot = high_command
+			idea_token = BOR_Matth_Arani
+				traits = {	army_commando_2 	}
+		}
+
+	}
+	BOR_Ajay_Nalik={
+		name="Ajay Nalik"
+
+		advisor={
+			slot = high_command
+			idea_token = BOR_Ajay_Nalik
+				traits = {	navy_capital_ship_2 	}
+		}
+
+	}
+	BOR_Leinod_Alaq={
+		name="Leinod Alaq"
+
+		advisor={
+			slot = high_command
+			idea_token = BOR_Leinod_Alaq
+				traits = {	army_commando_2 	}
+		}
+
+	}
+	BOR_Surd_Runamnai={
+		name="Surd Runamnai"
+
+		advisor={
+			slot = high_command
+			idea_token = BOR_Surd_Runamnai
+				traits = {	air_strategic_bombing_2 	}
+		}
+
+	}
+	BOR_Matth_Alaq={
+		name="Matth Alaq"
+
+		advisor={
+			slot = theorist
+			idea_token = BOR_Matth_Alaq
+				traits = {	military_theorist 	}
+		}
+
+	}
+	BOR_Otto_Suska={
+		name="Otto Suska"
+
+		advisor={
+			slot = theorist
+			idea_token = BOR_Otto_Suska
+				traits = {	naval_theorist 	}
+		}
+
+	}
+	BOR_Ragnuq_Kaadam={
+		name="Ragnuq Kaadam"
+
+		advisor={
+			slot = theorist
+			idea_token = BOR_Ragnuq_Kaadam
+				traits = {	air_warfare_theorist 	}
+		}
+
+	}
+}

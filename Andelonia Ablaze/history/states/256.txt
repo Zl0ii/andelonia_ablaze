@@ -1,0 +1,37 @@
+
+state={
+	id=256
+	name="STATE_256"
+	manpower = 1685999
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 5069 8}
+		
+		owner = DRR
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = DRR
+	}
+
+	provinces={
+		5067 5068 5069 5070 5071 5072 5073 5074 5075 5076 
+	}
+	local_supplies=0.0 
+}

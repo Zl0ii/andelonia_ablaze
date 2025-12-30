@@ -1,0 +1,22 @@
+air_wings = {
+		493 = { 								
+		small_plane_naval_bomber_airframe_1 = { owner = "FER" amount = 5 version_name = "Gorcra Mk 1" }
+medium_plane_airframe_0 = { owner = "FER" amount = 4 version_name = "Gorcra Mk 2" }
+
+	}
+	608 = { 								
+		small_plane_cas_airframe_1 = { owner = "FER" amount = 9 version_name = "Grilau Mk 1" }
+large_plane_airframe_0 = { owner = "FER" amount = 6 version_name = "Grilau Mk 0" }
+
+	}
+	33 = { 								
+		small_plane_airframe_1 = { owner = "FER" amount = 6 version_name = "Saka Mk 2" }
+large_plane_airframe_1 = { owner = "FER" amount = 4 version_name = "Suacheacol Mk 1" }
+small_plane_cas_airframe_0 = { owner = "FER" amount = 3 version_name = "Gorcra Mk 0" }
+small_plane_airframe_0 = { owner = "FER" amount = 5 version_name = "Peruh Mk 1" }
+small_plane_naval_bomber_airframe_0 = { owner = "FER" amount = 7 version_name = "Purumbut Mk 1" }
+
+	}
+
+
+}

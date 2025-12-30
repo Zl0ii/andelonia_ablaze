@@ -1,0 +1,29 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Khaneria Fleet"			
+		naval_base = 8995
+		task_force = {
+			name = "Khaneria Fleet"
+			location = 8995
+			
+						ship = { name = "Tafrawt" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = KHN version_name = "Eurasun Class" } }	}
+			ship = { name = "Eurasun" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = KHN version_name = "Eurasun Class" } }	}
+			ship = { name = "Milarawezi" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = KHN version_name = "Eurasun Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

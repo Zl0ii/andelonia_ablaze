@@ -1,0 +1,42 @@
+
+state={
+	id=298
+	name="STATE_298"
+	manpower = 5616618
+	
+	state_category = large_city
+	resources={
+		aluminium=1
+		chromium=3
+		oil=2
+		rubber=0
+		steel=2
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 5864 17}
+		victory_points = { 5873 4}
+		victory_points = { 5894 7}
+		
+		owner = ADR
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 2
+			
+			5873 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = ADR
+	}
+
+	provinces={
+		5863 5864 5865 5866 5867 5868 5869 5870 5871 5872 5873 5874 5875 5876 5877 5878 5879 5880 5881 5882 5883 5884 5885 5886 5887 5888 5889 5890 5891 5892 5893 5894 5895 5896 5897 5898 5899 5900 5901 5902 5903 
+	}
+	local_supplies=0.0 
+}

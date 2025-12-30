@@ -1,0 +1,40 @@
+
+state={
+	id=271
+	name="STATE_271"
+	manpower = 909921
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 5363 4}
+		
+		owner = ADR
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 0
+			
+			5364 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = ADR
+	}
+
+	provinces={
+		5360 5361 5362 5363 5364 
+	}
+	local_supplies=0.0 
+}

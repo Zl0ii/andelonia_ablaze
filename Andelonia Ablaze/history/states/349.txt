@@ -1,0 +1,37 @@
+
+state={
+	id=349
+	name="STATE_349"
+	manpower = 1291666
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 6768 5}
+		
+		owner = SIL
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = SIL
+	}
+
+	provinces={
+		6768 6769 6770 6771 6772 6773 6774 6775 6776 
+	}
+	local_supplies=0.0 
+}

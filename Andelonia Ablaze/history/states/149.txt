@@ -1,0 +1,39 @@
+
+state={
+	id=149
+	name="STATE_149"
+	manpower = 2434360
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=4
+	}
+
+	history={
+		victory_points = { 3016 4}
+		victory_points = { 3018 5}
+		victory_points = { 3019 1}
+		
+		owner = REL
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = REL
+	}
+
+	provinces={
+		3014 3015 3016 3017 3018 3019 3020 3021 3022 3023 3024 3025 3026 3027 3028 
+	}
+	local_supplies=0.0 
+}

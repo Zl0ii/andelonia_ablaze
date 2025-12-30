@@ -1,0 +1,42 @@
+
+state={
+	id=31
+	name="STATE_31"
+	manpower = 3494178
+	
+	state_category = large_town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=1
+		coal=0
+	}
+
+	history={
+		victory_points = { 677 7}
+		victory_points = { 678 7}
+		victory_points = { 679 3}
+		
+		owner = DRR
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			arms_factory = 0
+			industrial_complex = 1
+			
+			682 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = DRR
+	}
+
+	provinces={
+		664 665 666 667 668 669 670 671 672 673 674 675 676 677 678 679 680 681 682 683 684 685 686 
+	}
+	local_supplies=0.0 
+}

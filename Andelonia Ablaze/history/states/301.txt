@@ -1,0 +1,38 @@
+
+state={
+	id=301
+	name="STATE_301"
+	manpower = 1012595
+	
+	state_category = pastoral
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=2
+		tungsten=1
+		coal=0
+	}
+
+	history={
+		victory_points = { 5950 2}
+		victory_points = { 5956 2}
+		
+		owner = SAR
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = SAR
+	}
+
+	provinces={
+		5945 5946 5947 5948 5949 5950 5951 5952 5953 5954 5955 5956 
+	}
+	local_supplies=0.0 
+}

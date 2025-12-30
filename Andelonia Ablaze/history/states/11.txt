@@ -1,0 +1,37 @@
+
+state={
+	id=11
+	name="STATE_11"
+	manpower = 3350100
+	
+	state_category = large_town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 236 17}
+		
+		owner = SIL
+		buildings = {
+			infrastructure = 2
+			air_base = 3
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = SIL
+	}
+
+	provinces={
+		233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 
+	}
+	local_supplies=0.0 
+}

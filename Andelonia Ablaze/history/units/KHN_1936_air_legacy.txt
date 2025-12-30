@@ -1,0 +1,31 @@
+air_wings = {
+		458 = { 								
+		CAS_equipment_0 = { owner = "KHN" amount = 50 version_name = "Oihotza Mk 2" }
+CAS_equipment_0 = { owner = "KHN" amount = 50 version_name = "Oihotza Mk 2" }
+
+	}
+	348 = { 								
+		strat_bomber_equipment_0 = { owner = "KHN" amount = 50 version_name = "Gaute Mk 1" }
+
+	}
+	411 = { 								
+		strat_bomber_equipment_0 = { owner = "KHN" amount = 50 version_name = "Gaute Mk 1" }
+strat_bomber_equipment_0 = { owner = "KHN" amount = 50 version_name = "Gaute Mk 1" }
+fighter_equipment_0 = { owner = "KHN" amount = 50 version_name = "Shinda Mk 0" }
+
+	}
+	418 = { 								
+		strat_bomber_equipment_0 = { owner = "KHN" amount = 50 version_name = "Gaute Mk 2" }
+
+	}
+	175 = { 								
+		fighter_equipment_0 = { owner = "KHN" amount = 50 version_name = "Shinda Mk 0" }
+
+	}
+	225 = { 								
+		strat_bomber_equipment_0 = { owner = "KHN" amount = 50 version_name = "Gaute Mk 2" }
+
+	}
+
+
+}

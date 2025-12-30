@@ -1,0 +1,880 @@
+characters = {
+	SAR_Ulricto_Comantzakehr={
+		name="Ulricto Comantzakehr"
+
+		
+		country_leader={
+			ideology=moderatism
+			traits = { inexperienced_monarch  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	SAR_Benatthias_Nacon={
+		name="Benatthias Nacon"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAR_Benatthias_Nacon
+				traits = {	exiled 	}
+		}
+
+	}
+	SAR_Xabier_Comantzakehr={
+		name="Xabier Comantzakehr"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAR_Xabier_Comantzakehr
+				traits = {	humble 	}
+		}
+
+	}
+	SAR_Rudo_Sollo={
+		name="Rudo Sollo"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAR_Rudo_Sollo
+				traits = {	cabinet_crisis 	}
+		}
+
+	}
+	SAR_Steonio_Welmer={
+		name="Steonio Welmer"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAR_Steonio_Welmer
+				traits = {	inexperienced_monarch 	}
+		}
+
+	}
+	SAR_Unaitz_Demicht={
+		name="Unaitz Demicht"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAR_Unaitz_Demicht
+				traits = {	exiled 	}
+		}
+
+	}
+	SAR_Helmut_Comantzakehr={
+		name="Helmut Comantzakehr"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAR_Helmut_Comantzakehr
+				traits = {	cabinet_crisis 	}
+		}
+
+	}
+	SAR_Willexan_Bakartra={
+		name="Willexan Bakartra"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAR_Willexan_Bakartra
+				traits = {	army_chief_maneuver_2 	}
+		}
+
+	}
+	SAR_Leif_Demicht={
+		name="Leif Demicht"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAR_Leif_Demicht
+				traits = {	army_chief_organizational_1 	}
+		}
+
+	}
+	SAR_Cars_Bakartra={
+		name="Cars Bakartra"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAR_Cars_Bakartra
+				traits = {	army_chief_organizational_2 	}
+		}
+
+	}
+	SAR_Mars_Todea={
+		name="Mars Todea"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAR_Mars_Todea
+				traits = {	army_chief_drill_1 	}
+		}
+
+	}
+	SAR_Bjorg_Demicht={
+		name="Bjorg Demicht"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SAR_Bjorg_Demicht
+				traits = {	navy_chief_maneuver_1 	}
+		}
+
+	}
+	SAR_Volfrenarald_Bakartra={
+		name="Volfrenarald Bakartra"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SAR_Volfrenarald_Bakartra
+				traits = {	navy_chief_naval_aviation_1 	}
+		}
+
+	}
+	SAR_Rudo_Fiumetaglieb={
+		name="Rudo Fiumetaglieb"
+
+		advisor={
+			slot = air_chief
+			idea_token = SAR_Rudo_Fiumetaglieb
+				traits = {	air_chief_ground_support_1 	}
+		}
+
+	}
+	SAR_Hertor_Todea={
+		name="Hertor Todea"
+
+		advisor={
+			slot = air_chief
+			idea_token = SAR_Hertor_Todea
+				traits = {	air_chief_ground_support_2 	}
+		}
+
+	}
+	SAR_Gaizkaitz_Welmer={
+		name="Gaizkaitz Welmer"
+
+		advisor={
+			slot = high_command
+			idea_token = SAR_Gaizkaitz_Welmer
+				traits = {	navy_naval_air_defense_2 	}
+		}
+
+	}
+	SAR_Ikermann_Sollo={
+		name="Ikermann Sollo"
+
+		advisor={
+			slot = high_command
+			idea_token = SAR_Ikermann_Sollo
+				traits = {	air_pilot_training_2 	}
+		}
+
+	}
+	SAR_Leif_Sollo={
+		name="Leif Sollo"
+
+		advisor={
+			slot = high_command
+			idea_token = SAR_Leif_Sollo
+				traits = {	air_strategic_bombing_2 	}
+		}
+
+	}
+	SAR_Stefan_Fiumetaglieb={
+		name="Stefan Fiumetaglieb"
+
+		advisor={
+			slot = high_command
+			idea_token = SAR_Stefan_Fiumetaglieb
+				traits = {	army_CombinedArms_2 	}
+		}
+
+	}
+	SAR_Eirk_Nacon={
+		name="Eirk Nacon"
+
+		advisor={
+			slot = high_command
+			idea_token = SAR_Eirk_Nacon
+				traits = {	army_artillery_2 	}
+		}
+
+	}
+	SAR_Reif_Bakartra={
+		name="Reif Bakartra"
+
+		advisor={
+			slot = high_command
+			idea_token = SAR_Reif_Bakartra
+				traits = {	navy_fleet_logistics_2 	}
+		}
+
+	}
+	SAR_Xablo_Todea={
+		name="Xablo Todea"
+
+		
+		country_leader={
+			ideology=rexism
+			traits = { polemarch  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	SAR_Steon_Inaube={
+		name="Steon Inaube"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAR_Steon_Inaube
+				traits = {	basileus 	}
+		}
+
+	}
+	SAR_Kardo_Fiumetaglieb={
+		name="Kardo Fiumetaglieb"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAR_Kardo_Fiumetaglieb
+				traits = {	autocratic_imperialist 	}
+		}
+
+	}
+	SAR_Sigurdolosel_Fedemen={
+		name="Sigurdolosel Fedemen"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAR_Sigurdolosel_Fedemen
+				traits = {	spirit_of_genghis 	}
+		}
+
+	}
+	SAR_Geon_Nacon={
+		name="Geon Nacon"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAR_Geon_Nacon
+				traits = {	the_young_magnate 	}
+		}
+
+	}
+	SAR_Pedro_Inaube={
+		name="Pedro Inaube"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAR_Pedro_Inaube
+				traits = {	infirm 	}
+		}
+
+	}
+	SAR_Roberman_Comantzakehr={
+		name="Roberman Comantzakehr"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAR_Roberman_Comantzakehr
+				traits = {	the_young_magnate 	}
+		}
+
+	}
+	SAR_Unaitz_Todea={
+		name="Unaitz Todea"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAR_Unaitz_Todea
+				traits = {	army_chief_maneuver_2 	}
+		}
+
+	}
+	SAR_Ulritz_Welmer={
+		name="Ulritz Welmer"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAR_Ulritz_Welmer
+				traits = {	army_chief_reform_1 	}
+		}
+
+	}
+	SAR_Jeano_Demicht={
+		name="Jeano Demicht"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAR_Jeano_Demicht
+				traits = {	army_chief_morale_1 	}
+		}
+
+	}
+	SAR_Jonaritorn_Demicht={
+		name="Jonaritorn Demicht"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAR_Jonaritorn_Demicht
+				traits = {	army_chief_offensive_1 	}
+		}
+
+	}
+	SAR_Helm_Demicht={
+		name="Helm Demicht"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SAR_Helm_Demicht
+				traits = {	navy_chief_maneuver_1 	}
+		}
+
+	}
+	SAR_Ulrio_Welmer={
+		name="Ulrio Welmer"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SAR_Ulrio_Welmer
+				traits = {	navy_chief_decisive_battle_2 	}
+		}
+
+	}
+	SAR_Nicold_Fiumetaglieb={
+		name="Nicold Fiumetaglieb"
+
+		advisor={
+			slot = air_chief
+			idea_token = SAR_Nicold_Fiumetaglieb
+				traits = {	air_chief_ground_support_1 	}
+		}
+
+	}
+	SAR_Steonio_Sollo={
+		name="Steonio Sollo"
+
+		advisor={
+			slot = air_chief
+			idea_token = SAR_Steonio_Sollo
+				traits = {	air_chief_night_operations_1 	}
+		}
+
+	}
+	SAR_Ricto_Welmer={
+		name="Ricto Welmer"
+
+		advisor={
+			slot = high_command
+			idea_token = SAR_Ricto_Welmer
+				traits = {	navy_anti_submarine_1 	}
+		}
+
+	}
+	SAR_Steon_Welmer={
+		name="Steon Welmer"
+
+		advisor={
+			slot = high_command
+			idea_token = SAR_Steon_Welmer
+				traits = {	navy_capital_ship_2 	}
+		}
+
+	}
+	SAR_Mars_Sollo={
+		name="Mars Sollo"
+
+		advisor={
+			slot = high_command
+			idea_token = SAR_Mars_Sollo
+				traits = {	army_regrouping_2 	}
+		}
+
+	}
+	SAR_Steon_Comantzakehr={
+		name="Steon Comantzakehr"
+
+		advisor={
+			slot = high_command
+			idea_token = SAR_Steon_Comantzakehr
+				traits = {	army_CombinedArms_1 	}
+		}
+
+	}
+	SAR_Sigur_Inaube={
+		name="Sigur Inaube"
+
+		advisor={
+			slot = high_command
+			idea_token = SAR_Sigur_Inaube
+				traits = {	air_airborne_2 	}
+		}
+
+	}
+	SAR_Rudolf_Bakartra={
+		name="Rudolf Bakartra"
+
+		advisor={
+			slot = high_command
+			idea_token = SAR_Rudolf_Bakartra
+				traits = {	army_artillery_2 	}
+		}
+
+	}
+	SAR_Larkai_Todea={
+		name="Larkai Todea"
+
+		
+		country_leader={
+			ideology=anarchist_communism
+			traits = { reluctant_stalinist  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	SAR_Nicomo_Bakartra={
+		name="Nicomo Bakartra"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAR_Nicomo_Bakartra
+				traits = {	polemarch 	}
+		}
+
+	}
+	SAR_Sigurd_Fiumetaglieb={
+		name="Sigurd Fiumetaglieb"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAR_Sigurd_Fiumetaglieb
+				traits = {	mastermind_code_cracker 	}
+		}
+
+	}
+	SAR_Maran_Nacon={
+		name="Maran Nacon"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAR_Maran_Nacon
+				traits = {	political_dancer 	}
+		}
+
+	}
+	SAR_Andro_Bakartra={
+		name="Andro Bakartra"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAR_Andro_Bakartra
+				traits = {	infirm 	}
+		}
+
+	}
+	SAR_Johars_Sollo={
+		name="Johars Sollo"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAR_Johars_Sollo
+				traits = {	polemarch 	}
+		}
+
+	}
+	SAR_Nicomo_Demicht={
+		name="Nicomo Demicht"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAR_Nicomo_Demicht
+				traits = {	polemarch 	}
+		}
+
+	}
+	SAR_Helm_Nacon={
+		name="Helm Nacon"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAR_Helm_Nacon
+				traits = {	army_chief_drill_1 	}
+		}
+
+	}
+	SAR_Hels_Welmer={
+		name="Hels Welmer"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAR_Hels_Welmer
+				traits = {	army_chief_defensive_2 	}
+		}
+
+	}
+	SAR_Xablo_Fiumetaglieb={
+		name="Xablo Fiumetaglieb"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAR_Xablo_Fiumetaglieb
+				traits = {	army_chief_organizational_1 	}
+		}
+
+	}
+	SAR_Volf_Welmer={
+		name="Volf Welmer"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAR_Volf_Welmer
+				traits = {	army_chief_entrenchment_2 	}
+		}
+
+	}
+	SAR_Ulrio_Demicht={
+		name="Ulrio Demicht"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SAR_Ulrio_Demicht
+				traits = {	navy_chief_reform_1 	}
+		}
+
+	}
+	SAR_Ulrio_Todea={
+		name="Ulrio Todea"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SAR_Ulrio_Todea
+				traits = {	navy_chief_commerce_raiding_1 	}
+		}
+
+	}
+	SAR_Xanselmut_Sollo={
+		name="Xanselmut Sollo"
+
+		advisor={
+			slot = air_chief
+			idea_token = SAR_Xanselmut_Sollo
+				traits = {	air_chief_old_guard_1 	}
+		}
+
+	}
+	SAR_Rudolf_Welmer={
+		name="Rudolf Welmer"
+
+		advisor={
+			slot = air_chief
+			idea_token = SAR_Rudolf_Welmer
+				traits = {	air_chief_reform_2 	}
+		}
+
+	}
+	SAR_Marl_Bakartra={
+		name="Marl Bakartra"
+
+		advisor={
+			slot = high_command
+			idea_token = SAR_Marl_Bakartra
+				traits = {	air_bomber_interception_1 	}
+		}
+
+	}
+	SAR_Ulrio_Fiumetaglieb={
+		name="Ulrio Fiumetaglieb"
+
+		advisor={
+			slot = high_command
+			idea_token = SAR_Ulrio_Fiumetaglieb
+				traits = {	army_radio_intelligence_1 	}
+		}
+
+	}
+	SAR_Nico_Sollo={
+		name="Nico Sollo"
+
+		advisor={
+			slot = high_command
+			idea_token = SAR_Nico_Sollo
+				traits = {	army_logistics_2 	}
+		}
+
+	}
+	SAR_Gore_Sollo={
+		name="Gore Sollo"
+
+		advisor={
+			slot = high_command
+			idea_token = SAR_Gore_Sollo
+				traits = {	army_infantry_2 	}
+		}
+
+	}
+	SAR_Volfrenarald_Inaube={
+		name="Volfrenarald Inaube"
+
+		advisor={
+			slot = high_command
+			idea_token = SAR_Volfrenarald_Inaube
+				traits = {	navy_naval_air_defense_2 	}
+		}
+
+	}
+	SAR_Ekai_Nacon={
+		name="Ekai Nacon"
+
+		advisor={
+			slot = high_command
+			idea_token = SAR_Ekai_Nacon
+				traits = {	air_tactical_bombing_2 	}
+		}
+
+	}
+	SAR_Alber_Sollo={
+		name="Alber Sollo"
+
+		
+		country_leader={
+			ideology=liberalism
+			traits = { chamberlain_appeaser  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	SAR_Nicharan_Inaube={
+		name="Nicharan Inaube"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAR_Nicharan_Inaube
+				traits = {	the_banker 	}
+		}
+
+	}
+	SAR_Mars_Comantzakehr={
+		name="Mars Comantzakehr"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAR_Mars_Comantzakehr
+				traits = {	first_lady 	}
+		}
+
+	}
+	SAR_Cars_Inaube={
+		name="Cars Inaube"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAR_Cars_Inaube
+				traits = {	the_young_magnate 	}
+		}
+
+	}
+	SAR_Helm_Sollo={
+		name="Helm Sollo"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAR_Helm_Sollo
+				traits = {	british_bulldog 	}
+		}
+
+	}
+	SAR_Ulricto_Fiumetaglieb={
+		name="Ulricto Fiumetaglieb"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAR_Ulricto_Fiumetaglieb
+				traits = {	infirm 	}
+		}
+
+	}
+	SAR_Steon_Fedemen={
+		name="Steon Fedemen"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAR_Steon_Fedemen
+				traits = {	conservative_grandee 	}
+		}
+
+	}
+	SAR_Jonaritorn_Sollo={
+		name="Jonaritorn Sollo"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAR_Jonaritorn_Sollo
+				traits = {	army_chief_organizational_2 	}
+		}
+
+	}
+	SAR_Aitz_Inaube={
+		name="Aitz Inaube"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAR_Aitz_Inaube
+				traits = {	army_chief_offensive_1 	}
+		}
+
+	}
+	SAR_Nico_Demicht={
+		name="Nico Demicht"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAR_Nico_Demicht
+				traits = {	army_chief_planning_1 	}
+		}
+
+	}
+	SAR_Larkai_Fiumetaglieb={
+		name="Larkai Fiumetaglieb"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAR_Larkai_Fiumetaglieb
+				traits = {	army_chief_reform_1 	}
+		}
+
+	}
+	SAR_Bjorenatto_Nacon={
+		name="Bjorenatto Nacon"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SAR_Bjorenatto_Nacon
+				traits = {	navy_chief_naval_aviation_2 	}
+		}
+
+	}
+	SAR_Jonio_Nacon={
+		name="Jonio Nacon"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SAR_Jonio_Nacon
+				traits = {	navy_chief_naval_aviation_2 	}
+		}
+
+	}
+	SAR_Aitz_Fiumetaglieb={
+		name="Aitz Fiumetaglieb"
+
+		advisor={
+			slot = air_chief
+			idea_token = SAR_Aitz_Fiumetaglieb
+				traits = {	air_chief_old_guard_1 	}
+		}
+
+	}
+	SAR_Alber_Comantzakehr={
+		name="Alber Comantzakehr"
+
+		advisor={
+			slot = air_chief
+			idea_token = SAR_Alber_Comantzakehr
+				traits = {	air_chief_old_guard_2 	}
+		}
+
+	}
+	SAR_Larkai_Inaube={
+		name="Larkai Inaube"
+
+		advisor={
+			slot = high_command
+			idea_token = SAR_Larkai_Inaube
+				traits = {	navy_screen_1 	}
+		}
+
+	}
+	SAR_Hard_Fedemen={
+		name="Hard Fedemen"
+
+		advisor={
+			slot = high_command
+			idea_token = SAR_Hard_Fedemen
+				traits = {	navy_fleet_logistics_1 	}
+		}
+
+	}
+	SAR_Rold_Sollo={
+		name="Rold Sollo"
+
+		advisor={
+			slot = high_command
+			idea_token = SAR_Rold_Sollo
+				traits = {	air_naval_strike_1 	}
+		}
+
+	}
+	SAR_Eirk_Sollo={
+		name="Eirk Sollo"
+
+		advisor={
+			slot = high_command
+			idea_token = SAR_Eirk_Sollo
+				traits = {	air_tactical_bombing_1 	}
+		}
+
+	}
+	SAR_Rich_Nacon={
+		name="Rich Nacon"
+
+		advisor={
+			slot = high_command
+			idea_token = SAR_Rich_Nacon
+				traits = {	army_radio_intelligence_1 	}
+		}
+
+	}
+	SAR_Rudolf_Nacon={
+		name="Rudolf Nacon"
+
+		advisor={
+			slot = high_command
+			idea_token = SAR_Rudolf_Nacon
+				traits = {	air_airborne_2 	}
+		}
+
+	}
+	SAR_Benatthias_Comantzakehr={
+		name="Benatthias Comantzakehr"
+
+		advisor={
+			slot = theorist
+			idea_token = SAR_Benatthias_Comantzakehr
+				traits = {	military_theorist 	}
+		}
+
+	}
+	SAR_Vicard_Sollo={
+		name="Vicard Sollo"
+
+		advisor={
+			slot = theorist
+			idea_token = SAR_Vicard_Sollo
+				traits = {	naval_theorist 	}
+		}
+
+	}
+	SAR_Richarlose_Inaube={
+		name="Richarlose Inaube"
+
+		advisor={
+			slot = theorist
+			idea_token = SAR_Richarlose_Inaube
+				traits = {	air_warfare_theorist 	}
+		}
+
+	}
+}

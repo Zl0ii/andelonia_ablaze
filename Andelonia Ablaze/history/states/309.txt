@@ -1,0 +1,40 @@
+
+state={
+	id=309
+	name="STATE_309"
+	manpower = 3526969
+	
+	state_category = large_town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=1
+		coal=0
+	}
+
+	history={
+		victory_points = { 6085 5}
+		victory_points = { 6094 10}
+		victory_points = { 6096 2}
+		victory_points = { 6099 2}
+		
+		owner = REL
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = REL
+	}
+
+	provinces={
+		6079 6080 6081 6082 6083 6084 6085 6086 6087 6088 6089 6090 6091 6092 6093 6094 6095 6096 6097 6098 6099 6100 6101 
+	}
+	local_supplies=0.0 
+}

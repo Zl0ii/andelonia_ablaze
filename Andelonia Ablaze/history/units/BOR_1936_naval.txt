@@ -1,0 +1,27 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Bornar Fleet"			
+		naval_base = 10804
+		task_force = {
+			name = "Bornar Fleet"
+			location = 10804
+			
+						ship = { name = "Alaq" definition = battle_cruiser equipment = { battle_cruiser_1 = { amount = 1 owner = BOR version_name = "Kuvutaq Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

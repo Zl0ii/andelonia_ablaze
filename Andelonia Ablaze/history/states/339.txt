@@ -1,0 +1,37 @@
+
+state={
+	id=339
+	name="STATE_339"
+	manpower = 1985099
+	
+	state_category = town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 6643 9}
+		
+		owner = ADR
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = ADR
+	}
+
+	provinces={
+		6639 6640 6641 6642 6643 6644 6645 6646 6647 6648 6649 6650 6651 6652 
+	}
+	local_supplies=0.0 
+}

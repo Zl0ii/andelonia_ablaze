@@ -1,0 +1,38 @@
+
+state={
+	id=548
+	name="STATE_548"
+	manpower = 2395388
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=2
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 10733 8}
+		victory_points = { 10737 4}
+		
+		owner = SIL
+		buildings = {
+			infrastructure = 2
+			air_base = 3
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = SIL
+	}
+
+	provinces={
+		10728 10729 10730 10731 10732 10733 10734 10735 10736 10737 10738 10739 10740 10741 10742 10743 
+	}
+	local_supplies=0.0 
+}

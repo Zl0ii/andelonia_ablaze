@@ -1,0 +1,40 @@
+
+state={
+	id=184
+	name="STATE_184"
+	manpower = 70228
+	
+	state_category = small_island
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 3698 1}
+		
+		owner = TON
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 0
+			
+			3698 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = TON
+	}
+
+	provinces={
+		3698 
+	}
+	local_supplies=0.0 
+}

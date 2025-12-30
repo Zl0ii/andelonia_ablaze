@@ -1,0 +1,40 @@
+
+state={
+	id=85
+	name="STATE_85"
+	manpower = 3252524
+	
+	state_category = large_town
+	resources={
+		aluminium=1
+		chromium=1
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 1714 2}
+		victory_points = { 1718 1}
+		victory_points = { 1723 1}
+		victory_points = { 1732 13}
+		
+		owner = DRR
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = DRR
+	}
+
+	provinces={
+		1714 1715 1716 1717 1718 1719 1720 1721 1722 1723 1724 1725 1726 1727 1728 1729 1730 1731 1732 1733 1734 
+	}
+	local_supplies=0.0 
+}

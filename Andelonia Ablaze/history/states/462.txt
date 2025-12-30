@@ -1,0 +1,40 @@
+
+state={
+	id=462
+	name="STATE_462"
+	manpower = 703458
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 8994 3}
+		
+		owner = KHN
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			8995 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = KHN
+	}
+
+	provinces={
+		8994 8995 8996 8997 
+	}
+	local_supplies=0.0 
+}

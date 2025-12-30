@@ -1,0 +1,41 @@
+
+state={
+	id=475
+	name="STATE_475"
+	manpower = 987474
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 9205 1}
+		victory_points = { 9207 3}
+		
+		owner = BOR
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			9208 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = BOR
+	}
+
+	provinces={
+		9205 9206 9207 9208 9209 9210 
+	}
+	local_supplies=0.0 
+}

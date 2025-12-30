@@ -1,0 +1,38 @@
+
+state={
+	id=98
+	name="STATE_98"
+	manpower = 7625226
+	
+	state_category = metropolis
+	resources={
+		aluminium=1
+		chromium=1
+		oil=1
+		rubber=0
+		steel=2
+		tungsten=2
+		coal=0
+	}
+
+	history={
+		victory_points = { 2115 39}
+		victory_points = { 2123 1}
+		
+		owner = SIL
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 3
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = SIL
+	}
+
+	provinces={
+		2069 2070 2071 2072 2073 2074 2075 2076 2077 2078 2079 2080 2081 2082 2083 2084 2085 2086 2087 2088 2089 2090 2091 2092 2093 2094 2095 2096 2097 2098 2099 2100 2101 2102 2103 2104 2105 2106 2107 2108 2109 2110 2111 2112 2113 2114 2115 2116 2117 2118 2119 2120 2121 2122 2123 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,41 @@
+
+state={
+	id=18
+	name="STATE_18"
+	manpower = 1118294
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 362 2}
+		victory_points = { 365 2}
+		
+		owner = REL
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			363 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = REL
+	}
+
+	provinces={
+		362 363 364 365 366 367 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,41 @@
+
+state={
+	id=35
+	name="STATE_35"
+	manpower = 1090129
+	
+	state_category = rural
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 728 3}
+		victory_points = { 730 1}
+		
+		owner = DRR
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			730 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = DRR
+	}
+
+	provinces={
+		728 729 730 731 732 733 
+	}
+	local_supplies=0.0 
+}

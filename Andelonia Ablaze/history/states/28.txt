@@ -1,0 +1,38 @@
+
+state={
+	id=28
+	name="STATE_28"
+	manpower = 2298451
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=3
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 608 3}
+		victory_points = { 610 8}
+		
+		owner = BOR
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = BOR
+	}
+
+	provinces={
+		606 607 608 609 610 611 612 613 614 615 616 617 618 619 620 621 
+	}
+	local_supplies=0.0 
+}

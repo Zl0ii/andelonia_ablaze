@@ -1,0 +1,38 @@
+
+state={
+	id=409
+	name="STATE_409"
+	manpower = 2516020
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=3
+		oil=2
+		rubber=0
+		steel=1
+		tungsten=1
+		coal=0
+	}
+
+	history={
+		victory_points = { 8023 6}
+		victory_points = { 8040 6}
+		
+		owner = SIL
+		buildings = {
+			infrastructure = 2
+			air_base = 5
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = SIL
+	}
+
+	provinces={
+		8023 8024 8025 8026 8027 8028 8029 8030 8031 8032 8033 8034 8035 8036 8037 8038 8039 8040 
+	}
+	local_supplies=0.0 
+}

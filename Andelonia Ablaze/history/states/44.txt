@@ -1,0 +1,41 @@
+
+state={
+	id=44
+	name="STATE_44"
+	manpower = 4357948
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=1
+		coal=0
+	}
+
+	history={
+		victory_points = { 940 1}
+		victory_points = { 945 21}
+		
+		owner = SAR
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			932 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = SAR
+	}
+
+	provinces={
+		916 917 918 919 920 921 922 923 924 925 926 927 928 929 930 931 932 933 934 935 936 937 938 939 940 941 942 943 944 945 946 
+	}
+	local_supplies=0.0 
+}

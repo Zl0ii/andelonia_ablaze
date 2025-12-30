@@ -1,0 +1,62 @@
+air_wings = {
+		344 = { 								
+		tac_bomber_equipment_0 = { owner = "REL" amount = 50 version_name = "Bunt Mk 1" }
+fighter_equipment_0 = { owner = "REL" amount = 50 version_name = "Soglamdancha Mk 0" }
+
+	}
+	372 = { 								
+		fighter_equipment_0 = { owner = "REL" amount = 50 version_name = "Soglamdancha Mk 0" }
+
+	}
+	387 = { 								
+		tac_bomber_equipment_0 = { owner = "REL" amount = 50 version_name = "Bunt Mk 1" }
+tac_bomber_equipment_0 = { owner = "REL" amount = 50 version_name = "Bunt Mk 1" }
+
+	}
+	429 = { 								
+		strat_bomber_equipment_0 = { owner = "REL" amount = 50 version_name = "Domhregiava Mk 0" }
+
+	}
+	407 = { 								
+		fighter_equipment_0 = { owner = "REL" amount = 50 version_name = "Soglamdancha Mk 0" }
+
+	}
+	449 = { 								
+		tac_bomber_equipment_0 = { owner = "REL" amount = 50 version_name = "Soglamdancha Mk 1" }
+
+	}
+	34 = { 								
+		CAS_equipment_0 = { owner = "REL" amount = 50 version_name = "Volo Mk 2" }
+
+	}
+	110 = { 								
+		nav_bomber_equipment_0 = { owner = "REL" amount = 50 version_name = "Feile Mk 1" }
+
+	}
+	252 = { 								
+		CAS_equipment_0 = { owner = "REL" amount = 50 version_name = "Volo Mk 2" }
+
+	}
+	292 = { 								
+		tac_bomber_equipment_0 = { owner = "REL" amount = 50 version_name = "Soglamdancha Mk 1" }
+
+	}
+	319 = { 								
+		strat_bomber_equipment_0 = { owner = "REL" amount = 50 version_name = "Domhregiava Mk 0" }
+
+	}
+	322 = { 								
+		CAS_equipment_0 = { owner = "REL" amount = 50 version_name = "Volo Mk 2" }
+
+	}
+	327 = { 								
+		tac_bomber_equipment_0 = { owner = "REL" amount = 50 version_name = "Soglamdancha Mk 1" }
+
+	}
+	5 = { 								
+		nav_bomber_equipment_0 = { owner = "REL" amount = 50 version_name = "Feile Mk 1" }
+
+	}
+
+
+}

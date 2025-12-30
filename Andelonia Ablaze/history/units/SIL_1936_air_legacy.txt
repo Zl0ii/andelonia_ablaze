@@ -1,0 +1,81 @@
+air_wings = {
+		482 = { 								
+		CAS_equipment_0 = { owner = "SIL" amount = 50 version_name = "Herealabairl Mk 2" }
+CAS_equipment_0 = { owner = "SIL" amount = 50 version_name = "Agach Mk 0" }
+nav_bomber_equipment_0 = { owner = "SIL" amount = 50 version_name = "Haradea Mk 2" }
+
+	}
+	480 = { 								
+		fighter_equipment_0 = { owner = "SIL" amount = 50 version_name = "Beata Mk 2" }
+
+	}
+	489 = { 								
+		nav_bomber_equipment_0 = { owner = "SIL" amount = 50 version_name = "Haradea Mk 2" }
+
+	}
+	478 = { 								
+		CAS_equipment_0 = { owner = "SIL" amount = 50 version_name = "Herealabairl Mk 2" }
+fighter_equipment_0 = { owner = "SIL" amount = 50 version_name = "Haradea Mk 1" }
+
+	}
+	505 = { 								
+		tac_bomber_equipment_0 = { owner = "SIL" amount = 50 version_name = "Herealabairl Mk 2" }
+
+	}
+	521 = { 								
+		nav_bomber_equipment_0 = { owner = "SIL" amount = 50 version_name = "Zuharrionn Mk 2" }
+
+	}
+	548 = { 								
+		nav_bomber_equipment_0 = { owner = "SIL" amount = 50 version_name = "Zuharrionn Mk 2" }
+
+	}
+	375 = { 								
+		CAS_equipment_0 = { owner = "SIL" amount = 50 version_name = "Agach Mk 0" }
+
+	}
+	400 = { 								
+		tac_bomber_equipment_0 = { owner = "SIL" amount = 50 version_name = "Herealabairl Mk 2" }
+
+	}
+	82 = { 								
+		tac_bomber_equipment_0 = { owner = "SIL" amount = 50 version_name = "Herealabairl Mk 2" }
+
+	}
+	117 = { 								
+		CAS_equipment_0 = { owner = "SIL" amount = 50 version_name = "Herealabairl Mk 2" }
+fighter_equipment_0 = { owner = "SIL" amount = 50 version_name = "Beata Mk 2" }
+nav_bomber_equipment_0 = { owner = "SIL" amount = 50 version_name = "Zuharrionn Mk 2" }
+
+	}
+	144 = { 								
+		fighter_equipment_0 = { owner = "SIL" amount = 50 version_name = "Beata Mk 2" }
+
+	}
+	179 = { 								
+		fighter_equipment_0 = { owner = "SIL" amount = 50 version_name = "Haradea Mk 1" }
+
+	}
+	186 = { 								
+		CAS_equipment_0 = { owner = "SIL" amount = 50 version_name = "Agach Mk 0" }
+
+	}
+	224 = { 								
+		fighter_equipment_0 = { owner = "SIL" amount = 50 version_name = "Haradea Mk 1" }
+
+	}
+	258 = { 								
+		nav_bomber_equipment_0 = { owner = "SIL" amount = 50 version_name = "Zuharrionn Mk 2" }
+
+	}
+	324 = { 								
+		fighter_equipment_0 = { owner = "SIL" amount = 50 version_name = "Haradea Mk 1" }
+
+	}
+	317 = { 								
+		nav_bomber_equipment_0 = { owner = "SIL" amount = 50 version_name = "Haradea Mk 2" }
+
+	}
+
+
+}

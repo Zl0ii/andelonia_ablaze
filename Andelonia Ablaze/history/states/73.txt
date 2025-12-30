@@ -1,0 +1,38 @@
+
+state={
+	id=73
+	name="STATE_73"
+	manpower = 729417
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 1451 1}
+		victory_points = { 1452 2}
+		
+		owner = KAS
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = KAS
+	}
+
+	provinces={
+		1450 1451 1452 1453 
+	}
+	local_supplies=0.0 
+}

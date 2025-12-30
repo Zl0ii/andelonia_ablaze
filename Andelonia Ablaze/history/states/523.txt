@@ -1,0 +1,41 @@
+
+state={
+	id=523
+	name="STATE_523"
+	manpower = 3131228
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=1
+		coal=0
+	}
+
+	history={
+		victory_points = { 10205 1}
+		victory_points = { 10206 15}
+		
+		owner = BOR
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			10207 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = BOR
+	}
+
+	provinces={
+		10197 10198 10199 10200 10201 10202 10203 10204 10205 10206 10207 10208 10209 10210 10211 10212 10213 10214 10215 10216 10217 
+	}
+	local_supplies=0.0 
+}

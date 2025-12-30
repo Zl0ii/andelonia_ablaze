@@ -1,0 +1,38 @@
+
+state={
+	id=466
+	name="STATE_466"
+	manpower = 4386347
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=4
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 9045 6}
+		victory_points = { 9069 16}
+		
+		owner = BOR
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = BOR
+	}
+
+	provinces={
+		9040 9041 9042 9043 9044 9045 9046 9047 9048 9049 9050 9051 9052 9053 9054 9055 9056 9057 9058 9059 9060 9061 9062 9063 9064 9065 9066 9067 9068 9069 9070 9071 
+	}
+	local_supplies=0.0 
+}

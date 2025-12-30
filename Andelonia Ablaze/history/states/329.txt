@@ -1,0 +1,38 @@
+
+state={
+	id=329
+	name="STATE_329"
+	manpower = 1409661
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=3
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 6460 1}
+		victory_points = { 6461 5}
+		
+		owner = REL
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = REL
+	}
+
+	provinces={
+		6459 6460 6461 6462 6463 6464 6465 6466 
+	}
+	local_supplies=0.0 
+}

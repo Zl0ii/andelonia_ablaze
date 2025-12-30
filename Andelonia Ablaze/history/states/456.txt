@@ -1,0 +1,39 @@
+
+state={
+	id=456
+	name="STATE_456"
+	manpower = 2382421
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=2
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 8860 3}
+		victory_points = { 8861 6}
+		victory_points = { 8863 1}
+		
+		owner = PON
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = PON
+	}
+
+	provinces={
+		8856 8857 8858 8859 8860 8861 8862 8863 8864 8865 8866 8867 8868 8869 8870 8871 8872 8873 
+	}
+	local_supplies=0.0 
+}

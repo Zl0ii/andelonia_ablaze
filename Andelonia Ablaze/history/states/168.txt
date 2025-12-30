@@ -1,0 +1,40 @@
+
+state={
+	id=168
+	name="STATE_168"
+	manpower = 1945021
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=2
+		coal=0
+	}
+
+	history={
+		victory_points = { 3441 10}
+		
+		owner = REL
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			3449 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = REL
+	}
+
+	provinces={
+		3438 3439 3440 3441 3442 3443 3444 3445 3446 3447 3448 3449 
+	}
+	local_supplies=0.0 
+}

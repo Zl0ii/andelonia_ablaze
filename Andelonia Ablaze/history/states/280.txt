@@ -1,0 +1,39 @@
+
+state={
+	id=280
+	name="STATE_280"
+	manpower = 3493431
+	
+	state_category = large_town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 5494 5}
+		victory_points = { 5495 6}
+		victory_points = { 5506 5}
+		
+		owner = PON
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = PON
+	}
+
+	provinces={
+		5480 5481 5482 5483 5484 5485 5486 5487 5488 5489 5490 5491 5492 5493 5494 5495 5496 5497 5498 5499 5500 5501 5502 5503 5504 5505 5506 5507 5508 
+	}
+	local_supplies=0.0 
+}

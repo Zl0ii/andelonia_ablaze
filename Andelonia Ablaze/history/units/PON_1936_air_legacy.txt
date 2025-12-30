@@ -1,0 +1,41 @@
+air_wings = {
+		456 = { 								
+		fighter_equipment_0 = { owner = "PON" amount = 50 version_name = "Imaq Mk 0" }
+
+	}
+	384 = { 								
+		CAS_equipment_0 = { owner = "PON" amount = 50 version_name = "Tunaq Mk 0" }
+fighter_equipment_0 = { owner = "PON" amount = 50 version_name = "Thogugamai Mk 2" }
+
+	}
+	406 = { 								
+		tac_bomber_equipment_0 = { owner = "PON" amount = 40 version_name = "Richt Mk 0" }
+
+	}
+	451 = { 								
+		strat_bomber_equipment_0 = { owner = "PON" amount = 41 version_name = "Magupak Mk 2" }
+
+	}
+	86 = { 								
+		fighter_equipment_0 = { owner = "PON" amount = 50 version_name = "Thogugamai Mk 2" }
+tac_bomber_equipment_0 = { owner = "PON" amount = 50 version_name = "Magupak Mk 2" }
+
+	}
+	310 = { 								
+		CAS_equipment_0 = { owner = "PON" amount = 50 version_name = "Tunaq Mk 0" }
+CAS_equipment_0 = { owner = "PON" amount = 50 version_name = "Idak Mk 1" }
+CAS_equipment_0 = { owner = "PON" amount = 50 version_name = "Idak Mk 1" }
+
+	}
+	287 = { 								
+		strat_bomber_equipment_0 = { owner = "PON" amount = 47 version_name = "Avartakkuilu Mk 0" }
+
+	}
+	291 = { 								
+		tac_bomber_equipment_0 = { owner = "PON" amount = 50 version_name = "Magupak Mk 2" }
+fighter_equipment_0 = { owner = "PON" amount = 50 version_name = "Imaq Mk 0" }
+
+	}
+
+
+}

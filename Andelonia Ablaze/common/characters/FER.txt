@@ -1,0 +1,880 @@
+characters = {
+	FER_Padra_Gorcra={
+		name="Padra Gorcra"
+
+		
+		country_leader={
+			ideology=despotism
+			traits = { headstrong  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	FER_Bacab_Saka={
+		name="Bacab Saka"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FER_Bacab_Saka
+				traits = {	exiled 	}
+		}
+
+	}
+	FER_Bacolm_Peruh={
+		name="Bacolm Peruh"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FER_Bacolm_Peruh
+				traits = {	humble 	}
+		}
+
+	}
+	FER_Malam_Purumbut={
+		name="Malam Purumbut"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FER_Malam_Purumbut
+				traits = {	inexperienced_monarch 	}
+		}
+
+	}
+	FER_Bama_Purumbut={
+		name="Bama Purumbut"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FER_Bama_Purumbut
+				traits = {	staunch_constitutionalist 	}
+		}
+
+	}
+	FER_Seambanek_Nafsuh={
+		name="Seambanek Nafsuh"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FER_Seambanek_Nafsuh
+				traits = {	staunch_constitutionalist 	}
+		}
+
+	}
+	FER_Lutran_Saka={
+		name="Lutran Saka"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FER_Lutran_Saka
+				traits = {	humble 	}
+		}
+
+	}
+	FER_Chichen_Peruh={
+		name="Chichen Peruh"
+
+		advisor={
+			slot = army_chief
+			idea_token = FER_Chichen_Peruh
+				traits = {	army_chief_drill_2 	}
+		}
+
+	}
+	FER_Bacab_Purumbut={
+		name="Bacab Purumbut"
+
+		advisor={
+			slot = army_chief
+			idea_token = FER_Bacab_Purumbut
+				traits = {	army_chief_offensive_2 	}
+		}
+
+	}
+	FER_Chak_Grilau={
+		name="Chak Grilau"
+
+		advisor={
+			slot = army_chief
+			idea_token = FER_Chak_Grilau
+				traits = {	army_chief_reform_2 	}
+		}
+
+	}
+	FER_Moctez_Purumbut={
+		name="Moctez Purumbut"
+
+		advisor={
+			slot = army_chief
+			idea_token = FER_Moctez_Purumbut
+				traits = {	army_chief_entrenchment_2 	}
+		}
+
+	}
+	FER_Rizall_Purumbut={
+		name="Rizall Purumbut"
+
+		advisor={
+			slot = navy_chief
+			idea_token = FER_Rizall_Purumbut
+				traits = {	navy_chief_old_guard_2 	}
+		}
+
+	}
+	FER_Keth_Nafsuh={
+		name="Keth Nafsuh"
+
+		advisor={
+			slot = navy_chief
+			idea_token = FER_Keth_Nafsuh
+				traits = {	navy_chief_commerce_raiding_1 	}
+		}
+
+	}
+	FER_Bama_Tohonne={
+		name="Bama Tohonne"
+
+		advisor={
+			slot = air_chief
+			idea_token = FER_Bama_Tohonne
+				traits = {	air_chief_safety_1 	}
+		}
+
+	}
+	FER_Putran_Peruh={
+		name="Putran Peruh"
+
+		advisor={
+			slot = air_chief
+			idea_token = FER_Putran_Peruh
+				traits = {	air_chief_safety_1 	}
+		}
+
+	}
+	FER_Putran_Gorcra={
+		name="Putran Gorcra"
+
+		advisor={
+			slot = high_command
+			idea_token = FER_Putran_Gorcra
+				traits = {	army_logistics_2 	}
+		}
+
+	}
+	FER_Tuna_Tohonne={
+		name="Tuna Tohonne"
+
+		advisor={
+			slot = high_command
+			idea_token = FER_Tuna_Tohonne
+				traits = {	air_pilot_training_1 	}
+		}
+
+	}
+	FER_Chaka_Gorcra={
+		name="Chaka Gorcra"
+
+		advisor={
+			slot = high_command
+			idea_token = FER_Chaka_Gorcra
+				traits = {	army_commando_1 	}
+		}
+
+	}
+	FER_Harich_Purumbut={
+		name="Harich Purumbut"
+
+		advisor={
+			slot = high_command
+			idea_token = FER_Harich_Purumbut
+				traits = {	army_regrouping_1 	}
+		}
+
+	}
+	FER_Niall_Grilau={
+		name="Niall Grilau"
+
+		advisor={
+			slot = high_command
+			idea_token = FER_Niall_Grilau
+				traits = {	navy_anti_submarine_2 	}
+		}
+
+	}
+	FER_Ulrich_Purumbut={
+		name="Ulrich Purumbut"
+
+		advisor={
+			slot = high_command
+			idea_token = FER_Ulrich_Purumbut
+				traits = {	navy_naval_air_defense_2 	}
+		}
+
+	}
+	FER_Keth_Saka={
+		name="Keth Saka"
+
+		
+		country_leader={
+			ideology=fascism_ideology
+			traits = { basileus  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	FER_Bama_Saka={
+		name="Bama Saka"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FER_Bama_Saka
+				traits = {	warmonger 	}
+		}
+
+	}
+	FER_Aidang_Peruh={
+		name="Aidang Peruh"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FER_Aidang_Peruh
+				traits = {	the_young_magnate 	}
+		}
+
+	}
+	FER_Itzal_Leas={
+		name="Itzal Leas"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FER_Itzal_Leas
+				traits = {	warmonger 	}
+		}
+
+	}
+	FER_Popo_Purumbut={
+		name="Popo Purumbut"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FER_Popo_Purumbut
+				traits = {	archon_basileus 	}
+		}
+
+	}
+	FER_Eoin_Nafsuh={
+		name="Eoin Nafsuh"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FER_Eoin_Nafsuh
+				traits = {	infirm 	}
+		}
+
+	}
+	FER_Popo_Peruh={
+		name="Popo Peruh"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FER_Popo_Peruh
+				traits = {	celebrity_junta_leader 	}
+		}
+
+	}
+	FER_Chakti_Nafsuh={
+		name="Chakti Nafsuh"
+
+		advisor={
+			slot = army_chief
+			idea_token = FER_Chakti_Nafsuh
+				traits = {	army_chief_defensive_1 	}
+		}
+
+	}
+	FER_Rizam_Saka={
+		name="Rizam Saka"
+
+		advisor={
+			slot = army_chief
+			idea_token = FER_Rizam_Saka
+				traits = {	army_chief_morale_1 	}
+		}
+
+	}
+	FER_Ulrich_Saka={
+		name="Ulrich Saka"
+
+		advisor={
+			slot = army_chief
+			idea_token = FER_Ulrich_Saka
+				traits = {	army_chief_maneuver_1 	}
+		}
+
+	}
+	FER_Iwan_Leas={
+		name="Iwan Leas"
+
+		advisor={
+			slot = army_chief
+			idea_token = FER_Iwan_Leas
+				traits = {	army_chief_reform_1 	}
+		}
+
+	}
+	FER_Itzall_Gorcra={
+		name="Itzall Gorcra"
+
+		advisor={
+			slot = navy_chief
+			idea_token = FER_Itzall_Gorcra
+				traits = {	navy_chief_maneuver_2 	}
+		}
+
+	}
+	FER_Chak_Suruhayiltea={
+		name="Chak Suruhayiltea"
+
+		advisor={
+			slot = navy_chief
+			idea_token = FER_Chak_Suruhayiltea
+				traits = {	navy_chief_old_guard_1 	}
+		}
+
+	}
+	FER_Chaka_Suruhayiltea={
+		name="Chaka Suruhayiltea"
+
+		advisor={
+			slot = air_chief
+			idea_token = FER_Chaka_Suruhayiltea
+				traits = {	air_chief_all_weather_1 	}
+		}
+
+	}
+	FER_Teclanek_Leas={
+		name="Teclanek Leas"
+
+		advisor={
+			slot = air_chief
+			idea_token = FER_Teclanek_Leas
+				traits = {	air_chief_night_operations_1 	}
+		}
+
+	}
+	FER_Itzal_Suruhayiltea={
+		name="Itzal Suruhayiltea"
+
+		advisor={
+			slot = high_command
+			idea_token = FER_Itzal_Suruhayiltea
+				traits = {	air_close_air_support_2 	}
+		}
+
+	}
+	FER_Itzall_Tohonne={
+		name="Itzall Tohonne"
+
+		advisor={
+			slot = high_command
+			idea_token = FER_Itzall_Tohonne
+				traits = {	navy_amphibious_assault_2 	}
+		}
+
+	}
+	FER_Iwan_Saka={
+		name="Iwan Saka"
+
+		advisor={
+			slot = high_command
+			idea_token = FER_Iwan_Saka
+				traits = {	navy_submarine_2 	}
+		}
+
+	}
+	FER_Ulrich_Gorcra={
+		name="Ulrich Gorcra"
+
+		advisor={
+			slot = high_command
+			idea_token = FER_Ulrich_Gorcra
+				traits = {	navy_amphibious_assault_2 	}
+		}
+
+	}
+	FER_Acatl_Nafsuh={
+		name="Acatl Nafsuh"
+
+		advisor={
+			slot = high_command
+			idea_token = FER_Acatl_Nafsuh
+				traits = {	air_strategic_bombing_1 	}
+		}
+
+	}
+	FER_Harich_Peruh={
+		name="Harich Peruh"
+
+		advisor={
+			slot = high_command
+			idea_token = FER_Harich_Peruh
+				traits = {	navy_fleet_logistics_2 	}
+		}
+
+	}
+	FER_Fergus_Suruhayiltea={
+		name="Fergus Suruhayiltea"
+
+		
+		country_leader={
+			ideology=leninism
+			traits = { polemarch  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	FER_Bacab_Peruh={
+		name="Bacab Peruh"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FER_Bacab_Peruh
+				traits = {	polemarch 	}
+		}
+
+	}
+	FER_Bama_Gorcra={
+		name="Bama Gorcra"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FER_Bama_Gorcra
+				traits = {	political_dancer 	}
+		}
+
+	}
+	FER_Andi_Tohonne={
+		name="Andi Tohonne"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FER_Andi_Tohonne
+				traits = {	reluctant_stalinist 	}
+		}
+
+	}
+	FER_Arjun_Saka={
+		name="Arjun Saka"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FER_Arjun_Saka
+				traits = {	polemarch 	}
+		}
+
+	}
+	FER_Rizam_Purumbut={
+		name="Rizam Purumbut"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FER_Rizam_Purumbut
+				traits = {	mastermind_code_cracker 	}
+		}
+
+	}
+	FER_Sakti_Suruhayiltea={
+		name="Sakti Suruhayiltea"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FER_Sakti_Suruhayiltea
+				traits = {	mastermind_code_cracker 	}
+		}
+
+	}
+	FER_Niaran_Grilau={
+		name="Niaran Grilau"
+
+		advisor={
+			slot = army_chief
+			idea_token = FER_Niaran_Grilau
+				traits = {	army_chief_offensive_2 	}
+		}
+
+	}
+	FER_Yaxkin_Purumbut={
+		name="Yaxkin Purumbut"
+
+		advisor={
+			slot = army_chief
+			idea_token = FER_Yaxkin_Purumbut
+				traits = {	army_chief_planning_2 	}
+		}
+
+	}
+	FER_Mari_Nafsuh={
+		name="Mari Nafsuh"
+
+		advisor={
+			slot = army_chief
+			idea_token = FER_Mari_Nafsuh
+				traits = {	army_chief_reform_2 	}
+		}
+
+	}
+	FER_Padra_Peruh={
+		name="Padra Peruh"
+
+		advisor={
+			slot = army_chief
+			idea_token = FER_Padra_Peruh
+				traits = {	army_chief_drill_1 	}
+		}
+
+	}
+	FER_Tuna_Nafsuh={
+		name="Tuna Nafsuh"
+
+		advisor={
+			slot = navy_chief
+			idea_token = FER_Tuna_Nafsuh
+				traits = {	navy_chief_old_guard_2 	}
+		}
+
+	}
+	FER_Itzal_Suacheacol={
+		name="Itzal Suacheacol"
+
+		advisor={
+			slot = navy_chief
+			idea_token = FER_Itzal_Suacheacol
+				traits = {	navy_chief_decisive_battle_1 	}
+		}
+
+	}
+	FER_Arjun_Tohonne={
+		name="Arjun Tohonne"
+
+		advisor={
+			slot = air_chief
+			idea_token = FER_Arjun_Tohonne
+				traits = {	air_chief_ground_support_1 	}
+		}
+
+	}
+	FER_Paka_Nafsuh={
+		name="Paka Nafsuh"
+
+		advisor={
+			slot = air_chief
+			idea_token = FER_Paka_Nafsuh
+				traits = {	air_chief_all_weather_2 	}
+		}
+
+	}
+	FER_Moctez_Leas={
+		name="Moctez Leas"
+
+		advisor={
+			slot = high_command
+			idea_token = FER_Moctez_Leas
+				traits = {	army_entrenchment_1 	}
+		}
+
+	}
+	FER_Nacatl_Suruhayiltea={
+		name="Nacatl Suruhayiltea"
+
+		advisor={
+			slot = high_command
+			idea_token = FER_Nacatl_Suruhayiltea
+				traits = {	navy_naval_air_defense_2 	}
+		}
+
+	}
+	FER_Aidang_Saka={
+		name="Aidang Saka"
+
+		advisor={
+			slot = high_command
+			idea_token = FER_Aidang_Saka
+				traits = {	navy_capital_ship_1 	}
+		}
+
+	}
+	FER_Hario_Gorcra={
+		name="Hario Gorcra"
+
+		advisor={
+			slot = high_command
+			idea_token = FER_Hario_Gorcra
+				traits = {	navy_screen_1 	}
+		}
+
+	}
+	FER_Brang_Leas={
+		name="Brang Leas"
+
+		advisor={
+			slot = high_command
+			idea_token = FER_Brang_Leas
+				traits = {	army_armored_2 	}
+		}
+
+	}
+	FER_Rama_Leas={
+		name="Rama Leas"
+
+		advisor={
+			slot = high_command
+			idea_token = FER_Rama_Leas
+				traits = {	navy_fleet_logistics_1 	}
+		}
+
+	}
+	FER_Tuna_Grilau={
+		name="Tuna Grilau"
+
+		
+		country_leader={
+			ideology=socialism
+			traits = { liberal_democratic_paragon  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	FER_Mari_Saka={
+		name="Mari Saka"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FER_Mari_Saka
+				traits = {	the_banker 	}
+		}
+
+	}
+	FER_Rama_Gorcra={
+		name="Rama Gorcra"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FER_Rama_Gorcra
+				traits = {	chamberlain_appeaser 	}
+		}
+
+	}
+	FER_Chichen_Saka={
+		name="Chichen Saka"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FER_Chichen_Saka
+				traits = {	famous_aviator 	}
+		}
+
+	}
+	FER_Rizam_Peruh={
+		name="Rizam Peruh"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FER_Rizam_Peruh
+				traits = {	liberal_democratic_paragon 	}
+		}
+
+	}
+	FER_Brang_Suruhayiltea={
+		name="Brang Suruhayiltea"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FER_Brang_Suruhayiltea
+				traits = {	the_young_magnate 	}
+		}
+
+	}
+	FER_Mari_Tohonne={
+		name="Mari Tohonne"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FER_Mari_Tohonne
+				traits = {	chamberlain_appeaser 	}
+		}
+
+	}
+	FER_Liar_Saka={
+		name="Liar Saka"
+
+		advisor={
+			slot = army_chief
+			idea_token = FER_Liar_Saka
+				traits = {	army_chief_organizational_2 	}
+		}
+
+	}
+	FER_Iwan_Gorcra={
+		name="Iwan Gorcra"
+
+		advisor={
+			slot = army_chief
+			idea_token = FER_Iwan_Gorcra
+				traits = {	army_chief_morale_2 	}
+		}
+
+	}
+	FER_Ramban_Suruhayiltea={
+		name="Ramban Suruhayiltea"
+
+		advisor={
+			slot = army_chief
+			idea_token = FER_Ramban_Suruhayiltea
+				traits = {	army_chief_reform_1 	}
+		}
+
+	}
+	FER_Arjun_Grilau={
+		name="Arjun Grilau"
+
+		advisor={
+			slot = army_chief
+			idea_token = FER_Arjun_Grilau
+				traits = {	army_chief_reform_1 	}
+		}
+
+	}
+	FER_Chakti_Saka={
+		name="Chakti Saka"
+
+		advisor={
+			slot = navy_chief
+			idea_token = FER_Chakti_Saka
+				traits = {	navy_chief_maneuver_2 	}
+		}
+
+	}
+	FER_Popo_Nafsuh={
+		name="Popo Nafsuh"
+
+		advisor={
+			slot = navy_chief
+			idea_token = FER_Popo_Nafsuh
+				traits = {	navy_chief_old_guard_2 	}
+		}
+
+	}
+	FER_Hugh_Tohonne={
+		name="Hugh Tohonne"
+
+		advisor={
+			slot = air_chief
+			idea_token = FER_Hugh_Tohonne
+				traits = {	air_chief_safety_1 	}
+		}
+
+	}
+	FER_Tohil_Peruh={
+		name="Tohil Peruh"
+
+		advisor={
+			slot = air_chief
+			idea_token = FER_Tohil_Peruh
+				traits = {	air_chief_ground_support_2 	}
+		}
+
+	}
+	FER_Kukulka_Grilau={
+		name="Kukulka Grilau"
+
+		advisor={
+			slot = high_command
+			idea_token = FER_Kukulka_Grilau
+				traits = {	navy_anti_submarine_2 	}
+		}
+
+	}
+	FER_Rizall_Gorcra={
+		name="Rizall Gorcra"
+
+		advisor={
+			slot = high_command
+			idea_token = FER_Rizall_Gorcra
+				traits = {	navy_fleet_logistics_1 	}
+		}
+
+	}
+	FER_Yaxkin_Grilau={
+		name="Yaxkin Grilau"
+
+		advisor={
+			slot = high_command
+			idea_token = FER_Yaxkin_Grilau
+				traits = {	air_air_combat_training_2 	}
+		}
+
+	}
+	FER_Putfi_Peruh={
+		name="Putfi Peruh"
+
+		advisor={
+			slot = high_command
+			idea_token = FER_Putfi_Peruh
+				traits = {	air_pilot_training_2 	}
+		}
+
+	}
+	FER_Ulri_Purumbut={
+		name="Ulri Purumbut"
+
+		advisor={
+			slot = high_command
+			idea_token = FER_Ulri_Purumbut
+				traits = {	army_logistics_1 	}
+		}
+
+	}
+	FER_Popo_Leas={
+		name="Popo Leas"
+
+		advisor={
+			slot = high_command
+			idea_token = FER_Popo_Leas
+				traits = {	army_concealment_2 	}
+		}
+
+	}
+	FER_Ulrich_Suacheacol={
+		name="Ulrich Suacheacol"
+
+		advisor={
+			slot = theorist
+			idea_token = FER_Ulrich_Suacheacol
+				traits = {	military_theorist 	}
+		}
+
+	}
+	FER_Padra_Nafsuh={
+		name="Padra Nafsuh"
+
+		advisor={
+			slot = theorist
+			idea_token = FER_Padra_Nafsuh
+				traits = {	naval_theorist 	}
+		}
+
+	}
+	FER_Aidang_Suruhayiltea={
+		name="Aidang Suruhayiltea"
+
+		advisor={
+			slot = theorist
+			idea_token = FER_Aidang_Suruhayiltea
+				traits = {	air_warfare_theorist 	}
+		}
+
+	}
+}

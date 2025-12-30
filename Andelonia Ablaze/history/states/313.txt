@@ -1,0 +1,38 @@
+
+state={
+	id=313
+	name="STATE_313"
+	manpower = 1221924
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 6188 2}
+		victory_points = { 6194 2}
+		
+		owner = SAR
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = SAR
+	}
+
+	provinces={
+		6186 6187 6188 6189 6190 6191 6192 6193 6194 
+	}
+	local_supplies=0.0 
+}

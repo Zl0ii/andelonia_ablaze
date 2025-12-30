@@ -1,0 +1,41 @@
+
+state={
+	id=435
+	name="STATE_435"
+	manpower = 2530329
+	
+	state_category = town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=1
+		coal=0
+	}
+
+	history={
+		victory_points = { 8481 7}
+		victory_points = { 8484 4}
+		
+		owner = PON
+		buildings = {
+			infrastructure = 2
+			air_base = 3
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			8478 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = PON
+	}
+
+	provinces={
+		8477 8478 8479 8480 8481 8482 8483 8484 8485 8486 8487 8488 8489 8490 8491 8492 8493 8494 8495 8496 
+	}
+	local_supplies=0.0 
+}

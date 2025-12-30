@@ -1,0 +1,42 @@
+
+state={
+	id=643
+	name="STATE_643"
+	manpower = 4342726
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 12250 1}
+		victory_points = { 12251 16}
+		victory_points = { 12265 5}
+		
+		owner = KAS
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 2
+			
+			12265 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = KAS
+	}
+
+	provinces={
+		12248 12249 12250 12251 12252 12253 12254 12255 12256 12257 12258 12259 12260 12261 12262 12263 12264 12265 12266 12267 12268 12269 12270 12271 12272 12273 12274 
+	}
+	local_supplies=0.0 
+}

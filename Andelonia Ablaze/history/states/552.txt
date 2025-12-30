@@ -1,0 +1,41 @@
+
+state={
+	id=552
+	name="STATE_552"
+	manpower = 2048453
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 10801 3}
+		victory_points = { 10802 7}
+		
+		owner = BOR
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			10804 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = BOR
+	}
+
+	provinces={
+		10801 10802 10803 10804 10805 10806 10807 10808 10809 10810 10811 10812 10813 
+	}
+	local_supplies=0.0 
+}

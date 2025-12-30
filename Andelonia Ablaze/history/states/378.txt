@@ -1,0 +1,42 @@
+
+state={
+	id=378
+	name="STATE_378"
+	manpower = 4182797
+	
+	state_category = city
+	resources={
+		aluminium=1
+		chromium=3
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 7375 10}
+		victory_points = { 7387 10}
+		victory_points = { 7390 2}
+		
+		owner = KHN
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 2
+			
+			7371 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = KHN
+	}
+
+	provinces={
+		7368 7369 7370 7371 7372 7373 7374 7375 7376 7377 7378 7379 7380 7381 7382 7383 7384 7385 7386 7387 7388 7389 7390 7391 7392 7393 7394 
+	}
+	local_supplies=0.0 
+}

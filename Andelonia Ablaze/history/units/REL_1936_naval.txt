@@ -1,0 +1,32 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Republic Reladannia Fleet"			
+		naval_base = 9033
+		task_force = {
+			name = "Republic Reladannia Fleet"
+			location = 9033
+			
+						ship = { name = "Cuochasamhne" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = REL version_name = "Odiorre Class" } }	}
+			ship = { name = "Bunt" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = REL version_name = "Tamda Class" } }	}
+			ship = { name = "Doras" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = REL version_name = "Tamda Class" } }	}
+			ship = { name = "Domhregiava" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = REL version_name = "Tamda Class" } }	}
+			ship = { name = "Odiorre" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = REL version_name = "Tamda Class" } }	}
+			ship = { name = "Bunt 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = REL version_name = "Tamda Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

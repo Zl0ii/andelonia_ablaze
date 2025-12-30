@@ -1,0 +1,38 @@
+
+state={
+	id=533
+	name="STATE_533"
+	manpower = 1615626
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=1
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 10383 4}
+		victory_points = { 10388 4}
+		
+		owner = KAS
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = KAS
+	}
+
+	provinces={
+		10382 10383 10384 10385 10386 10387 10388 10389 10390 
+	}
+	local_supplies=0.0 
+}

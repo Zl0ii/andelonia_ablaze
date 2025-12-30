@@ -1,0 +1,38 @@
+
+state={
+	id=102
+	name="STATE_102"
+	manpower = 2683544
+	
+	state_category = large_town
+	resources={
+		aluminium=1
+		chromium=1
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 2189 7}
+		victory_points = { 2190 7}
+		
+		owner = KAS
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = KAS
+	}
+
+	provinces={
+		2175 2176 2177 2178 2179 2180 2181 2182 2183 2184 2185 2186 2187 2188 2189 2190 
+	}
+	local_supplies=0.0 
+}

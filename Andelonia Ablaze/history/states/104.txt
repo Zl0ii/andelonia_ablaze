@@ -1,0 +1,40 @@
+
+state={
+	id=104
+	name="STATE_104"
+	manpower = 2287917
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=1
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 2211 10}
+		
+		owner = ADR
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			2207 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = ADR
+	}
+
+	provinces={
+		2198 2199 2200 2201 2202 2203 2204 2205 2206 2207 2208 2209 2210 2211 2212 2213 
+	}
+	local_supplies=0.0 
+}

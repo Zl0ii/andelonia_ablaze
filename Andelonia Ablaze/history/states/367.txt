@@ -1,0 +1,41 @@
+
+state={
+	id=367
+	name="STATE_367"
+	manpower = 1340171
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=3
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 7156 3}
+		victory_points = { 7164 3}
+		
+		owner = BOR
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			7161 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = BOR
+	}
+
+	provinces={
+		7156 7157 7158 7159 7160 7161 7162 7163 7164 
+	}
+	local_supplies=0.0 
+}

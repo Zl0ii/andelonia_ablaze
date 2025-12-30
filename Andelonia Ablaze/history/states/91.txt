@@ -1,0 +1,40 @@
+
+state={
+	id=91
+	name="STATE_91"
+	manpower = 5353300
+	
+	state_category = large_city
+	resources={
+		aluminium=0
+		chromium=4
+		oil=3
+		rubber=0
+		steel=2
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 1876 29}
+		
+		owner = DRR
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 1
+			
+			1881 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = DRR
+	}
+
+	provinces={
+		1874 1875 1876 1877 1878 1879 1880 1881 1882 1883 1884 1885 1886 1887 1888 1889 1890 1891 1892 1893 1894 1895 1896 1897 1898 1899 1900 1901 1902 1903 1904 1905 1906 1907 1908 1909 
+	}
+	local_supplies=0.0 
+}

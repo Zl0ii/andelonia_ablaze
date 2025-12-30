@@ -1,0 +1,39 @@
+
+state={
+	id=481
+	name="STATE_481"
+	manpower = 2793091
+	
+	state_category = large_town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 9335 1}
+		victory_points = { 9340 5}
+		victory_points = { 9343 8}
+		
+		owner = KHN
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = KHN
+	}
+
+	provinces={
+		9330 9331 9332 9333 9334 9335 9336 9337 9338 9339 9340 9341 9342 9343 9344 9345 9346 
+	}
+	local_supplies=0.0 
+}

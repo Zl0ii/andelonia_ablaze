@@ -1,0 +1,38 @@
+
+state={
+	id=39
+	name="STATE_39"
+	manpower = 1292388
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 850 3}
+		victory_points = { 851 3}
+		
+		owner = KHN
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = KHN
+	}
+
+	provinces={
+		849 850 851 852 853 854 855 856 
+	}
+	local_supplies=0.0 
+}

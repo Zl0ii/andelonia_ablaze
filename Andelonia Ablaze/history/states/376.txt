@@ -1,0 +1,42 @@
+
+state={
+	id=376
+	name="STATE_376"
+	manpower = 2719780
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=2
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 7346 1}
+		victory_points = { 7350 1}
+		victory_points = { 7354 10}
+		
+		owner = ADR
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			7344 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = ADR
+	}
+
+	provinces={
+		7338 7339 7340 7341 7342 7343 7344 7345 7346 7347 7348 7349 7350 7351 7352 7353 7354 7355 
+	}
+	local_supplies=0.0 
+}

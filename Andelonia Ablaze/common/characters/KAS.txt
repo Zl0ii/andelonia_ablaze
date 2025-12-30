@@ -1,0 +1,880 @@
+characters = {
+	KAS_Omareth_Aigh={
+		name="Omareth Aigh"
+
+		
+		country_leader={
+			ideology=despotism
+			traits = { celebrity_junta_leader  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	KAS_Omaraka_Milaiku={
+		name="Omaraka Milaiku"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KAS_Omaraka_Milaiku
+				traits = {	humble 	}
+		}
+
+	}
+	KAS_Declan_Milaiku={
+		name="Declan Milaiku"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KAS_Declan_Milaiku
+				traits = {	celebrity_junta_leader 	}
+		}
+
+	}
+	KAS_Niaran_Cnuaiditha={
+		name="Niaran Cnuaiditha"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KAS_Niaran_Cnuaiditha
+				traits = {	humble 	}
+		}
+
+	}
+	KAS_Aidan_Amrimu={
+		name="Aidan Amrimu"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KAS_Aidan_Amrimu
+				traits = {	socialite_connections 	}
+		}
+
+	}
+	KAS_Ciaran_Jineria={
+		name="Ciaran Jineria"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KAS_Ciaran_Jineria
+				traits = {	inexperienced_monarch 	}
+		}
+
+	}
+	KAS_Juma_Jineria={
+		name="Juma Jineria"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KAS_Juma_Jineria
+				traits = {	humble 	}
+		}
+
+	}
+	KAS_Omareth_Cnamh={
+		name="Omareth Cnamh"
+
+		advisor={
+			slot = army_chief
+			idea_token = KAS_Omareth_Cnamh
+				traits = {	army_chief_offensive_1 	}
+		}
+
+	}
+	KAS_Mbwame_Milaiku={
+		name="Mbwame Milaiku"
+
+		advisor={
+			slot = army_chief
+			idea_token = KAS_Mbwame_Milaiku
+				traits = {	army_chief_reform_2 	}
+		}
+
+	}
+	KAS_Luba_Amrimu={
+		name="Luba Amrimu"
+
+		advisor={
+			slot = army_chief
+			idea_token = KAS_Luba_Amrimu
+				traits = {	army_chief_reform_1 	}
+		}
+
+	}
+	KAS_Iwan_Cnuaiditha={
+		name="Iwan Cnuaiditha"
+
+		advisor={
+			slot = army_chief
+			idea_token = KAS_Iwan_Cnuaiditha
+				traits = {	army_chief_drill_2 	}
+		}
+
+	}
+	KAS_Taranga_Cnamh={
+		name="Taranga Cnamh"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KAS_Taranga_Cnamh
+				traits = {	navy_chief_commerce_raiding_1 	}
+		}
+
+	}
+	KAS_Omaraka_Cnamh={
+		name="Omaraka Cnamh"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KAS_Omaraka_Cnamh
+				traits = {	navy_chief_maneuver_1 	}
+		}
+
+	}
+	KAS_Aidano_Scathath={
+		name="Aidano Scathath"
+
+		advisor={
+			slot = air_chief
+			idea_token = KAS_Aidano_Scathath
+				traits = {	air_chief_reform_2 	}
+		}
+
+	}
+	KAS_Kamus_Cnuaiditha={
+		name="Kamus Cnuaiditha"
+
+		advisor={
+			slot = air_chief
+			idea_token = KAS_Kamus_Cnuaiditha
+				traits = {	air_chief_safety_2 	}
+		}
+
+	}
+	KAS_Nuru_Scathath={
+		name="Nuru Scathath"
+
+		advisor={
+			slot = high_command
+			idea_token = KAS_Nuru_Scathath
+				traits = {	army_logistics_2 	}
+		}
+
+	}
+	KAS_Ulri_Cnamh={
+		name="Ulri Cnamh"
+
+		advisor={
+			slot = high_command
+			idea_token = KAS_Ulri_Cnamh
+				traits = {	army_infantry_1 	}
+		}
+
+	}
+	KAS_Omareth_Amrimu={
+		name="Omareth Amrimu"
+
+		advisor={
+			slot = high_command
+			idea_token = KAS_Omareth_Amrimu
+				traits = {	navy_naval_air_defense_1 	}
+		}
+
+	}
+	KAS_Aidi_Aigh={
+		name="Aidi Aigh"
+
+		advisor={
+			slot = high_command
+			idea_token = KAS_Aidi_Aigh
+				traits = {	air_airborne_2 	}
+		}
+
+	}
+	KAS_Niall_Cnamh={
+		name="Niall Cnamh"
+
+		advisor={
+			slot = high_command
+			idea_token = KAS_Niall_Cnamh
+				traits = {	army_radio_intelligence_1 	}
+		}
+
+	}
+	KAS_Taji_Cnuaiditha={
+		name="Taji Cnuaiditha"
+
+		advisor={
+			slot = high_command
+			idea_token = KAS_Taji_Cnuaiditha
+				traits = {	army_cavalry_1 	}
+		}
+
+	}
+	KAS_Iwan_Majimti={
+		name="Iwan Majimti"
+
+		
+		country_leader={
+			ideology=fascism_ideology
+			traits = { autokrator  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	KAS_Temba_Milaiku={
+		name="Temba Milaiku"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KAS_Temba_Milaiku
+				traits = {	autocratic_imperialist 	}
+		}
+
+	}
+	KAS_Niareth_Aigh={
+		name="Niareth Aigh"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KAS_Niareth_Aigh
+				traits = {	celebrity_junta_leader 	}
+		}
+
+	}
+	KAS_Taraka_Jineria={
+		name="Taraka Jineria"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KAS_Taraka_Jineria
+				traits = {	autocratic_imperialist 	}
+		}
+
+	}
+	KAS_Niareth_Cnamh={
+		name="Niareth Cnamh"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KAS_Niareth_Cnamh
+				traits = {	collaborator_king 	}
+		}
+
+	}
+	KAS_Mbwan_Cnuaiditha={
+		name="Mbwan Cnuaiditha"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KAS_Mbwan_Cnuaiditha
+				traits = {	the_young_magnate 	}
+		}
+
+	}
+	KAS_Niaran_Majimti={
+		name="Niaran Majimti"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KAS_Niaran_Majimti
+				traits = {	autocratic_imperialist 	}
+		}
+
+	}
+	KAS_Luban_Scathath={
+		name="Luban Scathath"
+
+		advisor={
+			slot = army_chief
+			idea_token = KAS_Luban_Scathath
+				traits = {	army_chief_morale_2 	}
+		}
+
+	}
+	KAS_Kato_Fioch={
+		name="Kato Fioch"
+
+		advisor={
+			slot = army_chief
+			idea_token = KAS_Kato_Fioch
+				traits = {	army_chief_organizational_1 	}
+		}
+
+	}
+	KAS_Simba_Amrimu={
+		name="Simba Amrimu"
+
+		advisor={
+			slot = army_chief
+			idea_token = KAS_Simba_Amrimu
+				traits = {	army_chief_drill_2 	}
+		}
+
+	}
+	KAS_Brano_Jineria={
+		name="Brano Jineria"
+
+		advisor={
+			slot = army_chief
+			idea_token = KAS_Brano_Jineria
+				traits = {	army_chief_drill_2 	}
+		}
+
+	}
+	KAS_Temba_Fioch={
+		name="Temba Fioch"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KAS_Temba_Fioch
+				traits = {	navy_chief_old_guard_1 	}
+		}
+
+	}
+	KAS_Niaran_Scathath={
+		name="Niaran Scathath"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KAS_Niaran_Scathath
+				traits = {	navy_chief_reform_2 	}
+		}
+
+	}
+	KAS_Ciam_Milaiku={
+		name="Ciam Milaiku"
+
+		advisor={
+			slot = air_chief
+			idea_token = KAS_Ciam_Milaiku
+				traits = {	air_chief_reform_1 	}
+		}
+
+	}
+	KAS_Mall_Jineria={
+		name="Mall Jineria"
+
+		advisor={
+			slot = air_chief
+			idea_token = KAS_Mall_Jineria
+				traits = {	air_chief_all_weather_2 	}
+		}
+
+	}
+	KAS_Omaraka_Mile={
+		name="Omaraka Mile"
+
+		advisor={
+			slot = high_command
+			idea_token = KAS_Omaraka_Mile
+				traits = {	army_logistics_1 	}
+		}
+
+	}
+	KAS_Keiraig_Majimti={
+		name="Keiraig Majimti"
+
+		advisor={
+			slot = high_command
+			idea_token = KAS_Keiraig_Majimti
+				traits = {	air_airborne_1 	}
+		}
+
+	}
+	KAS_Omari_Jineria={
+		name="Omari Jineria"
+
+		advisor={
+			slot = high_command
+			idea_token = KAS_Omari_Jineria
+				traits = {	navy_submarine_2 	}
+		}
+
+	}
+	KAS_Baran_Cnamh={
+		name="Baran Cnamh"
+
+		advisor={
+			slot = high_command
+			idea_token = KAS_Baran_Cnamh
+				traits = {	navy_naval_air_defense_2 	}
+		}
+
+	}
+	KAS_Niall_Majimti={
+		name="Niall Majimti"
+
+		advisor={
+			slot = high_command
+			idea_token = KAS_Niall_Majimti
+				traits = {	air_tactical_bombing_2 	}
+		}
+
+	}
+	KAS_Niame_Milaiku={
+		name="Niame Milaiku"
+
+		advisor={
+			slot = high_command
+			idea_token = KAS_Niame_Milaiku
+				traits = {	army_radio_intelligence_1 	}
+		}
+
+	}
+	KAS_Keiraig_Cnuaiditha={
+		name="Keiraig Cnuaiditha"
+
+		
+		country_leader={
+			ideology=marxism
+			traits = { mastermind_code_cracker  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	KAS_Aidano_Milaiku={
+		name="Aidano Milaiku"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KAS_Aidano_Milaiku
+				traits = {	reluctant_stalinist 	}
+		}
+
+	}
+	KAS_Aidano_Cnuaiditha={
+		name="Aidano Cnuaiditha"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KAS_Aidano_Cnuaiditha
+				traits = {	reluctant_stalinist 	}
+		}
+
+	}
+	KAS_Liam_Amrimu={
+		name="Liam Amrimu"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KAS_Liam_Amrimu
+				traits = {	infirm 	}
+		}
+
+	}
+	KAS_Aidan_Aigh={
+		name="Aidan Aigh"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KAS_Aidan_Aigh
+				traits = {	infirm 	}
+		}
+
+	}
+	KAS_Malcolm_Jineria={
+		name="Malcolm Jineria"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KAS_Malcolm_Jineria
+				traits = {	polemarch 	}
+		}
+
+	}
+	KAS_Simbano_Mile={
+		name="Simbano Mile"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KAS_Simbano_Mile
+				traits = {	mastermind_code_cracker 	}
+		}
+
+	}
+	KAS_Simba_Milaiku={
+		name="Simba Milaiku"
+
+		advisor={
+			slot = army_chief
+			idea_token = KAS_Simba_Milaiku
+				traits = {	army_chief_planning_1 	}
+		}
+
+	}
+	KAS_Gareth_Jineria={
+		name="Gareth Jineria"
+
+		advisor={
+			slot = army_chief
+			idea_token = KAS_Gareth_Jineria
+				traits = {	army_chief_maneuver_1 	}
+		}
+
+	}
+	KAS_Mbwame_Amrimu={
+		name="Mbwame Amrimu"
+
+		advisor={
+			slot = army_chief
+			idea_token = KAS_Mbwame_Amrimu
+				traits = {	army_chief_planning_1 	}
+		}
+
+	}
+	KAS_Liarano_Aigh={
+		name="Liarano Aigh"
+
+		advisor={
+			slot = army_chief
+			idea_token = KAS_Liarano_Aigh
+				traits = {	army_chief_organizational_2 	}
+		}
+
+	}
+	KAS_Baran_Milaiku={
+		name="Baran Milaiku"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KAS_Baran_Milaiku
+				traits = {	navy_chief_naval_aviation_1 	}
+		}
+
+	}
+	KAS_Aidan_Milaiku={
+		name="Aidan Milaiku"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KAS_Aidan_Milaiku
+				traits = {	navy_chief_naval_aviation_2 	}
+		}
+
+	}
+	KAS_Mosi_Majimti={
+		name="Mosi Majimti"
+
+		advisor={
+			slot = air_chief
+			idea_token = KAS_Mosi_Majimti
+				traits = {	air_chief_night_operations_1 	}
+		}
+
+	}
+	KAS_Gareth_Majimti={
+		name="Gareth Majimti"
+
+		advisor={
+			slot = air_chief
+			idea_token = KAS_Gareth_Majimti
+				traits = {	air_chief_all_weather_1 	}
+		}
+
+	}
+	KAS_Seame_Milaiku={
+		name="Seame Milaiku"
+
+		advisor={
+			slot = high_command
+			idea_token = KAS_Seame_Milaiku
+				traits = {	air_airborne_2 	}
+		}
+
+	}
+	KAS_Iwan_Mile={
+		name="Iwan Mile"
+
+		advisor={
+			slot = high_command
+			idea_token = KAS_Iwan_Mile
+				traits = {	navy_capital_ship_1 	}
+		}
+
+	}
+	KAS_Declan_Jineria={
+		name="Declan Jineria"
+
+		advisor={
+			slot = high_command
+			idea_token = KAS_Declan_Jineria
+				traits = {	army_cavalry_2 	}
+		}
+
+	}
+	KAS_Gareth_Scathath={
+		name="Gareth Scathath"
+
+		advisor={
+			slot = high_command
+			idea_token = KAS_Gareth_Scathath
+				traits = {	air_strategic_bombing_1 	}
+		}
+
+	}
+	KAS_Niari_Amrimu={
+		name="Niari Amrimu"
+
+		advisor={
+			slot = high_command
+			idea_token = KAS_Niari_Amrimu
+				traits = {	army_armored_2 	}
+		}
+
+	}
+	KAS_Simbano_Fioch={
+		name="Simbano Fioch"
+
+		advisor={
+			slot = high_command
+			idea_token = KAS_Simbano_Fioch
+				traits = {	navy_carrier_2 	}
+		}
+
+	}
+	KAS_Fergus_Amrimu={
+		name="Fergus Amrimu"
+
+		
+		country_leader={
+			ideology=socialism
+			traits = { the_banker  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	KAS_Quinn_Milaiku={
+		name="Quinn Milaiku"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KAS_Quinn_Milaiku
+				traits = {	famous_aviator 	}
+		}
+
+	}
+	KAS_Taji_Milaiku={
+		name="Taji Milaiku"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KAS_Taji_Milaiku
+				traits = {	infirm 	}
+		}
+
+	}
+	KAS_Rhys_Milaiku={
+		name="Rhys Milaiku"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KAS_Rhys_Milaiku
+				traits = {	conservative_grandee 	}
+		}
+
+	}
+	KAS_Fergusa_Cnuaiditha={
+		name="Fergusa Cnuaiditha"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KAS_Fergusa_Cnuaiditha
+				traits = {	the_banker 	}
+		}
+
+	}
+	KAS_Nialcolm_Jineria={
+		name="Nialcolm Jineria"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KAS_Nialcolm_Jineria
+				traits = {	the_young_magnate 	}
+		}
+
+	}
+	KAS_Temba_Cnuaiditha={
+		name="Temba Cnuaiditha"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KAS_Temba_Cnuaiditha
+				traits = {	chamberlain_appeaser 	}
+		}
+
+	}
+	KAS_Temba_Majimti={
+		name="Temba Majimti"
+
+		advisor={
+			slot = army_chief
+			idea_token = KAS_Temba_Majimti
+				traits = {	army_chief_morale_1 	}
+		}
+
+	}
+	KAS_Amari_Aigh={
+		name="Amari Aigh"
+
+		advisor={
+			slot = army_chief
+			idea_token = KAS_Amari_Aigh
+				traits = {	army_chief_planning_1 	}
+		}
+
+	}
+	KAS_Jumau_Mile={
+		name="Jumau Mile"
+
+		advisor={
+			slot = army_chief
+			idea_token = KAS_Jumau_Mile
+				traits = {	army_chief_defensive_2 	}
+		}
+
+	}
+	KAS_Luba_Majimti={
+		name="Luba Majimti"
+
+		advisor={
+			slot = army_chief
+			idea_token = KAS_Luba_Majimti
+				traits = {	army_chief_reform_1 	}
+		}
+
+	}
+	KAS_Kamus_Cnamh={
+		name="Kamus Cnamh"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KAS_Kamus_Cnamh
+				traits = {	navy_chief_decisive_battle_1 	}
+		}
+
+	}
+	KAS_Iwan_Milaiku={
+		name="Iwan Milaiku"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KAS_Iwan_Milaiku
+				traits = {	navy_chief_decisive_battle_1 	}
+		}
+
+	}
+	KAS_Mbwame_Cnamh={
+		name="Mbwame Cnamh"
+
+		advisor={
+			slot = air_chief
+			idea_token = KAS_Mbwame_Cnamh
+				traits = {	air_chief_old_guard_1 	}
+		}
+
+	}
+	KAS_Liarano_Jineria={
+		name="Liarano Jineria"
+
+		advisor={
+			slot = air_chief
+			idea_token = KAS_Liarano_Jineria
+				traits = {	air_chief_night_operations_1 	}
+		}
+
+	}
+	KAS_Niall_Amrimu={
+		name="Niall Amrimu"
+
+		advisor={
+			slot = high_command
+			idea_token = KAS_Niall_Amrimu
+				traits = {	navy_submarine_2 	}
+		}
+
+	}
+	KAS_Omari_Amrimu={
+		name="Omari Amrimu"
+
+		advisor={
+			slot = high_command
+			idea_token = KAS_Omari_Amrimu
+				traits = {	army_infantry_1 	}
+		}
+
+	}
+	KAS_Kamus_Mile={
+		name="Kamus Mile"
+
+		advisor={
+			slot = high_command
+			idea_token = KAS_Kamus_Mile
+				traits = {	navy_amphibious_assault_1 	}
+		}
+
+	}
+	KAS_Omareth_Mile={
+		name="Omareth Mile"
+
+		advisor={
+			slot = high_command
+			idea_token = KAS_Omareth_Mile
+				traits = {	air_naval_strike_2 	}
+		}
+
+	}
+	KAS_Mall_Aigh={
+		name="Mall Aigh"
+
+		advisor={
+			slot = high_command
+			idea_token = KAS_Mall_Aigh
+				traits = {	army_radio_intelligence_1 	}
+		}
+
+	}
+	KAS_Baka_Scathath={
+		name="Baka Scathath"
+
+		advisor={
+			slot = high_command
+			idea_token = KAS_Baka_Scathath
+				traits = {	air_bomber_interception_2 	}
+		}
+
+	}
+	KAS_Juma_Cnamh={
+		name="Juma Cnamh"
+
+		advisor={
+			slot = theorist
+			idea_token = KAS_Juma_Cnamh
+				traits = {	military_theorist 	}
+		}
+
+	}
+	KAS_Kwan_Mile={
+		name="Kwan Mile"
+
+		advisor={
+			slot = theorist
+			idea_token = KAS_Kwan_Mile
+				traits = {	naval_theorist 	}
+		}
+
+	}
+	KAS_Nuru_Jineria={
+		name="Nuru Jineria"
+
+		advisor={
+			slot = theorist
+			idea_token = KAS_Nuru_Jineria
+				traits = {	air_warfare_theorist 	}
+		}
+
+	}
+}

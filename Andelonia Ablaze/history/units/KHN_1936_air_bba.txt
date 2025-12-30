@@ -1,0 +1,31 @@
+air_wings = {
+		458 = { 								
+		small_plane_cas_airframe_0 = { owner = "KHN" amount = 50 version_name = "Oihotza Mk 2" }
+small_plane_cas_airframe_0 = { owner = "KHN" amount = 50 version_name = "Oihotza Mk 2" }
+
+	}
+	348 = { 								
+		large_plane_airframe_1 = { owner = "KHN" amount = 50 version_name = "Gaute Mk 1" }
+
+	}
+	411 = { 								
+		large_plane_airframe_1 = { owner = "KHN" amount = 50 version_name = "Gaute Mk 1" }
+large_plane_airframe_1 = { owner = "KHN" amount = 50 version_name = "Gaute Mk 1" }
+small_plane_airframe_0 = { owner = "KHN" amount = 50 version_name = "Shinda Mk 0" }
+
+	}
+	418 = { 								
+		large_plane_airframe_0 = { owner = "KHN" amount = 50 version_name = "Gaute Mk 2" }
+
+	}
+	175 = { 								
+		small_plane_airframe_0 = { owner = "KHN" amount = 50 version_name = "Shinda Mk 0" }
+
+	}
+	225 = { 								
+		large_plane_airframe_0 = { owner = "KHN" amount = 50 version_name = "Gaute Mk 2" }
+
+	}
+
+
+}

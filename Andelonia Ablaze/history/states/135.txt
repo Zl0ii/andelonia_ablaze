@@ -1,0 +1,41 @@
+
+state={
+	id=135
+	name="STATE_135"
+	manpower = 1297862
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=1
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 2793 5}
+		victory_points = { 2797 1}
+		
+		owner = REL
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			2797 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = REL
+	}
+
+	provinces={
+		2793 2794 2795 2796 2797 2798 2799 2800 
+	}
+	local_supplies=0.0 
+}

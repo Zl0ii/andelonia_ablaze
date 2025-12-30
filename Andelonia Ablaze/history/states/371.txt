@@ -1,0 +1,38 @@
+
+state={
+	id=371
+	name="STATE_371"
+	manpower = 4533630
+	
+	state_category = city
+	resources={
+		aluminium=2
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 7259 16}
+		victory_points = { 7261 7}
+		
+		owner = ADR
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = ADR
+	}
+
+	provinces={
+		7235 7236 7237 7238 7239 7240 7241 7242 7243 7244 7245 7246 7247 7248 7249 7250 7251 7252 7253 7254 7255 7256 7257 7258 7259 7260 7261 7262 7263 7264 7265 
+	}
+	local_supplies=0.0 
+}

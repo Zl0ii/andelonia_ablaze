@@ -1,0 +1,38 @@
+
+state={
+	id=337
+	name="STATE_337"
+	manpower = 1971513
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=1
+		coal=0
+	}
+
+	history={
+		victory_points = { 6602 1}
+		victory_points = { 6608 8}
+		
+		owner = REL
+		buildings = {
+			infrastructure = 2
+			air_base = 4
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = REL
+	}
+
+	provinces={
+		6599 6600 6601 6602 6603 6604 6605 6606 6607 6608 6609 6610 
+	}
+	local_supplies=0.0 
+}

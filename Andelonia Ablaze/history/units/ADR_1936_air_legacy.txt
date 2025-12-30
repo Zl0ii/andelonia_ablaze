@@ -1,0 +1,12 @@
+air_wings = {
+		206 = { 								
+		tac_bomber_equipment_0 = { owner = "ADR" amount = 50 version_name = "Kalp Mk 1" }
+
+	}
+	306 = { 								
+		tac_bomber_equipment_0 = { owner = "ADR" amount = 50 version_name = "Kalp Mk 1" }
+
+	}
+
+
+}

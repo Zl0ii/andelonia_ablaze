@@ -1,0 +1,38 @@
+
+state={
+	id=423
+	name="STATE_423"
+	manpower = 721565
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=1
+		coal=0
+	}
+
+	history={
+		victory_points = { 8266 2}
+		victory_points = { 8267 2}
+		
+		owner = REL
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = REL
+	}
+
+	provinces={
+		8265 8266 8267 8268 
+	}
+	local_supplies=0.0 
+}

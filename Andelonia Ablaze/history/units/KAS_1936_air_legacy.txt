@@ -1,0 +1,159 @@
+air_wings = {
+		465 = { 								
+		nav_bomber_equipment_0 = { owner = "KAS" amount = 50 version_name = "Cnuaiditha Mk 1" }
+
+	}
+	502 = { 								
+		nav_bomber_equipment_0 = { owner = "KAS" amount = 50 version_name = "Cnamh Mk 1" }
+
+	}
+	514 = { 								
+		tac_bomber_equipment_0 = { owner = "KAS" amount = 50 version_name = "Aigh Mk 1" }
+
+	}
+	517 = { 								
+		CAS_equipment_0 = { owner = "KAS" amount = 50 version_name = "Amrimu Mk 2" }
+
+	}
+	520 = { 								
+		fighter_equipment_0 = { owner = "KAS" amount = 50 version_name = "Majimti Mk 1" }
+
+	}
+	525 = { 								
+		fighter_equipment_0 = { owner = "KAS" amount = 50 version_name = "Mile Mk 0" }
+
+	}
+	536 = { 								
+		nav_bomber_equipment_0 = { owner = "KAS" amount = 50 version_name = "Cnuaiditha Mk 1" }
+
+	}
+	542 = { 								
+		CAS_equipment_0 = { owner = "KAS" amount = 50 version_name = "Aigh Mk 2" }
+tac_bomber_equipment_0 = { owner = "KAS" amount = 50 version_name = "Aigh Mk 1" }
+
+	}
+	549 = { 								
+		fighter_equipment_0 = { owner = "KAS" amount = 50 version_name = "Mile Mk 0" }
+
+	}
+	560 = { 								
+		nav_bomber_equipment_0 = { owner = "KAS" amount = 50 version_name = "Cnuaiditha Mk 1" }
+
+	}
+	559 = { 								
+		CAS_equipment_0 = { owner = "KAS" amount = 50 version_name = "Aigh Mk 2" }
+
+	}
+	563 = { 								
+		CAS_equipment_0 = { owner = "KAS" amount = 50 version_name = "Amrimu Mk 2" }
+
+	}
+	555 = { 								
+		nav_bomber_equipment_0 = { owner = "KAS" amount = 50 version_name = "Cnamh Mk 1" }
+
+	}
+	579 = { 								
+		CAS_equipment_0 = { owner = "KAS" amount = 50 version_name = "Amrimu Mk 2" }
+
+	}
+	597 = { 								
+		CAS_equipment_0 = { owner = "KAS" amount = 50 version_name = "Aigh Mk 2" }
+
+	}
+	580 = { 								
+		CAS_equipment_0 = { owner = "KAS" amount = 50 version_name = "Aigh Mk 2" }
+
+	}
+	594 = { 								
+		fighter_equipment_0 = { owner = "KAS" amount = 50 version_name = "Majimti Mk 1" }
+
+	}
+	605 = { 								
+		CAS_equipment_0 = { owner = "KAS" amount = 50 version_name = "Amrimu Mk 2" }
+
+	}
+	603 = { 								
+		CAS_equipment_0 = { owner = "KAS" amount = 50 version_name = "Aigh Mk 2" }
+
+	}
+	639 = { 								
+		fighter_equipment_0 = { owner = "KAS" amount = 50 version_name = "Mile Mk 0" }
+
+	}
+	634 = { 								
+		nav_bomber_equipment_0 = { owner = "KAS" amount = 50 version_name = "Cnamh Mk 1" }
+
+	}
+	353 = { 								
+		CAS_equipment_0 = { owner = "KAS" amount = 50 version_name = "Amrimu Mk 2" }
+
+	}
+	368 = { 								
+		nav_bomber_equipment_0 = { owner = "KAS" amount = 50 version_name = "Cnamh Mk 1" }
+
+	}
+	386 = { 								
+		CAS_equipment_0 = { owner = "KAS" amount = 50 version_name = "Aigh Mk 2" }
+
+	}
+	440 = { 								
+		fighter_equipment_0 = { owner = "KAS" amount = 50 version_name = "Majimti Mk 1" }
+
+	}
+	645 = { 								
+		tac_bomber_equipment_0 = { owner = "KAS" amount = 50 version_name = "Aigh Mk 1" }
+
+	}
+	649 = { 								
+		CAS_equipment_0 = { owner = "KAS" amount = 50 version_name = "Amrimu Mk 2" }
+
+	}
+	644 = { 								
+		fighter_equipment_0 = { owner = "KAS" amount = 50 version_name = "Mile Mk 0" }
+
+	}
+	655 = { 								
+		fighter_equipment_0 = { owner = "KAS" amount = 50 version_name = "Mile Mk 0" }
+nav_bomber_equipment_0 = { owner = "KAS" amount = 50 version_name = "Cnamh Mk 1" }
+
+	}
+	36 = { 								
+		nav_bomber_equipment_0 = { owner = "KAS" amount = 50 version_name = "Cnuaiditha Mk 1" }
+
+	}
+	107 = { 								
+		tac_bomber_equipment_0 = { owner = "KAS" amount = 50 version_name = "Aigh Mk 1" }
+
+	}
+	125 = { 								
+		nav_bomber_equipment_0 = { owner = "KAS" amount = 50 version_name = "Cnuaiditha Mk 1" }
+
+	}
+	202 = { 								
+		fighter_equipment_0 = { owner = "KAS" amount = 50 version_name = "Majimti Mk 1" }
+
+	}
+	217 = { 								
+		fighter_equipment_0 = { owner = "KAS" amount = 50 version_name = "Majimti Mk 1" }
+fighter_equipment_0 = { owner = "KAS" amount = 50 version_name = "Majimti Mk 1" }
+
+	}
+	254 = { 								
+		tac_bomber_equipment_0 = { owner = "KAS" amount = 50 version_name = "Aigh Mk 1" }
+
+	}
+	259 = { 								
+		tac_bomber_equipment_0 = { owner = "KAS" amount = 50 version_name = "Aigh Mk 1" }
+
+	}
+	274 = { 								
+		nav_bomber_equipment_0 = { owner = "KAS" amount = 50 version_name = "Cnamh Mk 1" }
+
+	}
+	320 = { 								
+		fighter_equipment_0 = { owner = "KAS" amount = 50 version_name = "Mile Mk 0" }
+
+	}
+
+
+}

@@ -1,0 +1,880 @@
+characters = {
+	SOL_Garhamid_Jonn={
+		name="Garhamid Jonn"
+
+		
+		country_leader={
+			ideology=centrism
+			traits = { headstrong  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	SOL_Cial_Shiromhne={
+		name="Cial Shiromhne"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SOL_Cial_Shiromhne
+				traits = {	socialite_connections 	}
+		}
+
+	}
+	SOL_Navid_Ball={
+		name="Navid Ball"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SOL_Navid_Ball
+				traits = {	socialite_connections 	}
+		}
+
+	}
+	SOL_Mehdi_Tirseang={
+		name="Mehdi Tirseang"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SOL_Mehdi_Tirseang
+				traits = {	cabinet_crisis 	}
+		}
+
+	}
+	SOL_Seam_Breh={
+		name="Seam Breh"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SOL_Seam_Breh
+				traits = {	staunch_constitutionalist 	}
+		}
+
+	}
+	SOL_Seamad_Breh={
+		name="Seamad Breh"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SOL_Seamad_Breh
+				traits = {	exiled 	}
+		}
+
+	}
+	SOL_Majidan_Jonam={
+		name="Majidan Jonam"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SOL_Majidan_Jonam
+				traits = {	staunch_constitutionalist 	}
+		}
+
+	}
+	SOL_Kamid_Mehradhair={
+		name="Kamid Mehradhair"
+
+		advisor={
+			slot = army_chief
+			idea_token = SOL_Kamid_Mehradhair
+				traits = {	army_chief_drill_1 	}
+		}
+
+	}
+	SOL_Declan_Broin={
+		name="Declan Broin"
+
+		advisor={
+			slot = army_chief
+			idea_token = SOL_Declan_Broin
+				traits = {	army_chief_reform_2 	}
+		}
+
+	}
+	SOL_Shahim_Coisli={
+		name="Shahim Coisli"
+
+		advisor={
+			slot = army_chief
+			idea_token = SOL_Shahim_Coisli
+				traits = {	army_chief_drill_1 	}
+		}
+
+	}
+	SOL_Milan_Tirseang={
+		name="Milan Tirseang"
+
+		advisor={
+			slot = army_chief
+			idea_token = SOL_Milan_Tirseang
+				traits = {	army_chief_maneuver_2 	}
+		}
+
+	}
+	SOL_Rhys_Jonam={
+		name="Rhys Jonam"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SOL_Rhys_Jonam
+				traits = {	navy_chief_maneuver_2 	}
+		}
+
+	}
+	SOL_Cial_Breh={
+		name="Cial Breh"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SOL_Cial_Breh
+				traits = {	navy_chief_commerce_raiding_1 	}
+		}
+
+	}
+	SOL_Garhamid_Shiromhne={
+		name="Garhamid Shiromhne"
+
+		advisor={
+			slot = air_chief
+			idea_token = SOL_Garhamid_Shiromhne
+				traits = {	air_chief_reform_2 	}
+		}
+
+	}
+	SOL_Aidan_Mehradhair={
+		name="Aidan Mehradhair"
+
+		advisor={
+			slot = air_chief
+			idea_token = SOL_Aidan_Mehradhair
+				traits = {	air_chief_reform_2 	}
+		}
+
+	}
+	SOL_Saeed_Coisli={
+		name="Saeed Coisli"
+
+		advisor={
+			slot = high_command
+			idea_token = SOL_Saeed_Coisli
+				traits = {	air_pilot_training_1 	}
+		}
+
+	}
+	SOL_Mostafa_Coisli={
+		name="Mostafa Coisli"
+
+		advisor={
+			slot = high_command
+			idea_token = SOL_Mostafa_Coisli
+				traits = {	army_radio_intelligence_2 	}
+		}
+
+	}
+	SOL_Mossan_Coisli={
+		name="Mossan Coisli"
+
+		advisor={
+			slot = high_command
+			idea_token = SOL_Mossan_Coisli
+				traits = {	army_cavalry_2 	}
+		}
+
+	}
+	SOL_Behzad_Coisli={
+		name="Behzad Coisli"
+
+		advisor={
+			slot = high_command
+			idea_token = SOL_Behzad_Coisli
+				traits = {	air_pilot_training_2 	}
+		}
+
+	}
+	SOL_Iwan_Jonn={
+		name="Iwan Jonn"
+
+		advisor={
+			slot = high_command
+			idea_token = SOL_Iwan_Jonn
+				traits = {	army_radio_intelligence_2 	}
+		}
+
+	}
+	SOL_Aidan_Ceinne={
+		name="Aidan Ceinne"
+
+		advisor={
+			slot = high_command
+			idea_token = SOL_Aidan_Ceinne
+				traits = {	army_entrenchment_2 	}
+		}
+
+	}
+	SOL_Nimall_Tirseang={
+		name="Nimall Tirseang"
+
+		
+		country_leader={
+			ideology=falangism
+			traits = { collaborator_king  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	SOL_Kamid_Broin={
+		name="Kamid Broin"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SOL_Kamid_Broin
+				traits = {	archon_basileus 	}
+		}
+
+	}
+	SOL_Hassein_Shiromhne={
+		name="Hassein Shiromhne"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SOL_Hassein_Shiromhne
+				traits = {	the_young_magnate 	}
+		}
+
+	}
+	SOL_Keiramid_Mehradhair={
+		name="Keiramid Mehradhair"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SOL_Keiramid_Mehradhair
+				traits = {	polemarch 	}
+		}
+
+	}
+	SOL_Mostafa_Tirseang={
+		name="Mostafa Tirseang"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SOL_Mostafa_Tirseang
+				traits = {	archon_basileus 	}
+		}
+
+	}
+	SOL_Behza_Jonam={
+		name="Behza Jonam"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SOL_Behza_Jonam
+				traits = {	infirm 	}
+		}
+
+	}
+	SOL_Garhamid_Ceinne={
+		name="Garhamid Ceinne"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SOL_Garhamid_Ceinne
+				traits = {	generallissimo 	}
+		}
+
+	}
+	SOL_Gareth_Mehradhair={
+		name="Gareth Mehradhair"
+
+		advisor={
+			slot = army_chief
+			idea_token = SOL_Gareth_Mehradhair
+				traits = {	army_chief_offensive_2 	}
+		}
+
+	}
+	SOL_Niman_Tirseang={
+		name="Niman Tirseang"
+
+		advisor={
+			slot = army_chief
+			idea_token = SOL_Niman_Tirseang
+				traits = {	army_chief_drill_1 	}
+		}
+
+	}
+	SOL_Keiramid_Breh={
+		name="Keiramid Breh"
+
+		advisor={
+			slot = army_chief
+			idea_token = SOL_Keiramid_Breh
+				traits = {	army_chief_organizational_2 	}
+		}
+
+	}
+	SOL_Liarahim_Jonam={
+		name="Liarahim Jonam"
+
+		advisor={
+			slot = army_chief
+			idea_token = SOL_Liarahim_Jonam
+				traits = {	army_chief_entrenchment_1 	}
+		}
+
+	}
+	SOL_Nimall_Coisli={
+		name="Nimall Coisli"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SOL_Nimall_Coisli
+				traits = {	navy_chief_decisive_battle_2 	}
+		}
+
+	}
+	SOL_Hasseiramus_Ball={
+		name="Hasseiramus Ball"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SOL_Hasseiramus_Ball
+				traits = {	navy_chief_commerce_raiding_1 	}
+		}
+
+	}
+	SOL_Rezad_Jonn={
+		name="Rezad Jonn"
+
+		advisor={
+			slot = air_chief
+			idea_token = SOL_Rezad_Jonn
+				traits = {	air_chief_safety_2 	}
+		}
+
+	}
+	SOL_Majidan_Broin={
+		name="Majidan Broin"
+
+		advisor={
+			slot = air_chief
+			idea_token = SOL_Majidan_Broin
+				traits = {	air_chief_night_operations_2 	}
+		}
+
+	}
+	SOL_Reza_Coisli={
+		name="Reza Coisli"
+
+		advisor={
+			slot = high_command
+			idea_token = SOL_Reza_Coisli
+				traits = {	air_naval_strike_1 	}
+		}
+
+	}
+	SOL_Hosseir_Shiromhne={
+		name="Hosseir Shiromhne"
+
+		advisor={
+			slot = high_command
+			idea_token = SOL_Hosseir_Shiromhne
+				traits = {	navy_fleet_logistics_1 	}
+		}
+
+	}
+	SOL_Ahmad_Jonam={
+		name="Ahmad Jonam"
+
+		advisor={
+			slot = high_command
+			idea_token = SOL_Ahmad_Jonam
+				traits = {	air_airborne_2 	}
+		}
+
+	}
+	SOL_Kaveh_Jonam={
+		name="Kaveh Jonam"
+
+		advisor={
+			slot = high_command
+			idea_token = SOL_Kaveh_Jonam
+				traits = {	army_commando_1 	}
+		}
+
+	}
+	SOL_Ahmad_Broin={
+		name="Ahmad Broin"
+
+		advisor={
+			slot = high_command
+			idea_token = SOL_Ahmad_Broin
+				traits = {	navy_anti_submarine_1 	}
+		}
+
+	}
+	SOL_Behzad_Broin={
+		name="Behzad Broin"
+
+		advisor={
+			slot = high_command
+			idea_token = SOL_Behzad_Broin
+				traits = {	air_naval_strike_2 	}
+		}
+
+	}
+	SOL_Reza_Tirseang={
+		name="Reza Tirseang"
+
+		
+		country_leader={
+			ideology=leninism
+			traits = { polemarch  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	SOL_Kamus_Tirseang={
+		name="Kamus Tirseang"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SOL_Kamus_Tirseang
+				traits = {	polemarch 	}
+		}
+
+	}
+	SOL_Kaveh_Shiromhne={
+		name="Kaveh Shiromhne"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SOL_Kaveh_Shiromhne
+				traits = {	infirm 	}
+		}
+
+	}
+	SOL_Fergus_Jonam={
+		name="Fergus Jonam"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SOL_Fergus_Jonam
+				traits = {	mastermind_code_cracker 	}
+		}
+
+	}
+	SOL_Fergus_Broin={
+		name="Fergus Broin"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SOL_Fergus_Broin
+				traits = {	infirm 	}
+		}
+
+	}
+	SOL_Amin_Shiromhne={
+		name="Amin Shiromhne"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SOL_Amin_Shiromhne
+				traits = {	indomitable_perseverance 	}
+		}
+
+	}
+	SOL_Naveh_Breh={
+		name="Naveh Breh"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SOL_Naveh_Breh
+				traits = {	infirm 	}
+		}
+
+	}
+	SOL_Peymad_Shiromhne={
+		name="Peymad Shiromhne"
+
+		advisor={
+			slot = army_chief
+			idea_token = SOL_Peymad_Shiromhne
+				traits = {	army_chief_planning_1 	}
+		}
+
+	}
+	SOL_Hasseiran_Breh={
+		name="Hasseiran Breh"
+
+		advisor={
+			slot = army_chief
+			idea_token = SOL_Hasseiran_Breh
+				traits = {	army_chief_offensive_1 	}
+		}
+
+	}
+	SOL_Parhamidan_Ball={
+		name="Parhamidan Ball"
+
+		advisor={
+			slot = army_chief
+			idea_token = SOL_Parhamidan_Ball
+				traits = {	army_chief_maneuver_2 	}
+		}
+
+	}
+	SOL_Babak_Tirseang={
+		name="Babak Tirseang"
+
+		advisor={
+			slot = army_chief
+			idea_token = SOL_Babak_Tirseang
+				traits = {	army_chief_offensive_1 	}
+		}
+
+	}
+	SOL_Mehdi_Shiromhne={
+		name="Mehdi Shiromhne"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SOL_Mehdi_Shiromhne
+				traits = {	navy_chief_maneuver_2 	}
+		}
+
+	}
+	SOL_Amiran_Coisli={
+		name="Amiran Coisli"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SOL_Amiran_Coisli
+				traits = {	navy_chief_commerce_raiding_2 	}
+		}
+
+	}
+	SOL_Ciamus_Shiromhne={
+		name="Ciamus Shiromhne"
+
+		advisor={
+			slot = air_chief
+			idea_token = SOL_Ciamus_Shiromhne
+				traits = {	air_chief_old_guard_1 	}
+		}
+
+	}
+	SOL_Kavehza_Tirseang={
+		name="Kavehza Tirseang"
+
+		advisor={
+			slot = air_chief
+			idea_token = SOL_Kavehza_Tirseang
+				traits = {	air_chief_old_guard_1 	}
+		}
+
+	}
+	SOL_Babak_Jonn={
+		name="Babak Jonn"
+
+		advisor={
+			slot = high_command
+			idea_token = SOL_Babak_Jonn
+				traits = {	air_bomber_interception_1 	}
+		}
+
+	}
+	SOL_Owen_Coisli={
+		name="Owen Coisli"
+
+		advisor={
+			slot = high_command
+			idea_token = SOL_Owen_Coisli
+				traits = {	air_bomber_interception_1 	}
+		}
+
+	}
+	SOL_Peymad_Jonn={
+		name="Peymad Jonn"
+
+		advisor={
+			slot = high_command
+			idea_token = SOL_Peymad_Jonn
+				traits = {	navy_naval_air_defense_1 	}
+		}
+
+	}
+	SOL_Garhamir_Jonam={
+		name="Garhamir Jonam"
+
+		advisor={
+			slot = high_command
+			idea_token = SOL_Garhamir_Jonam
+				traits = {	air_tactical_bombing_2 	}
+		}
+
+	}
+	SOL_Nimadran_Breh={
+		name="Nimadran Breh"
+
+		advisor={
+			slot = high_command
+			idea_token = SOL_Nimadran_Breh
+				traits = {	navy_screen_1 	}
+		}
+
+	}
+	SOL_Mossan_Mehradhair={
+		name="Mossan Mehradhair"
+
+		advisor={
+			slot = high_command
+			idea_token = SOL_Mossan_Mehradhair
+				traits = {	air_close_air_support_1 	}
+		}
+
+	}
+	SOL_Hasseiran_Mehradhair={
+		name="Hasseiran Mehradhair"
+
+		
+		country_leader={
+			ideology=liberalism
+			traits = { rearmer  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	SOL_Seam_Ceinne={
+		name="Seam Ceinne"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SOL_Seam_Ceinne
+				traits = {	british_bulldog 	}
+		}
+
+	}
+	SOL_Tarhahran_Tirseang={
+		name="Tarhahran Tirseang"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SOL_Tarhahran_Tirseang
+				traits = {	staunch_constitutionalist 	}
+		}
+
+	}
+	SOL_Peymad_Breh={
+		name="Peymad Breh"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SOL_Peymad_Breh
+				traits = {	british_bulldog 	}
+		}
+
+	}
+	SOL_Braig_Ball={
+		name="Braig Ball"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SOL_Braig_Ball
+				traits = {	first_lady 	}
+		}
+
+	}
+	SOL_Peymad_Jonam={
+		name="Peymad Jonam"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SOL_Peymad_Jonam
+				traits = {	the_young_magnate 	}
+		}
+
+	}
+	SOL_Cial_Ceinne={
+		name="Cial Ceinne"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SOL_Cial_Ceinne
+				traits = {	chamberlain_appeaser 	}
+		}
+
+	}
+	SOL_Liaman_Shiromhne={
+		name="Liaman Shiromhne"
+
+		advisor={
+			slot = army_chief
+			idea_token = SOL_Liaman_Shiromhne
+				traits = {	army_chief_maneuver_2 	}
+		}
+
+	}
+	SOL_Kein_Coisli={
+		name="Kein Coisli"
+
+		advisor={
+			slot = army_chief
+			idea_token = SOL_Kein_Coisli
+				traits = {	army_chief_maneuver_2 	}
+		}
+
+	}
+	SOL_Seamad_Jonn={
+		name="Seamad Jonn"
+
+		advisor={
+			slot = army_chief
+			idea_token = SOL_Seamad_Jonn
+				traits = {	army_chief_defensive_2 	}
+		}
+
+	}
+	SOL_Niamin_Jonn={
+		name="Niamin Jonn"
+
+		advisor={
+			slot = army_chief
+			idea_token = SOL_Niamin_Jonn
+				traits = {	army_chief_reform_2 	}
+		}
+
+	}
+	SOL_Quin_Tirseang={
+		name="Quin Tirseang"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SOL_Quin_Tirseang
+				traits = {	navy_chief_naval_aviation_1 	}
+		}
+
+	}
+	SOL_Omidan_Breh={
+		name="Omidan Breh"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SOL_Omidan_Breh
+				traits = {	navy_chief_reform_2 	}
+		}
+
+	}
+	SOL_Amiran_Tirseang={
+		name="Amiran Tirseang"
+
+		advisor={
+			slot = air_chief
+			idea_token = SOL_Amiran_Tirseang
+				traits = {	air_chief_safety_2 	}
+		}
+
+	}
+	SOL_Fareth_Shiromhne={
+		name="Fareth Shiromhne"
+
+		advisor={
+			slot = air_chief
+			idea_token = SOL_Fareth_Shiromhne
+				traits = {	air_chief_all_weather_1 	}
+		}
+
+	}
+	SOL_Naveh_Ball={
+		name="Naveh Ball"
+
+		advisor={
+			slot = high_command
+			idea_token = SOL_Naveh_Ball
+				traits = {	navy_carrier_2 	}
+		}
+
+	}
+	SOL_Declan_Mehradhair={
+		name="Declan Mehradhair"
+
+		advisor={
+			slot = high_command
+			idea_token = SOL_Declan_Mehradhair
+				traits = {	army_cavalry_1 	}
+		}
+
+	}
+	SOL_Keiramid_Jonam={
+		name="Keiramid Jonam"
+
+		advisor={
+			slot = high_command
+			idea_token = SOL_Keiramid_Jonam
+				traits = {	navy_anti_submarine_1 	}
+		}
+
+	}
+	SOL_Ciamus_Mehradhair={
+		name="Ciamus Mehradhair"
+
+		advisor={
+			slot = high_command
+			idea_token = SOL_Ciamus_Mehradhair
+				traits = {	army_infantry_2 	}
+		}
+
+	}
+	SOL_Mehzad_Jonn={
+		name="Mehzad Jonn"
+
+		advisor={
+			slot = high_command
+			idea_token = SOL_Mehzad_Jonn
+				traits = {	army_cavalry_2 	}
+		}
+
+	}
+	SOL_Niamin_Tirseang={
+		name="Niamin Tirseang"
+
+		advisor={
+			slot = high_command
+			idea_token = SOL_Niamin_Tirseang
+				traits = {	navy_submarine_1 	}
+		}
+
+	}
+	SOL_Hassein_Tirseang={
+		name="Hassein Tirseang"
+
+		advisor={
+			slot = theorist
+			idea_token = SOL_Hassein_Tirseang
+				traits = {	military_theorist 	}
+		}
+
+	}
+	SOL_Ahmad_Ceinne={
+		name="Ahmad Ceinne"
+
+		advisor={
+			slot = theorist
+			idea_token = SOL_Ahmad_Ceinne
+				traits = {	naval_theorist 	}
+		}
+
+	}
+	SOL_Iwan_Ball={
+		name="Iwan Ball"
+
+		advisor={
+			slot = theorist
+			idea_token = SOL_Iwan_Ball
+				traits = {	air_warfare_theorist 	}
+		}
+
+	}
+}

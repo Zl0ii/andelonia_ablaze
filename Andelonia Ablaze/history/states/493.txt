@@ -1,0 +1,41 @@
+
+state={
+	id=493
+	name="STATE_493"
+	manpower = 5910479
+	
+	state_category = metropolis
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=2
+		tungsten=2
+		coal=0
+	}
+
+	history={
+		victory_points = { 9625 30}
+		victory_points = { 9645 3}
+		
+		owner = FER
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 2
+			industrial_complex = 1
+			
+			9621 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = FER
+	}
+
+	provinces={
+		9618 9619 9620 9621 9622 9623 9624 9625 9626 9627 9628 9629 9630 9631 9632 9633 9634 9635 9636 9637 9638 9639 9640 9641 9642 9643 9644 9645 9646 9647 9648 9649 9650 9651 9652 9653 
+	}
+	local_supplies=0.0 
+}

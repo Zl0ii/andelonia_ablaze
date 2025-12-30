@@ -1,0 +1,41 @@
+air_wings = {
+		456 = { 								
+		small_plane_airframe_0 = { owner = "PON" amount = 50 version_name = "Imaq Mk 0" }
+
+	}
+	384 = { 								
+		small_plane_cas_airframe_1 = { owner = "PON" amount = 50 version_name = "Tunaq Mk 0" }
+small_plane_airframe_1 = { owner = "PON" amount = 50 version_name = "Thogugamai Mk 2" }
+
+	}
+	406 = { 								
+		medium_plane_airframe_0 = { owner = "PON" amount = 40 version_name = "Richt Mk 0" }
+
+	}
+	451 = { 								
+		large_plane_airframe_1 = { owner = "PON" amount = 41 version_name = "Magupak Mk 2" }
+
+	}
+	86 = { 								
+		small_plane_airframe_1 = { owner = "PON" amount = 50 version_name = "Thogugamai Mk 2" }
+medium_plane_airframe_1 = { owner = "PON" amount = 50 version_name = "Magupak Mk 2" }
+
+	}
+	310 = { 								
+		small_plane_cas_airframe_1 = { owner = "PON" amount = 50 version_name = "Tunaq Mk 0" }
+small_plane_cas_airframe_0 = { owner = "PON" amount = 50 version_name = "Idak Mk 1" }
+small_plane_cas_airframe_0 = { owner = "PON" amount = 50 version_name = "Idak Mk 1" }
+
+	}
+	287 = { 								
+		large_plane_airframe_0 = { owner = "PON" amount = 47 version_name = "Avartakkuilu Mk 0" }
+
+	}
+	291 = { 								
+		medium_plane_airframe_1 = { owner = "PON" amount = 50 version_name = "Magupak Mk 2" }
+small_plane_airframe_0 = { owner = "PON" amount = 50 version_name = "Imaq Mk 0" }
+
+	}
+
+
+}

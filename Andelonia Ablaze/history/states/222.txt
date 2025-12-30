@@ -1,0 +1,38 @@
+
+state={
+	id=222
+	name="STATE_222"
+	manpower = 1865120
+	
+	state_category = town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=15
+	}
+
+	history={
+		victory_points = { 4515 6}
+		victory_points = { 4516 3}
+		
+		owner = DRR
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = DRR
+	}
+
+	provinces={
+		4506 4507 4508 4509 4510 4511 4512 4513 4514 4515 4516 
+	}
+	local_supplies=0.0 
+}

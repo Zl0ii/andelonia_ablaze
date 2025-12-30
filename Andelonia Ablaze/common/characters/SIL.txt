@@ -1,0 +1,880 @@
+characters = {
+	SIL_Ciamaig_Haradea={
+		name="Ciamaig Haradea"
+
+		
+		country_leader={
+			ideology=moderatism
+			traits = { inexperienced_monarch  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	SIL_Ilkerhat_Neanlile={
+		name="Ilkerhat Neanlile"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SIL_Ilkerhat_Neanlile
+				traits = {	humble 	}
+		}
+
+	}
+	SIL_Ibai_Maing={
+		name="Ibai Maing"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SIL_Ibai_Maing
+				traits = {	inexperienced_monarch 	}
+		}
+
+	}
+	SIL_Tunc_Hikar={
+		name="Tunc Hikar"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SIL_Tunc_Hikar
+				traits = {	headstrong 	}
+		}
+
+	}
+	SIL_Kadran_Zamh={
+		name="Kadran Zamh"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SIL_Kadran_Zamh
+				traits = {	celebrity_junta_leader 	}
+		}
+
+	}
+	SIL_Bekira_Beata={
+		name="Bekira Beata"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SIL_Bekira_Beata
+				traits = {	staunch_constitutionalist 	}
+		}
+
+	}
+	SIL_Padran_Zuharrionn={
+		name="Padran Zuharrionn"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SIL_Padran_Zuharrionn
+				traits = {	headstrong 	}
+		}
+
+	}
+	SIL_Sinat_Zamh={
+		name="Sinat Zamh"
+
+		advisor={
+			slot = army_chief
+			idea_token = SIL_Sinat_Zamh
+				traits = {	army_chief_offensive_1 	}
+		}
+
+	}
+	SIL_Zafa_Zamh={
+		name="Zafa Zamh"
+
+		advisor={
+			slot = army_chief
+			idea_token = SIL_Zafa_Zamh
+				traits = {	army_chief_defensive_1 	}
+		}
+
+	}
+	SIL_Sinat_Agach={
+		name="Sinat Agach"
+
+		advisor={
+			slot = army_chief
+			idea_token = SIL_Sinat_Agach
+				traits = {	army_chief_organizational_2 	}
+		}
+
+	}
+	SIL_Ikerka_Herealabairl={
+		name="Ikerka Herealabairl"
+
+		advisor={
+			slot = army_chief
+			idea_token = SIL_Ikerka_Herealabairl
+				traits = {	army_chief_drill_2 	}
+		}
+
+	}
+	SIL_Iban_Haradea={
+		name="Iban Haradea"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SIL_Iban_Haradea
+				traits = {	navy_chief_decisive_battle_1 	}
+		}
+
+	}
+	SIL_Resul_Maing={
+		name="Resul Maing"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SIL_Resul_Maing
+				traits = {	navy_chief_decisive_battle_1 	}
+		}
+
+	}
+	SIL_Utku_Zamh={
+		name="Utku Zamh"
+
+		advisor={
+			slot = air_chief
+			idea_token = SIL_Utku_Zamh
+				traits = {	air_chief_all_weather_1 	}
+		}
+
+	}
+	SIL_Enesuf_Zamh={
+		name="Enesuf Zamh"
+
+		advisor={
+			slot = air_chief
+			idea_token = SIL_Enesuf_Zamh
+				traits = {	air_chief_safety_2 	}
+		}
+
+	}
+	SIL_Eminanes_Beata={
+		name="Eminanes Beata"
+
+		advisor={
+			slot = high_command
+			idea_token = SIL_Eminanes_Beata
+				traits = {	navy_naval_air_defense_2 	}
+		}
+
+	}
+	SIL_Isker_Zamh={
+		name="Isker Zamh"
+
+		advisor={
+			slot = high_command
+			idea_token = SIL_Isker_Zamh
+				traits = {	navy_anti_submarine_2 	}
+		}
+
+	}
+	SIL_Sergustafer_Oykü={
+		name="Sergustafer Oykü"
+
+		advisor={
+			slot = high_command
+			idea_token = SIL_Sergustafer_Oykü
+				traits = {	army_regrouping_2 	}
+		}
+
+	}
+	SIL_Hakai_Oykü={
+		name="Hakai Oykü"
+
+		advisor={
+			slot = high_command
+			idea_token = SIL_Hakai_Oykü
+				traits = {	army_commando_2 	}
+		}
+
+	}
+	SIL_Seamus_Maing={
+		name="Seamus Maing"
+
+		advisor={
+			slot = high_command
+			idea_token = SIL_Seamus_Maing
+				traits = {	air_airborne_1 	}
+		}
+
+	}
+	SIL_Borka_Maing={
+		name="Borka Maing"
+
+		advisor={
+			slot = high_command
+			idea_token = SIL_Borka_Maing
+				traits = {	navy_screen_1 	}
+		}
+
+	}
+	SIL_Sinn_Zuharrionn={
+		name="Sinn Zuharrionn"
+
+		
+		country_leader={
+			ideology=fascism_ideology
+			traits = { celebrity_junta_leader  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	SIL_Xanti_Maing={
+		name="Xanti Maing"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SIL_Xanti_Maing
+				traits = {	collaborator_king 	}
+		}
+
+	}
+	SIL_Ciamaig_Neanlile={
+		name="Ciamaig Neanlile"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SIL_Ciamaig_Neanlile
+				traits = {	collaborator_king 	}
+		}
+
+	}
+	SIL_Ilkerhat_Maing={
+		name="Ilkerhat Maing"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SIL_Ilkerhat_Maing
+				traits = {	inexperienced_imperialist 	}
+		}
+
+	}
+	SIL_Ibaner_Zamh={
+		name="Ibaner Zamh"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SIL_Ibaner_Zamh
+				traits = {	infirm 	}
+		}
+
+	}
+	SIL_Kaan_Oykü={
+		name="Kaan Oykü"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SIL_Kaan_Oykü
+				traits = {	generallissimo 	}
+		}
+
+	}
+	SIL_Padran_Maing={
+		name="Padran Maing"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SIL_Padran_Maing
+				traits = {	polemarch 	}
+		}
+
+	}
+	SIL_Sinat_Herealabairl={
+		name="Sinat Herealabairl"
+
+		advisor={
+			slot = army_chief
+			idea_token = SIL_Sinat_Herealabairl
+				traits = {	army_chief_organizational_1 	}
+		}
+
+	}
+	SIL_Sergustafer_Maing={
+		name="Sergustafer Maing"
+
+		advisor={
+			slot = army_chief
+			idea_token = SIL_Sergustafer_Maing
+				traits = {	army_chief_maneuver_2 	}
+		}
+
+	}
+	SIL_Enesuf_Agach={
+		name="Enesuf Agach"
+
+		advisor={
+			slot = army_chief
+			idea_token = SIL_Enesuf_Agach
+				traits = {	army_chief_morale_2 	}
+		}
+
+	}
+	SIL_Ener_Zamh={
+		name="Ener Zamh"
+
+		advisor={
+			slot = army_chief
+			idea_token = SIL_Ener_Zamh
+				traits = {	army_chief_defensive_1 	}
+		}
+
+	}
+	SIL_Sinn_Herealabairl={
+		name="Sinn Herealabairl"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SIL_Sinn_Herealabairl
+				traits = {	navy_chief_reform_2 	}
+		}
+
+	}
+	SIL_Sergustafer_Neanlile={
+		name="Sergustafer Neanlile"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SIL_Sergustafer_Neanlile
+				traits = {	navy_chief_naval_aviation_2 	}
+		}
+
+	}
+	SIL_Aitz_Beata={
+		name="Aitz Beata"
+
+		advisor={
+			slot = air_chief
+			idea_token = SIL_Aitz_Beata
+				traits = {	air_chief_all_weather_2 	}
+		}
+
+	}
+	SIL_Cemazan_Zuharrionn={
+		name="Cemazan Zuharrionn"
+
+		advisor={
+			slot = air_chief
+			idea_token = SIL_Cemazan_Zuharrionn
+				traits = {	air_chief_reform_2 	}
+		}
+
+	}
+	SIL_Rhys_Haradea={
+		name="Rhys Haradea"
+
+		advisor={
+			slot = high_command
+			idea_token = SIL_Rhys_Haradea
+				traits = {	army_concealment_2 	}
+		}
+
+	}
+	SIL_Ener_Maing={
+		name="Ener Maing"
+
+		advisor={
+			slot = high_command
+			idea_token = SIL_Ener_Maing
+				traits = {	army_artillery_1 	}
+		}
+
+	}
+	SIL_Ciamaig_Beata={
+		name="Ciamaig Beata"
+
+		advisor={
+			slot = high_command
+			idea_token = SIL_Ciamaig_Beata
+				traits = {	navy_capital_ship_2 	}
+		}
+
+	}
+	SIL_Mura_Oykü={
+		name="Mura Oykü"
+
+		advisor={
+			slot = high_command
+			idea_token = SIL_Mura_Oykü
+				traits = {	air_close_air_support_1 	}
+		}
+
+	}
+	SIL_Xabierka_Herealabairl={
+		name="Xabierka Herealabairl"
+
+		advisor={
+			slot = high_command
+			idea_token = SIL_Xabierka_Herealabairl
+				traits = {	air_naval_strike_1 	}
+		}
+
+	}
+	SIL_Ilken_Beata={
+		name="Ilken Beata"
+
+		advisor={
+			slot = high_command
+			idea_token = SIL_Ilken_Beata
+				traits = {	air_pilot_training_2 	}
+		}
+
+	}
+	SIL_Eoin_Neanlile={
+		name="Eoin Neanlile"
+
+		
+		country_leader={
+			ideology=stalinism
+			traits = { reluctant_stalinist  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	SIL_Hugh_Maing={
+		name="Hugh Maing"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SIL_Hugh_Maing
+				traits = {	polemarch 	}
+		}
+
+	}
+	SIL_Goran_Beata={
+		name="Goran Beata"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SIL_Goran_Beata
+				traits = {	reluctant_stalinist 	}
+		}
+
+	}
+	SIL_Onur_Beata={
+		name="Onur Beata"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SIL_Onur_Beata
+				traits = {	infirm 	}
+		}
+
+	}
+	SIL_Hugh_Beata={
+		name="Hugh Beata"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SIL_Hugh_Beata
+				traits = {	mastermind_code_cracker 	}
+		}
+
+	}
+	SIL_Anderhan_Haradea={
+		name="Anderhan Haradea"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SIL_Anderhan_Haradea
+				traits = {	reluctant_stalinist 	}
+		}
+
+	}
+	SIL_Eoin_Agach={
+		name="Eoin Agach"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SIL_Eoin_Agach
+				traits = {	infirm 	}
+		}
+
+	}
+	SIL_Boran_Zuharrionn={
+		name="Boran Zuharrionn"
+
+		advisor={
+			slot = army_chief
+			idea_token = SIL_Boran_Zuharrionn
+				traits = {	army_chief_planning_1 	}
+		}
+
+	}
+	SIL_Bran_Agach={
+		name="Bran Agach"
+
+		advisor={
+			slot = army_chief
+			idea_token = SIL_Bran_Agach
+				traits = {	army_chief_organizational_2 	}
+		}
+
+	}
+	SIL_Ikelim_Zuharrionn={
+		name="Ikelim Zuharrionn"
+
+		advisor={
+			slot = army_chief
+			idea_token = SIL_Ikelim_Zuharrionn
+				traits = {	army_chief_planning_1 	}
+		}
+
+	}
+	SIL_Hugruk_Zuharrionn={
+		name="Hugruk Zuharrionn"
+
+		advisor={
+			slot = army_chief
+			idea_token = SIL_Hugruk_Zuharrionn
+				traits = {	army_chief_morale_1 	}
+		}
+
+	}
+	SIL_Harat_Haradea={
+		name="Harat Haradea"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SIL_Harat_Haradea
+				traits = {	navy_chief_commerce_raiding_2 	}
+		}
+
+	}
+	SIL_Liam_Neanlile={
+		name="Liam Neanlile"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SIL_Liam_Neanlile
+				traits = {	navy_chief_naval_aviation_2 	}
+		}
+
+	}
+	SIL_Hara_Oykü={
+		name="Hara Oykü"
+
+		advisor={
+			slot = air_chief
+			idea_token = SIL_Hara_Oykü
+				traits = {	air_chief_old_guard_2 	}
+		}
+
+	}
+	SIL_Hakan_Zuharrionn={
+		name="Hakan Zuharrionn"
+
+		advisor={
+			slot = air_chief
+			idea_token = SIL_Hakan_Zuharrionn
+				traits = {	air_chief_safety_2 	}
+		}
+
+	}
+	SIL_Kadir_Beata={
+		name="Kadir Beata"
+
+		advisor={
+			slot = high_command
+			idea_token = SIL_Kadir_Beata
+				traits = {	army_artillery_1 	}
+		}
+
+	}
+	SIL_Ikenan_Herealabairl={
+		name="Ikenan Herealabairl"
+
+		advisor={
+			slot = high_command
+			idea_token = SIL_Ikenan_Herealabairl
+				traits = {	air_air_superiority_1 	}
+		}
+
+	}
+	SIL_Taylan_Haradea={
+		name="Taylan Haradea"
+
+		advisor={
+			slot = high_command
+			idea_token = SIL_Taylan_Haradea
+				traits = {	navy_submarine_1 	}
+		}
+
+	}
+	SIL_Bran_Zuharrionn={
+		name="Bran Zuharrionn"
+
+		advisor={
+			slot = high_command
+			idea_token = SIL_Bran_Zuharrionn
+				traits = {	army_artillery_2 	}
+		}
+
+	}
+	SIL_Hakan_Agach={
+		name="Hakan Agach"
+
+		advisor={
+			slot = high_command
+			idea_token = SIL_Hakan_Agach
+				traits = {	army_artillery_2 	}
+		}
+
+	}
+	SIL_Ferka_Herealabairl={
+		name="Ferka Herealabairl"
+
+		advisor={
+			slot = high_command
+			idea_token = SIL_Ferka_Herealabairl
+				traits = {	army_cavalry_1 	}
+		}
+
+	}
+	SIL_Xanti_Neanlile={
+		name="Xanti Neanlile"
+
+		
+		country_leader={
+			ideology=conservatism
+			traits = { staunch_constitutionalist  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	SIL_Taylan_Neanlile={
+		name="Taylan Neanlile"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SIL_Taylan_Neanlile
+				traits = {	infirm 	}
+		}
+
+	}
+	SIL_Savas_Hikar={
+		name="Savas Hikar"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SIL_Savas_Hikar
+				traits = {	first_lady 	}
+		}
+
+	}
+	SIL_Kaan_Herealabairl={
+		name="Kaan Herealabairl"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SIL_Kaan_Herealabairl
+				traits = {	rearmer 	}
+		}
+
+	}
+	SIL_Hakai_Haradea={
+		name="Hakai Haradea"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SIL_Hakai_Haradea
+				traits = {	famous_aviator 	}
+		}
+
+	}
+	SIL_Talcoldo_Maing={
+		name="Talcoldo Maing"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SIL_Talcoldo_Maing
+				traits = {	first_lady 	}
+		}
+
+	}
+	SIL_Orha_Hikar={
+		name="Orha Hikar"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SIL_Orha_Hikar
+				traits = {	the_banker 	}
+		}
+
+	}
+	SIL_Halhan_Neanlile={
+		name="Halhan Neanlile"
+
+		advisor={
+			slot = army_chief
+			idea_token = SIL_Halhan_Neanlile
+				traits = {	army_chief_entrenchment_1 	}
+		}
+
+	}
+	SIL_Ader_Zamh={
+		name="Ader Zamh"
+
+		advisor={
+			slot = army_chief
+			idea_token = SIL_Ader_Zamh
+				traits = {	army_chief_organizational_2 	}
+		}
+
+	}
+	SIL_Ferka_Oykü={
+		name="Ferka Oykü"
+
+		advisor={
+			slot = army_chief
+			idea_token = SIL_Ferka_Oykü
+				traits = {	army_chief_maneuver_2 	}
+		}
+
+	}
+	SIL_Ramustafe_Herealabairl={
+		name="Ramustafe Herealabairl"
+
+		advisor={
+			slot = army_chief
+			idea_token = SIL_Ramustafe_Herealabairl
+				traits = {	army_chief_organizational_2 	}
+		}
+
+	}
+	SIL_Bora_Zuharrionn={
+		name="Bora Zuharrionn"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SIL_Bora_Zuharrionn
+				traits = {	navy_chief_decisive_battle_1 	}
+		}
+
+	}
+	SIL_Emir_Beata={
+		name="Emir Beata"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SIL_Emir_Beata
+				traits = {	navy_chief_decisive_battle_1 	}
+		}
+
+	}
+	SIL_Ramustafe_Zuharrionn={
+		name="Ramustafe Zuharrionn"
+
+		advisor={
+			slot = air_chief
+			idea_token = SIL_Ramustafe_Zuharrionn
+				traits = {	air_chief_night_operations_1 	}
+		}
+
+	}
+	SIL_Ibai_Haradea={
+		name="Ibai Haradea"
+
+		advisor={
+			slot = air_chief
+			idea_token = SIL_Ibai_Haradea
+				traits = {	air_chief_safety_2 	}
+		}
+
+	}
+	SIL_Mura_Zuharrionn={
+		name="Mura Zuharrionn"
+
+		advisor={
+			slot = high_command
+			idea_token = SIL_Mura_Zuharrionn
+				traits = {	army_commando_1 	}
+		}
+
+	}
+	SIL_Isker_Beata={
+		name="Isker Beata"
+
+		advisor={
+			slot = high_command
+			idea_token = SIL_Isker_Beata
+				traits = {	army_cavalry_1 	}
+		}
+
+	}
+	SIL_Malilm_Beata={
+		name="Malilm Beata"
+
+		advisor={
+			slot = high_command
+			idea_token = SIL_Malilm_Beata
+				traits = {	army_CombinedArms_2 	}
+		}
+
+	}
+	SIL_Owenderemalc_Herealabairl={
+		name="Owenderemalc Herealabairl"
+
+		advisor={
+			slot = high_command
+			idea_token = SIL_Owenderemalc_Herealabairl
+				traits = {	navy_anti_submarine_2 	}
+		}
+
+	}
+	SIL_Seam_Neanlile={
+		name="Seam Neanlile"
+
+		advisor={
+			slot = high_command
+			idea_token = SIL_Seam_Neanlile
+				traits = {	army_logistics_2 	}
+		}
+
+	}
+	SIL_Kadran_Oykü={
+		name="Kadran Oykü"
+
+		advisor={
+			slot = high_command
+			idea_token = SIL_Kadran_Oykü
+				traits = {	army_CombinedArms_2 	}
+		}
+
+	}
+	SIL_Mustafa_Agach={
+		name="Mustafa Agach"
+
+		advisor={
+			slot = theorist
+			idea_token = SIL_Mustafa_Agach
+				traits = {	military_theorist 	}
+		}
+
+	}
+	SIL_Eoin_Zuharrionn={
+		name="Eoin Zuharrionn"
+
+		advisor={
+			slot = theorist
+			idea_token = SIL_Eoin_Zuharrionn
+				traits = {	naval_theorist 	}
+		}
+
+	}
+	SIL_Tunc_Agach={
+		name="Tunc Agach"
+
+		advisor={
+			slot = theorist
+			idea_token = SIL_Tunc_Agach
+				traits = {	air_warfare_theorist 	}
+		}
+
+	}
+}

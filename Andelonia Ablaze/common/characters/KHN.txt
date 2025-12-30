@@ -1,0 +1,880 @@
+characters = {
+	KHN_Koldo_Gaute={
+		name="Koldo Gaute"
+
+		
+		country_leader={
+			ideology=oligarchism
+			traits = { socialite_connections  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	KHN_Aziz_Oihotza={
+		name="Aziz Oihotza"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KHN_Aziz_Oihotza
+				traits = {	inexperienced_monarch 	}
+		}
+
+	}
+	KHN_Iska_Mapenza={
+		name="Iska Mapenza"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KHN_Iska_Mapenza
+				traits = {	celebrity_junta_leader 	}
+		}
+
+	}
+	KHN_Massierfanti_Tafrawt={
+		name="Massierfanti Tafrawt"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KHN_Massierfanti_Tafrawt
+				traits = {	socialite_connections 	}
+		}
+
+	}
+	KHN_Yane_Itxur={
+		name="Yane Itxur"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KHN_Yane_Itxur
+				traits = {	socialite_connections 	}
+		}
+
+	}
+	KHN_Aitz_Tafrawt={
+		name="Aitz Tafrawt"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KHN_Aitz_Tafrawt
+				traits = {	humble 	}
+		}
+
+	}
+	KHN_Massi_Gaute={
+		name="Massi Gaute"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KHN_Massi_Gaute
+				traits = {	socialite_connections 	}
+		}
+
+	}
+	KHN_Amar_Tafrawt={
+		name="Amar Tafrawt"
+
+		advisor={
+			slot = army_chief
+			idea_token = KHN_Amar_Tafrawt
+				traits = {	army_chief_entrenchment_2 	}
+		}
+
+	}
+	KHN_Yuba_Shinda={
+		name="Yuba Shinda"
+
+		advisor={
+			slot = army_chief
+			idea_token = KHN_Yuba_Shinda
+				traits = {	army_chief_reform_1 	}
+		}
+
+	}
+	KHN_Benator_Itxur={
+		name="Benator Itxur"
+
+		advisor={
+			slot = army_chief
+			idea_token = KHN_Benator_Itxur
+				traits = {	army_chief_defensive_2 	}
+		}
+
+	}
+	KHN_Mosier_Itxur={
+		name="Mosier Itxur"
+
+		advisor={
+			slot = army_chief
+			idea_token = KHN_Mosier_Itxur
+				traits = {	army_chief_planning_2 	}
+		}
+
+	}
+	KHN_Bakaizkai_Gaute={
+		name="Bakaizkai Gaute"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KHN_Bakaizkai_Gaute
+				traits = {	navy_chief_reform_2 	}
+		}
+
+	}
+	KHN_Chidi_Tafrawt={
+		name="Chidi Tafrawt"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KHN_Chidi_Tafrawt
+				traits = {	navy_chief_decisive_battle_2 	}
+		}
+
+	}
+	KHN_Aitorka_Itxur={
+		name="Aitorka Itxur"
+
+		advisor={
+			slot = air_chief
+			idea_token = KHN_Aitorka_Itxur
+				traits = {	air_chief_safety_1 	}
+		}
+
+	}
+	KHN_Ibanti_Shinda={
+		name="Ibanti Shinda"
+
+		advisor={
+			slot = air_chief
+			idea_token = KHN_Ibanti_Shinda
+				traits = {	air_chief_night_operations_1 	}
+		}
+
+	}
+	KHN_Yane_Milarawezi={
+		name="Yane Milarawezi"
+
+		advisor={
+			slot = high_command
+			idea_token = KHN_Yane_Milarawezi
+				traits = {	army_regrouping_1 	}
+		}
+
+	}
+	KHN_Aitorka_Arnarro={
+		name="Aitorka Arnarro"
+
+		advisor={
+			slot = high_command
+			idea_token = KHN_Aitorka_Arnarro
+				traits = {	army_artillery_2 	}
+		}
+
+	}
+	KHN_Jumari_Itxur={
+		name="Jumari Itxur"
+
+		advisor={
+			slot = high_command
+			idea_token = KHN_Jumari_Itxur
+				traits = {	air_naval_strike_2 	}
+		}
+
+	}
+	KHN_Yuba_Arnarro={
+		name="Yuba Arnarro"
+
+		advisor={
+			slot = high_command
+			idea_token = KHN_Yuba_Arnarro
+				traits = {	navy_naval_air_defense_1 	}
+		}
+
+	}
+	KHN_Harimoun_Tafrawt={
+		name="Harimoun Tafrawt"
+
+		advisor={
+			slot = high_command
+			idea_token = KHN_Harimoun_Tafrawt
+				traits = {	air_close_air_support_2 	}
+		}
+
+	}
+	KHN_Ibana_Tafrawt={
+		name="Ibana Tafrawt"
+
+		advisor={
+			slot = high_command
+			idea_token = KHN_Ibana_Tafrawt
+				traits = {	air_pilot_training_1 	}
+		}
+
+	}
+	KHN_Kato_Mapenza={
+		name="Kato Mapenza"
+
+		
+		country_leader={
+			ideology=falangism
+			traits = { archon_basileus  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	KHN_Mosier_Eurasun={
+		name="Mosier Eurasun"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KHN_Mosier_Eurasun
+				traits = {	infirm 	}
+		}
+
+	}
+	KHN_Harimoun_Mapenza={
+		name="Harimoun Mapenza"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KHN_Harimoun_Mapenza
+				traits = {	basileus 	}
+		}
+
+	}
+	KHN_Ibanti_Mapenza={
+		name="Ibanti Mapenza"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KHN_Ibanti_Mapenza
+				traits = {	infirm 	}
+		}
+
+	}
+	KHN_Iskari_Eurasun={
+		name="Iskari Eurasun"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KHN_Iskari_Eurasun
+				traits = {	autocratic_imperialist 	}
+		}
+
+	}
+	KHN_Benator_Mapenza={
+		name="Benator Mapenza"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KHN_Benator_Mapenza
+				traits = {	polemarch 	}
+		}
+
+	}
+	KHN_Tafsut_Tafrawt={
+		name="Tafsut Tafrawt"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KHN_Tafsut_Tafrawt
+				traits = {	inexperienced_imperialist 	}
+		}
+
+	}
+	KHN_Meziannissie_Eurasun={
+		name="Meziannissie Eurasun"
+
+		advisor={
+			slot = army_chief
+			idea_token = KHN_Meziannissie_Eurasun
+				traits = {	army_chief_maneuver_2 	}
+		}
+
+	}
+	KHN_Temba_Gaute={
+		name="Temba Gaute"
+
+		advisor={
+			slot = army_chief
+			idea_token = KHN_Temba_Gaute
+				traits = {	army_chief_reform_1 	}
+		}
+
+	}
+	KHN_Juma_Shinda={
+		name="Juma Shinda"
+
+		advisor={
+			slot = army_chief
+			idea_token = KHN_Juma_Shinda
+				traits = {	army_chief_planning_1 	}
+		}
+
+	}
+	KHN_Aitorka_Tafrawt={
+		name="Aitorka Tafrawt"
+
+		advisor={
+			slot = army_chief
+			idea_token = KHN_Aitorka_Tafrawt
+				traits = {	army_chief_entrenchment_1 	}
+		}
+
+	}
+	KHN_Ibane_Mapenza={
+		name="Ibane Mapenza"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KHN_Ibane_Mapenza
+				traits = {	navy_chief_reform_1 	}
+		}
+
+	}
+	KHN_Sifax_Arnarro={
+		name="Sifax Arnarro"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KHN_Sifax_Arnarro
+				traits = {	navy_chief_commerce_raiding_2 	}
+		}
+
+	}
+	KHN_Gorka_Gaute={
+		name="Gorka Gaute"
+
+		advisor={
+			slot = air_chief
+			idea_token = KHN_Gorka_Gaute
+				traits = {	air_chief_safety_2 	}
+		}
+
+	}
+	KHN_Sefu_Gaute={
+		name="Sefu Gaute"
+
+		advisor={
+			slot = air_chief
+			idea_token = KHN_Sefu_Gaute
+				traits = {	air_chief_safety_1 	}
+		}
+
+	}
+	KHN_Temba_Mapenza={
+		name="Temba Mapenza"
+
+		advisor={
+			slot = high_command
+			idea_token = KHN_Temba_Mapenza
+				traits = {	army_regrouping_1 	}
+		}
+
+	}
+	KHN_Benator_Eurasun={
+		name="Benator Eurasun"
+
+		advisor={
+			slot = high_command
+			idea_token = KHN_Benator_Eurasun
+				traits = {	army_radio_intelligence_1 	}
+		}
+
+	}
+	KHN_Xabierfaneko_Oihotza={
+		name="Xabierfaneko Oihotza"
+
+		advisor={
+			slot = high_command
+			idea_token = KHN_Xabierfaneko_Oihotza
+				traits = {	army_cavalry_1 	}
+		}
+
+	}
+	KHN_Chidi_Shinda={
+		name="Chidi Shinda"
+
+		advisor={
+			slot = high_command
+			idea_token = KHN_Chidi_Shinda
+				traits = {	air_pilot_training_1 	}
+		}
+
+	}
+	KHN_Harimoun_Arnarro={
+		name="Harimoun Arnarro"
+
+		advisor={
+			slot = high_command
+			idea_token = KHN_Harimoun_Arnarro
+				traits = {	army_CombinedArms_2 	}
+		}
+
+	}
+	KHN_Harimoun_Milarawezi={
+		name="Harimoun Milarawezi"
+
+		advisor={
+			slot = high_command
+			idea_token = KHN_Harimoun_Milarawezi
+				traits = {	air_close_air_support_1 	}
+		}
+
+	}
+	KHN_Kwamarimoun_Tafso={
+		name="Kwamarimoun Tafso"
+
+		
+		country_leader={
+			ideology=marxism
+			traits = { polemarch  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	KHN_Barimokranga_Oihotza={
+		name="Barimokranga Oihotza"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KHN_Barimokranga_Oihotza
+				traits = {	infirm 	}
+		}
+
+	}
+	KHN_Benator_Shinda={
+		name="Benator Shinda"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KHN_Benator_Shinda
+				traits = {	reluctant_stalinist 	}
+		}
+
+	}
+	KHN_Kwamarimoun_Gaute={
+		name="Kwamarimoun Gaute"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KHN_Kwamarimoun_Gaute
+				traits = {	polemarch 	}
+		}
+
+	}
+	KHN_Massi_Tafso={
+		name="Massi Tafso"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KHN_Massi_Tafso
+				traits = {	mastermind_code_cracker 	}
+		}
+
+	}
+	KHN_Iker_Milarawezi={
+		name="Iker Milarawezi"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KHN_Iker_Milarawezi
+				traits = {	polemarch 	}
+		}
+
+	}
+	KHN_Meziannissie_Shinda={
+		name="Meziannissie Shinda"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KHN_Meziannissie_Shinda
+				traits = {	mastermind_code_cracker 	}
+		}
+
+	}
+	KHN_Massi_Tafrawt={
+		name="Massi Tafrawt"
+
+		advisor={
+			slot = army_chief
+			idea_token = KHN_Massi_Tafrawt
+				traits = {	army_chief_offensive_1 	}
+		}
+
+	}
+	KHN_Gorka_Tafrawt={
+		name="Gorka Tafrawt"
+
+		advisor={
+			slot = army_chief
+			idea_token = KHN_Gorka_Tafrawt
+				traits = {	army_chief_organizational_2 	}
+		}
+
+	}
+	KHN_Tano_Tafso={
+		name="Tano Tafso"
+
+		advisor={
+			slot = army_chief
+			idea_token = KHN_Tano_Tafso
+				traits = {	army_chief_offensive_2 	}
+		}
+
+	}
+	KHN_Aselmar_Eurasun={
+		name="Aselmar Eurasun"
+
+		advisor={
+			slot = army_chief
+			idea_token = KHN_Aselmar_Eurasun
+				traits = {	army_chief_reform_1 	}
+		}
+
+	}
+	KHN_Kwamarimoun_Arnarro={
+		name="Kwamarimoun Arnarro"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KHN_Kwamarimoun_Arnarro
+				traits = {	navy_chief_naval_aviation_1 	}
+		}
+
+	}
+	KHN_Eneko_Oihotza={
+		name="Eneko Oihotza"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KHN_Eneko_Oihotza
+				traits = {	navy_chief_maneuver_2 	}
+		}
+
+	}
+	KHN_Gaiuru_Eurasun={
+		name="Gaiuru Eurasun"
+
+		advisor={
+			slot = air_chief
+			idea_token = KHN_Gaiuru_Eurasun
+				traits = {	air_chief_safety_2 	}
+		}
+
+	}
+	KHN_Mosi_Itxur={
+		name="Mosi Itxur"
+
+		advisor={
+			slot = air_chief
+			idea_token = KHN_Mosi_Itxur
+				traits = {	air_chief_all_weather_2 	}
+		}
+
+	}
+	KHN_Musa_Tafrawt={
+		name="Musa Tafrawt"
+
+		advisor={
+			slot = high_command
+			idea_token = KHN_Musa_Tafrawt
+				traits = {	air_tactical_bombing_2 	}
+		}
+
+	}
+	KHN_Barkaizkaitz_Oihotza={
+		name="Barkaizkaitz Oihotza"
+
+		advisor={
+			slot = high_command
+			idea_token = KHN_Barkaizkaitz_Oihotza
+				traits = {	army_concealment_2 	}
+		}
+
+	}
+	KHN_Eder_Tafso={
+		name="Eder Tafso"
+
+		advisor={
+			slot = high_command
+			idea_token = KHN_Eder_Tafso
+				traits = {	air_air_combat_training_2 	}
+		}
+
+	}
+	KHN_Sifax_Milarawezi={
+		name="Sifax Milarawezi"
+
+		advisor={
+			slot = high_command
+			idea_token = KHN_Sifax_Milarawezi
+				traits = {	army_concealment_1 	}
+		}
+
+	}
+	KHN_Ibanti_Itxur={
+		name="Ibanti Itxur"
+
+		advisor={
+			slot = high_command
+			idea_token = KHN_Ibanti_Itxur
+				traits = {	army_logistics_1 	}
+		}
+
+	}
+	KHN_Amad_Gaute={
+		name="Amad Gaute"
+
+		advisor={
+			slot = high_command
+			idea_token = KHN_Amad_Gaute
+				traits = {	navy_anti_submarine_1 	}
+		}
+
+	}
+	KHN_Aitorka_Oihotza={
+		name="Aitorka Oihotza"
+
+		
+		country_leader={
+			ideology=socialism
+			traits = { the_young_magnate  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	KHN_Miker_Tafso={
+		name="Miker Tafso"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KHN_Miker_Tafso
+				traits = {	the_young_magnate 	}
+		}
+
+	}
+	KHN_Saiz_Milarawezi={
+		name="Saiz Milarawezi"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KHN_Saiz_Milarawezi
+				traits = {	chamberlain_appeaser 	}
+		}
+
+	}
+	KHN_Xanti_Shinda={
+		name="Xanti Shinda"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KHN_Xanti_Shinda
+				traits = {	chamberlain_appeaser 	}
+		}
+
+	}
+	KHN_Eder_Arnarro={
+		name="Eder Arnarro"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KHN_Eder_Arnarro
+				traits = {	first_lady 	}
+		}
+
+	}
+	KHN_Iderfax_Itxur={
+		name="Iderfax Itxur"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KHN_Iderfax_Itxur
+				traits = {	the_young_magnate 	}
+		}
+
+	}
+	KHN_Luba_Itxur={
+		name="Luba Itxur"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KHN_Luba_Itxur
+				traits = {	first_lady 	}
+		}
+
+	}
+	KHN_Bakaizkai_Arnarro={
+		name="Bakaizkai Arnarro"
+
+		advisor={
+			slot = army_chief
+			idea_token = KHN_Bakaizkai_Arnarro
+				traits = {	army_chief_organizational_1 	}
+		}
+
+	}
+	KHN_Jumarimokran_Shinda={
+		name="Jumarimokran Shinda"
+
+		advisor={
+			slot = army_chief
+			idea_token = KHN_Jumarimokran_Shinda
+				traits = {	army_chief_drill_2 	}
+		}
+
+	}
+	KHN_Kato_Tafso={
+		name="Kato Tafso"
+
+		advisor={
+			slot = army_chief
+			idea_token = KHN_Kato_Tafso
+				traits = {	army_chief_entrenchment_1 	}
+		}
+
+	}
+	KHN_Iderfax_Tafrawt={
+		name="Iderfax Tafrawt"
+
+		advisor={
+			slot = army_chief
+			idea_token = KHN_Iderfax_Tafrawt
+				traits = {	army_chief_offensive_2 	}
+		}
+
+	}
+	KHN_Jumari_Gaute={
+		name="Jumari Gaute"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KHN_Jumari_Gaute
+				traits = {	navy_chief_old_guard_2 	}
+		}
+
+	}
+	KHN_Amoun_Itxur={
+		name="Amoun Itxur"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KHN_Amoun_Itxur
+				traits = {	navy_chief_commerce_raiding_2 	}
+		}
+
+	}
+	KHN_Benator_Oihotza={
+		name="Benator Oihotza"
+
+		advisor={
+			slot = air_chief
+			idea_token = KHN_Benator_Oihotza
+				traits = {	air_chief_night_operations_1 	}
+		}
+
+	}
+	KHN_Kato_Gaute={
+		name="Kato Gaute"
+
+		advisor={
+			slot = air_chief
+			idea_token = KHN_Kato_Gaute
+				traits = {	air_chief_night_operations_1 	}
+		}
+
+	}
+	KHN_Ibanti_Arnarro={
+		name="Ibanti Arnarro"
+
+		advisor={
+			slot = high_command
+			idea_token = KHN_Ibanti_Arnarro
+				traits = {	navy_capital_ship_2 	}
+		}
+
+	}
+	KHN_Yuba_Milarawezi={
+		name="Yuba Milarawezi"
+
+		advisor={
+			slot = high_command
+			idea_token = KHN_Yuba_Milarawezi
+				traits = {	army_cavalry_1 	}
+		}
+
+	}
+	KHN_Yuba_Itxur={
+		name="Yuba Itxur"
+
+		advisor={
+			slot = high_command
+			idea_token = KHN_Yuba_Itxur
+				traits = {	navy_amphibious_assault_1 	}
+		}
+
+	}
+	KHN_Mosi_Tafso={
+		name="Mosi Tafso"
+
+		advisor={
+			slot = high_command
+			idea_token = KHN_Mosi_Tafso
+				traits = {	navy_anti_submarine_2 	}
+		}
+
+	}
+	KHN_Meziannissie_Tafrawt={
+		name="Meziannissie Tafrawt"
+
+		advisor={
+			slot = high_command
+			idea_token = KHN_Meziannissie_Tafrawt
+				traits = {	army_cavalry_1 	}
+		}
+
+	}
+	KHN_Massierfanti_Oihotza={
+		name="Massierfanti Oihotza"
+
+		advisor={
+			slot = high_command
+			idea_token = KHN_Massierfanti_Oihotza
+				traits = {	navy_screen_2 	}
+		}
+
+	}
+	KHN_Koldo_Itxur={
+		name="Koldo Itxur"
+
+		advisor={
+			slot = theorist
+			idea_token = KHN_Koldo_Itxur
+				traits = {	military_theorist 	}
+		}
+
+	}
+	KHN_Eder_Shinda={
+		name="Eder Shinda"
+
+		advisor={
+			slot = theorist
+			idea_token = KHN_Eder_Shinda
+				traits = {	naval_theorist 	}
+		}
+
+	}
+	KHN_Mikel_Eurasun={
+		name="Mikel Eurasun"
+
+		advisor={
+			slot = theorist
+			idea_token = KHN_Mikel_Eurasun
+				traits = {	air_warfare_theorist 	}
+		}
+
+	}
+}

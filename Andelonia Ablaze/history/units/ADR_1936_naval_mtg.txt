@@ -1,0 +1,27 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Aderania Fleet"			
+		naval_base = 7344
+		task_force = {
+			name = "Aderania Fleet"
+			location = 7344
+			
+						ship = { name = "Gref" definition = battleship equipment = { ship_hull_heavy_1 = { amount = 1 owner = ADR version_name = "Yazki Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

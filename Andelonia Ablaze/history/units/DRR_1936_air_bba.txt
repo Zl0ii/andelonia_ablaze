@@ -1,0 +1,46 @@
+air_wings = {
+		52 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "DRR" amount = 50 version_name = "Mando Mk 0" }
+
+	}
+	80 = { 								
+		small_plane_cas_airframe_1 = { owner = "DRR" amount = 50 version_name = "Choggia Mk 0" }
+
+	}
+	81 = { 								
+		small_plane_cas_airframe_0 = { owner = "DRR" amount = 50 version_name = "Kinai Mk 2" }
+
+	}
+	84 = { 								
+		small_plane_cas_airframe_0 = { owner = "DRR" amount = 50 version_name = "Kinai Mk 2" }
+
+	}
+	94 = { 								
+		small_plane_cas_airframe_1 = { owner = "DRR" amount = 50 version_name = "Choggia Mk 0" }
+
+	}
+	95 = { 								
+		medium_plane_airframe_0 = { owner = "DRR" amount = 46 version_name = "Choggia Mk 1" }
+
+	}
+	178 = { 								
+		small_plane_airframe_1 = { owner = "DRR" amount = 46 version_name = "Veera Mk 1" }
+
+	}
+	181 = { 								
+		small_plane_airframe_0 = { owner = "DRR" amount = 50 version_name = "Choggia Mk 1" }
+small_plane_naval_bomber_airframe_0 = { owner = "DRR" amount = 50 version_name = "Mando Mk 0" }
+
+	}
+	197 = { 								
+		large_plane_airframe_0 = { owner = "DRR" amount = 47 version_name = "Lagli Mk 2" }
+
+	}
+	234 = { 								
+		small_plane_naval_bomber_airframe_1 = { owner = "DRR" amount = 41 version_name = "Region Mk 1" }
+small_plane_airframe_0 = { owner = "DRR" amount = 50 version_name = "Choggia Mk 1" }
+
+	}
+
+
+}

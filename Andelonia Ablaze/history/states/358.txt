@@ -1,0 +1,37 @@
+
+state={
+	id=358
+	name="STATE_358"
+	manpower = 2970182
+	
+	state_category = large_town
+	resources={
+		aluminium=3
+		chromium=0
+		oil=0
+		rubber=0
+		steel=8
+		tungsten=0
+		coal=1
+	}
+
+	history={
+		victory_points = { 7005 14}
+		
+		owner = BOR
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = BOR
+	}
+
+	provinces={
+		7003 7004 7005 7006 7007 7008 7009 7010 7011 7012 7013 7014 7015 7016 7017 7018 7019 7020 7021 7022 
+	}
+	local_supplies=0.0 
+}

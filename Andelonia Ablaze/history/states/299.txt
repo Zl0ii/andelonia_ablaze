@@ -1,0 +1,37 @@
+
+state={
+	id=299
+	name="STATE_299"
+	manpower = 5216968
+	
+	state_category = city
+	resources={
+		aluminium=1
+		chromium=0
+		oil=3
+		rubber=0
+		steel=1
+		tungsten=2
+		coal=0
+	}
+
+	history={
+		victory_points = { 5909 26}
+		
+		owner = ADR
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = ADR
+	}
+
+	provinces={
+		5904 5905 5906 5907 5908 5909 5910 5911 5912 5913 5914 5915 5916 5917 5918 5919 5920 5921 5922 5923 5924 5925 5926 5927 5928 5929 5930 5931 5932 5933 5934 5935 5936 5937 5938 5939 5940 5941 5942 5943 
+	}
+	local_supplies=0.0 
+}

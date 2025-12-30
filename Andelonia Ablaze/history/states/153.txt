@@ -1,0 +1,41 @@
+
+state={
+	id=153
+	name="STATE_153"
+	manpower = 1486623
+	
+	state_category = rural
+	resources={
+		aluminium=2
+		chromium=1
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 3139 3}
+		victory_points = { 3143 4}
+		
+		owner = KAS
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			3143 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = KAS
+	}
+
+	provinces={
+		3138 3139 3140 3141 3142 3143 3144 3145 3146 
+	}
+	local_supplies=0.0 
+}

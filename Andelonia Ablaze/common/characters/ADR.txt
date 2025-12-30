@@ -1,0 +1,880 @@
+characters = {
+	ADR_Onura_Mail={
+		name="Onura Mail"
+
+		
+		country_leader={
+			ideology=oligarchism
+			traits = { cabinet_crisis  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	ADR_Onuran_Kalp={
+		name="Onuran Kalp"
+
+		advisor={
+			slot = political_advisor
+			idea_token = ADR_Onuran_Kalp
+				traits = {	celebrity_junta_leader 	}
+		}
+
+	}
+	ADR_Sinant_Entza={
+		name="Sinant Entza"
+
+		advisor={
+			slot = political_advisor
+			idea_token = ADR_Sinant_Entza
+				traits = {	inexperienced_monarch 	}
+		}
+
+	}
+	ADR_Lialilm_Kalp={
+		name="Lialilm Kalp"
+
+		advisor={
+			slot = political_advisor
+			idea_token = ADR_Lialilm_Kalp
+				traits = {	cabinet_crisis 	}
+		}
+
+	}
+	ADR_Lialilm_Entza={
+		name="Lialilm Entza"
+
+		advisor={
+			slot = political_advisor
+			idea_token = ADR_Lialilm_Entza
+				traits = {	cabinet_crisis 	}
+		}
+
+	}
+	ADR_Liarulen_Kalp={
+		name="Liarulen Kalp"
+
+		advisor={
+			slot = political_advisor
+			idea_token = ADR_Liarulen_Kalp
+				traits = {	staunch_constitutionalist 	}
+		}
+
+	}
+	ADR_Sinn_Entza={
+		name="Sinn Entza"
+
+		advisor={
+			slot = political_advisor
+			idea_token = ADR_Sinn_Entza
+				traits = {	cabinet_crisis 	}
+		}
+
+	}
+	ADR_Padir_Ariorc={
+		name="Padir Ariorc"
+
+		advisor={
+			slot = army_chief
+			idea_token = ADR_Padir_Ariorc
+				traits = {	army_chief_morale_1 	}
+		}
+
+	}
+	ADR_Zafa_Sehe={
+		name="Zafa Sehe"
+
+		advisor={
+			slot = army_chief
+			idea_token = ADR_Zafa_Sehe
+				traits = {	army_chief_entrenchment_2 	}
+		}
+
+	}
+	ADR_Liarulen_Yazki={
+		name="Liarulen Yazki"
+
+		advisor={
+			slot = army_chief
+			idea_token = ADR_Liarulen_Yazki
+				traits = {	army_chief_maneuver_1 	}
+		}
+
+	}
+	ADR_Eneko_Entza={
+		name="Eneko Entza"
+
+		advisor={
+			slot = army_chief
+			idea_token = ADR_Eneko_Entza
+				traits = {	army_chief_defensive_2 	}
+		}
+
+	}
+	ADR_Tarem_Mail={
+		name="Tarem Mail"
+
+		advisor={
+			slot = navy_chief
+			idea_token = ADR_Tarem_Mail
+				traits = {	navy_chief_maneuver_1 	}
+		}
+
+	}
+	ADR_Ander_Sehe={
+		name="Ander Sehe"
+
+		advisor={
+			slot = navy_chief
+			idea_token = ADR_Ander_Sehe
+				traits = {	navy_chief_naval_aviation_2 	}
+		}
+
+	}
+	ADR_Liarulen_Entza={
+		name="Liarulen Entza"
+
+		advisor={
+			slot = air_chief
+			idea_token = ADR_Liarulen_Entza
+				traits = {	air_chief_reform_2 	}
+		}
+
+	}
+	ADR_Bran_Ariorc={
+		name="Bran Ariorc"
+
+		advisor={
+			slot = air_chief
+			idea_token = ADR_Bran_Ariorc
+				traits = {	air_chief_old_guard_2 	}
+		}
+
+	}
+	ADR_Eneko_Sehe={
+		name="Eneko Sehe"
+
+		advisor={
+			slot = high_command
+			idea_token = ADR_Eneko_Sehe
+				traits = {	army_CombinedArms_1 	}
+		}
+
+	}
+	ADR_Onur_Mail={
+		name="Onur Mail"
+
+		advisor={
+			slot = high_command
+			idea_token = ADR_Onur_Mail
+				traits = {	army_concealment_2 	}
+		}
+
+	}
+	ADR_Barem_Kalp={
+		name="Barem Kalp"
+
+		advisor={
+			slot = high_command
+			idea_token = ADR_Barem_Kalp
+				traits = {	air_close_air_support_2 	}
+		}
+
+	}
+	ADR_Asier_Gref={
+		name="Asier Gref"
+
+		advisor={
+			slot = high_command
+			idea_token = ADR_Asier_Gref
+				traits = {	air_tactical_bombing_1 	}
+		}
+
+	}
+	ADR_Ilkenti_Mail={
+		name="Ilkenti Mail"
+
+		advisor={
+			slot = high_command
+			idea_token = ADR_Ilkenti_Mail
+				traits = {	army_infantry_2 	}
+		}
+
+	}
+	ADR_Ilkerka_Kalp={
+		name="Ilkerka Kalp"
+
+		advisor={
+			slot = high_command
+			idea_token = ADR_Ilkerka_Kalp
+				traits = {	army_armored_1 	}
+		}
+
+	}
+	ADR_Declan_Yazki={
+		name="Declan Yazki"
+
+		
+		country_leader={
+			ideology=rexism
+			traits = { collaborator_king  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	ADR_Yall_Kalp={
+		name="Yall Kalp"
+
+		advisor={
+			slot = political_advisor
+			idea_token = ADR_Yall_Kalp
+				traits = {	basileus 	}
+		}
+
+	}
+	ADR_Muran_Ariorc={
+		name="Muran Ariorc"
+
+		advisor={
+			slot = political_advisor
+			idea_token = ADR_Muran_Ariorc
+				traits = {	archon_basileus 	}
+		}
+
+	}
+	ADR_Sinant_Ceill={
+		name="Sinant Ceill"
+
+		advisor={
+			slot = political_advisor
+			idea_token = ADR_Sinant_Ceill
+				traits = {	collaborator_king 	}
+		}
+
+	}
+	ADR_Keir_Sehe={
+		name="Keir Sehe"
+
+		advisor={
+			slot = political_advisor
+			idea_token = ADR_Keir_Sehe
+				traits = {	archon_basileus 	}
+		}
+
+	}
+	ADR_Ikenat_Sehe={
+		name="Ikenat Sehe"
+
+		advisor={
+			slot = political_advisor
+			idea_token = ADR_Ikenat_Sehe
+				traits = {	celebrity_junta_leader 	}
+		}
+
+	}
+	ADR_Zafa_Gref={
+		name="Zafa Gref"
+
+		advisor={
+			slot = political_advisor
+			idea_token = ADR_Zafa_Gref
+				traits = {	spirit_of_genghis 	}
+		}
+
+	}
+	ADR_Kadraitz_Gref={
+		name="Kadraitz Gref"
+
+		advisor={
+			slot = army_chief
+			idea_token = ADR_Kadraitz_Gref
+				traits = {	army_chief_maneuver_2 	}
+		}
+
+	}
+	ADR_Goraitz_Ariorc={
+		name="Goraitz Ariorc"
+
+		advisor={
+			slot = army_chief
+			idea_token = ADR_Goraitz_Ariorc
+				traits = {	army_chief_offensive_2 	}
+		}
+
+	}
+	ADR_Harat_Tuaia={
+		name="Harat Tuaia"
+
+		advisor={
+			slot = army_chief
+			idea_token = ADR_Harat_Tuaia
+				traits = {	army_chief_reform_2 	}
+		}
+
+	}
+	ADR_Aderet_Mail={
+		name="Aderet Mail"
+
+		advisor={
+			slot = army_chief
+			idea_token = ADR_Aderet_Mail
+				traits = {	army_chief_reform_1 	}
+		}
+
+	}
+	ADR_Iskerem_Yazki={
+		name="Iskerem Yazki"
+
+		advisor={
+			slot = navy_chief
+			idea_token = ADR_Iskerem_Yazki
+				traits = {	navy_chief_decisive_battle_1 	}
+		}
+
+	}
+	ADR_Halcolmaz_Entza={
+		name="Halcolmaz Entza"
+
+		advisor={
+			slot = navy_chief
+			idea_token = ADR_Halcolmaz_Entza
+				traits = {	navy_chief_naval_aviation_1 	}
+		}
+
+	}
+	ADR_Liarulen_Ceill={
+		name="Liarulen Ceill"
+
+		advisor={
+			slot = air_chief
+			idea_token = ADR_Liarulen_Ceill
+				traits = {	air_chief_night_operations_2 	}
+		}
+
+	}
+	ADR_Serhan_Entza={
+		name="Serhan Entza"
+
+		advisor={
+			slot = air_chief
+			idea_token = ADR_Serhan_Entza
+				traits = {	air_chief_reform_1 	}
+		}
+
+	}
+	ADR_Aidan_Ceill={
+		name="Aidan Ceill"
+
+		advisor={
+			slot = high_command
+			idea_token = ADR_Aidan_Ceill
+				traits = {	air_air_combat_training_1 	}
+		}
+
+	}
+	ADR_Yilm_Ceill={
+		name="Yilm Ceill"
+
+		advisor={
+			slot = high_command
+			idea_token = ADR_Yilm_Ceill
+				traits = {	navy_submarine_1 	}
+		}
+
+	}
+	ADR_Harat_Mail={
+		name="Harat Mail"
+
+		advisor={
+			slot = high_command
+			idea_token = ADR_Harat_Mail
+				traits = {	army_armored_2 	}
+		}
+
+	}
+	ADR_Lialilm_Mail={
+		name="Lialilm Mail"
+
+		advisor={
+			slot = high_command
+			idea_token = ADR_Lialilm_Mail
+				traits = {	army_infantry_1 	}
+		}
+
+	}
+	ADR_Ilkerka_Ceill={
+		name="Ilkerka Ceill"
+
+		advisor={
+			slot = high_command
+			idea_token = ADR_Ilkerka_Ceill
+				traits = {	navy_capital_ship_2 	}
+		}
+
+	}
+	ADR_Serem_Kalp={
+		name="Serem Kalp"
+
+		advisor={
+			slot = high_command
+			idea_token = ADR_Serem_Kalp
+				traits = {	navy_naval_air_defense_2 	}
+		}
+
+	}
+	ADR_Declan_Bantza={
+		name="Declan Bantza"
+
+		
+		country_leader={
+			ideology=stalinism
+			traits = { political_dancer  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	ADR_Yilm_Tuaia={
+		name="Yilm Tuaia"
+
+		advisor={
+			slot = political_advisor
+			idea_token = ADR_Yilm_Tuaia
+				traits = {	infirm 	}
+		}
+
+	}
+	ADR_Enesul_Yazki={
+		name="Enesul Yazki"
+
+		advisor={
+			slot = political_advisor
+			idea_token = ADR_Enesul_Yazki
+				traits = {	polemarch 	}
+		}
+
+	}
+	ADR_Gaizkan_Sehe={
+		name="Gaizkan Sehe"
+
+		advisor={
+			slot = political_advisor
+			idea_token = ADR_Gaizkan_Sehe
+				traits = {	reluctant_stalinist 	}
+		}
+
+	}
+	ADR_Muran_Bantza={
+		name="Muran Bantza"
+
+		advisor={
+			slot = political_advisor
+			idea_token = ADR_Muran_Bantza
+				traits = {	indomitable_perseverance 	}
+		}
+
+	}
+	ADR_Arich_Gref={
+		name="Arich Gref"
+
+		advisor={
+			slot = political_advisor
+			idea_token = ADR_Arich_Gref
+				traits = {	reluctant_stalinist 	}
+		}
+
+	}
+	ADR_Muran_Mail={
+		name="Muran Mail"
+
+		advisor={
+			slot = political_advisor
+			idea_token = ADR_Muran_Mail
+				traits = {	infirm 	}
+		}
+
+	}
+	ADR_Ilkenti_Ariorc={
+		name="Ilkenti Ariorc"
+
+		advisor={
+			slot = army_chief
+			idea_token = ADR_Ilkenti_Ariorc
+				traits = {	army_chief_maneuver_2 	}
+		}
+
+	}
+	ADR_Cemazaneko_Ceill={
+		name="Cemazaneko Ceill"
+
+		advisor={
+			slot = army_chief
+			idea_token = ADR_Cemazaneko_Ceill
+				traits = {	army_chief_drill_2 	}
+		}
+
+	}
+	ADR_Xabier_Yazki={
+		name="Xabier Yazki"
+
+		advisor={
+			slot = army_chief
+			idea_token = ADR_Xabier_Yazki
+				traits = {	army_chief_drill_2 	}
+		}
+
+	}
+	ADR_Declanti_Kalp={
+		name="Declanti Kalp"
+
+		advisor={
+			slot = army_chief
+			idea_token = ADR_Declanti_Kalp
+				traits = {	army_chief_offensive_2 	}
+		}
+
+	}
+	ADR_Quinn_Gref={
+		name="Quinn Gref"
+
+		advisor={
+			slot = navy_chief
+			idea_token = ADR_Quinn_Gref
+				traits = {	navy_chief_old_guard_2 	}
+		}
+
+	}
+	ADR_Amazan_Tuaia={
+		name="Amazan Tuaia"
+
+		advisor={
+			slot = navy_chief
+			idea_token = ADR_Amazan_Tuaia
+				traits = {	navy_chief_commerce_raiding_1 	}
+		}
+
+	}
+	ADR_Eoinn_Tuaia={
+		name="Eoinn Tuaia"
+
+		advisor={
+			slot = air_chief
+			idea_token = ADR_Eoinn_Tuaia
+				traits = {	air_chief_reform_2 	}
+		}
+
+	}
+	ADR_Muran_Tuaia={
+		name="Muran Tuaia"
+
+		advisor={
+			slot = air_chief
+			idea_token = ADR_Muran_Tuaia
+				traits = {	air_chief_all_weather_2 	}
+		}
+
+	}
+	ADR_Seam_Bantza={
+		name="Seam Bantza"
+
+		advisor={
+			slot = high_command
+			idea_token = ADR_Seam_Bantza
+				traits = {	air_bomber_interception_1 	}
+		}
+
+	}
+	ADR_Onura_Gref={
+		name="Onura Gref"
+
+		advisor={
+			slot = high_command
+			idea_token = ADR_Onura_Gref
+				traits = {	navy_submarine_2 	}
+		}
+
+	}
+	ADR_Ciarunc_Ceill={
+		name="Ciarunc Ceill"
+
+		advisor={
+			slot = high_command
+			idea_token = ADR_Ciarunc_Ceill
+				traits = {	army_artillery_1 	}
+		}
+
+	}
+	ADR_Amalim_Yazki={
+		name="Amalim Yazki"
+
+		advisor={
+			slot = high_command
+			idea_token = ADR_Amalim_Yazki
+				traits = {	navy_naval_air_defense_1 	}
+		}
+
+	}
+	ADR_Aitz_Entza={
+		name="Aitz Entza"
+
+		advisor={
+			slot = high_command
+			idea_token = ADR_Aitz_Entza
+				traits = {	navy_submarine_2 	}
+		}
+
+	}
+	ADR_Amazan_Yazki={
+		name="Amazan Yazki"
+
+		advisor={
+			slot = high_command
+			idea_token = ADR_Amazan_Yazki
+				traits = {	air_strategic_bombing_1 	}
+		}
+
+	}
+	ADR_Enes_Tuaia={
+		name="Enes Tuaia"
+
+		
+		country_leader={
+			ideology=conservatism
+			traits = { infirm  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	ADR_Xabier_Gref={
+		name="Xabier Gref"
+
+		advisor={
+			slot = political_advisor
+			idea_token = ADR_Xabier_Gref
+				traits = {	staunch_constitutionalist 	}
+		}
+
+	}
+	ADR_Emir_Tuaia={
+		name="Emir Tuaia"
+
+		advisor={
+			slot = political_advisor
+			idea_token = ADR_Emir_Tuaia
+				traits = {	famous_aviator 	}
+		}
+
+	}
+	ADR_Andergustafe_Yazki={
+		name="Andergustafe Yazki"
+
+		advisor={
+			slot = political_advisor
+			idea_token = ADR_Andergustafe_Yazki
+				traits = {	liberal_democratic_paragon 	}
+		}
+
+	}
+	ADR_Ilkerka_Entza={
+		name="Ilkerka Entza"
+
+		advisor={
+			slot = political_advisor
+			idea_token = ADR_Ilkerka_Entza
+				traits = {	first_lady 	}
+		}
+
+	}
+	ADR_Rhys_Entza={
+		name="Rhys Entza"
+
+		advisor={
+			slot = political_advisor
+			idea_token = ADR_Rhys_Entza
+				traits = {	the_banker 	}
+		}
+
+	}
+	ADR_Liarka_Mail={
+		name="Liarka Mail"
+
+		advisor={
+			slot = political_advisor
+			idea_token = ADR_Liarka_Mail
+				traits = {	staunch_constitutionalist 	}
+		}
+
+	}
+	ADR_Ilkenti_Gref={
+		name="Ilkenti Gref"
+
+		advisor={
+			slot = army_chief
+			idea_token = ADR_Ilkenti_Gref
+				traits = {	army_chief_morale_2 	}
+		}
+
+	}
+	ADR_Ilkerka_Gref={
+		name="Ilkerka Gref"
+
+		advisor={
+			slot = army_chief
+			idea_token = ADR_Ilkerka_Gref
+				traits = {	army_chief_reform_2 	}
+		}
+
+	}
+	ADR_Ibaizka_Bantza={
+		name="Ibaizka Bantza"
+
+		advisor={
+			slot = army_chief
+			idea_token = ADR_Ibaizka_Bantza
+				traits = {	army_chief_organizational_2 	}
+		}
+
+	}
+	ADR_Enesul_Mail={
+		name="Enesul Mail"
+
+		advisor={
+			slot = army_chief
+			idea_token = ADR_Enesul_Mail
+				traits = {	army_chief_drill_2 	}
+		}
+
+	}
+	ADR_Bran_Mail={
+		name="Bran Mail"
+
+		advisor={
+			slot = navy_chief
+			idea_token = ADR_Bran_Mail
+				traits = {	navy_chief_reform_1 	}
+		}
+
+	}
+	ADR_Amazan_Sehe={
+		name="Amazan Sehe"
+
+		advisor={
+			slot = navy_chief
+			idea_token = ADR_Amazan_Sehe
+				traits = {	navy_chief_maneuver_1 	}
+		}
+
+	}
+	ADR_Ciarunc_Ariorc={
+		name="Ciarunc Ariorc"
+
+		advisor={
+			slot = air_chief
+			idea_token = ADR_Ciarunc_Ariorc
+				traits = {	air_chief_reform_2 	}
+		}
+
+	}
+	ADR_Benaitz_Yazki={
+		name="Benaitz Yazki"
+
+		advisor={
+			slot = air_chief
+			idea_token = ADR_Benaitz_Yazki
+				traits = {	air_chief_safety_1 	}
+		}
+
+	}
+	ADR_Sinn_Yazki={
+		name="Sinn Yazki"
+
+		advisor={
+			slot = high_command
+			idea_token = ADR_Sinn_Yazki
+				traits = {	army_regrouping_2 	}
+		}
+
+	}
+	ADR_Lialilm_Ariorc={
+		name="Lialilm Ariorc"
+
+		advisor={
+			slot = high_command
+			idea_token = ADR_Lialilm_Ariorc
+				traits = {	army_artillery_2 	}
+		}
+
+	}
+	ADR_Tarem_Tuaia={
+		name="Tarem Tuaia"
+
+		advisor={
+			slot = high_command
+			idea_token = ADR_Tarem_Tuaia
+				traits = {	army_entrenchment_2 	}
+		}
+
+	}
+	ADR_Andergustafe_Gref={
+		name="Andergustafe Gref"
+
+		advisor={
+			slot = high_command
+			idea_token = ADR_Andergustafe_Gref
+				traits = {	navy_naval_air_defense_1 	}
+		}
+
+	}
+	ADR_Baret_Ariorc={
+		name="Baret Ariorc"
+
+		advisor={
+			slot = high_command
+			idea_token = ADR_Baret_Ariorc
+				traits = {	army_infantry_1 	}
+		}
+
+	}
+	ADR_Eneko_Ariorc={
+		name="Eneko Ariorc"
+
+		advisor={
+			slot = high_command
+			idea_token = ADR_Eneko_Ariorc
+				traits = {	navy_anti_submarine_1 	}
+		}
+
+	}
+	ADR_Mikel_Kalp={
+		name="Mikel Kalp"
+
+		advisor={
+			slot = theorist
+			idea_token = ADR_Mikel_Kalp
+				traits = {	military_theorist 	}
+		}
+
+	}
+	ADR_Aderet_Kalp={
+		name="Aderet Kalp"
+
+		advisor={
+			slot = theorist
+			idea_token = ADR_Aderet_Kalp
+				traits = {	naval_theorist 	}
+		}
+
+	}
+	ADR_Onuran_Ariorc={
+		name="Onuran Ariorc"
+
+		advisor={
+			slot = theorist
+			idea_token = ADR_Onuran_Ariorc
+				traits = {	air_warfare_theorist 	}
+		}
+
+	}
+}

@@ -1,0 +1,39 @@
+
+state={
+	id=361
+	name="STATE_361"
+	manpower = 2797575
+	
+	state_category = large_town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 7069 1}
+		victory_points = { 7070 4}
+		victory_points = { 7078 9}
+		
+		owner = REL
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = REL
+	}
+
+	provinces={
+		7062 7063 7064 7065 7066 7067 7068 7069 7070 7071 7072 7073 7074 7075 7076 7077 7078 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,19 @@
+air_wings = {
+		472 = { 								
+		fighter_equipment_0 = { owner = "KON" amount = 14 version_name = "Umuruthailli Mk 0" }
+strat_bomber_equipment_0 = { owner = "KON" amount = 15 version_name = "Itzart Mk 1" }
+
+	}
+	483 = { 								
+		tac_bomber_equipment_0 = { owner = "KON" amount = 16 version_name = "Errisla Mk 1" }
+tac_bomber_equipment_0 = { owner = "KON" amount = 16 version_name = "Laintzari Mk 0" }
+
+	}
+	446 = { 								
+		CAS_equipment_0 = { owner = "KON" amount = 21 version_name = "Laintzari Mk 1" }
+nav_bomber_equipment_0 = { owner = "KON" amount = 14 version_name = "Elkat Mk 0" }
+
+	}
+
+
+}

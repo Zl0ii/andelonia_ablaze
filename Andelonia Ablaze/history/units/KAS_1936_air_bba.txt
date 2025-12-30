@@ -1,0 +1,159 @@
+air_wings = {
+		465 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "KAS" amount = 50 version_name = "Cnuaiditha Mk 1" }
+
+	}
+	502 = { 								
+		small_plane_naval_bomber_airframe_1 = { owner = "KAS" amount = 50 version_name = "Cnamh Mk 1" }
+
+	}
+	514 = { 								
+		medium_plane_airframe_0 = { owner = "KAS" amount = 50 version_name = "Aigh Mk 1" }
+
+	}
+	517 = { 								
+		small_plane_cas_airframe_0 = { owner = "KAS" amount = 50 version_name = "Amrimu Mk 2" }
+
+	}
+	520 = { 								
+		small_plane_airframe_0 = { owner = "KAS" amount = 50 version_name = "Majimti Mk 1" }
+
+	}
+	525 = { 								
+		small_plane_airframe_1 = { owner = "KAS" amount = 50 version_name = "Mile Mk 0" }
+
+	}
+	536 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "KAS" amount = 50 version_name = "Cnuaiditha Mk 1" }
+
+	}
+	542 = { 								
+		small_plane_cas_airframe_1 = { owner = "KAS" amount = 50 version_name = "Aigh Mk 2" }
+medium_plane_airframe_0 = { owner = "KAS" amount = 50 version_name = "Aigh Mk 1" }
+
+	}
+	549 = { 								
+		small_plane_airframe_1 = { owner = "KAS" amount = 50 version_name = "Mile Mk 0" }
+
+	}
+	560 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "KAS" amount = 50 version_name = "Cnuaiditha Mk 1" }
+
+	}
+	559 = { 								
+		small_plane_cas_airframe_1 = { owner = "KAS" amount = 50 version_name = "Aigh Mk 2" }
+
+	}
+	563 = { 								
+		small_plane_cas_airframe_0 = { owner = "KAS" amount = 50 version_name = "Amrimu Mk 2" }
+
+	}
+	555 = { 								
+		small_plane_naval_bomber_airframe_1 = { owner = "KAS" amount = 50 version_name = "Cnamh Mk 1" }
+
+	}
+	579 = { 								
+		small_plane_cas_airframe_0 = { owner = "KAS" amount = 50 version_name = "Amrimu Mk 2" }
+
+	}
+	597 = { 								
+		small_plane_cas_airframe_1 = { owner = "KAS" amount = 50 version_name = "Aigh Mk 2" }
+
+	}
+	580 = { 								
+		small_plane_cas_airframe_1 = { owner = "KAS" amount = 50 version_name = "Aigh Mk 2" }
+
+	}
+	594 = { 								
+		small_plane_airframe_0 = { owner = "KAS" amount = 50 version_name = "Majimti Mk 1" }
+
+	}
+	605 = { 								
+		small_plane_cas_airframe_0 = { owner = "KAS" amount = 50 version_name = "Amrimu Mk 2" }
+
+	}
+	603 = { 								
+		small_plane_cas_airframe_1 = { owner = "KAS" amount = 50 version_name = "Aigh Mk 2" }
+
+	}
+	639 = { 								
+		small_plane_airframe_1 = { owner = "KAS" amount = 50 version_name = "Mile Mk 0" }
+
+	}
+	634 = { 								
+		small_plane_naval_bomber_airframe_1 = { owner = "KAS" amount = 50 version_name = "Cnamh Mk 1" }
+
+	}
+	353 = { 								
+		small_plane_cas_airframe_0 = { owner = "KAS" amount = 50 version_name = "Amrimu Mk 2" }
+
+	}
+	368 = { 								
+		small_plane_naval_bomber_airframe_1 = { owner = "KAS" amount = 50 version_name = "Cnamh Mk 1" }
+
+	}
+	386 = { 								
+		small_plane_cas_airframe_1 = { owner = "KAS" amount = 50 version_name = "Aigh Mk 2" }
+
+	}
+	440 = { 								
+		small_plane_airframe_0 = { owner = "KAS" amount = 50 version_name = "Majimti Mk 1" }
+
+	}
+	645 = { 								
+		medium_plane_airframe_0 = { owner = "KAS" amount = 50 version_name = "Aigh Mk 1" }
+
+	}
+	649 = { 								
+		small_plane_cas_airframe_0 = { owner = "KAS" amount = 50 version_name = "Amrimu Mk 2" }
+
+	}
+	644 = { 								
+		small_plane_airframe_1 = { owner = "KAS" amount = 50 version_name = "Mile Mk 0" }
+
+	}
+	655 = { 								
+		small_plane_airframe_1 = { owner = "KAS" amount = 50 version_name = "Mile Mk 0" }
+small_plane_naval_bomber_airframe_1 = { owner = "KAS" amount = 50 version_name = "Cnamh Mk 1" }
+
+	}
+	36 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "KAS" amount = 50 version_name = "Cnuaiditha Mk 1" }
+
+	}
+	107 = { 								
+		medium_plane_airframe_0 = { owner = "KAS" amount = 50 version_name = "Aigh Mk 1" }
+
+	}
+	125 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "KAS" amount = 50 version_name = "Cnuaiditha Mk 1" }
+
+	}
+	202 = { 								
+		small_plane_airframe_0 = { owner = "KAS" amount = 50 version_name = "Majimti Mk 1" }
+
+	}
+	217 = { 								
+		small_plane_airframe_0 = { owner = "KAS" amount = 50 version_name = "Majimti Mk 1" }
+small_plane_airframe_0 = { owner = "KAS" amount = 50 version_name = "Majimti Mk 1" }
+
+	}
+	254 = { 								
+		medium_plane_airframe_0 = { owner = "KAS" amount = 50 version_name = "Aigh Mk 1" }
+
+	}
+	259 = { 								
+		medium_plane_airframe_0 = { owner = "KAS" amount = 50 version_name = "Aigh Mk 1" }
+
+	}
+	274 = { 								
+		small_plane_naval_bomber_airframe_1 = { owner = "KAS" amount = 50 version_name = "Cnamh Mk 1" }
+
+	}
+	320 = { 								
+		small_plane_airframe_1 = { owner = "KAS" amount = 50 version_name = "Mile Mk 0" }
+
+	}
+
+
+}

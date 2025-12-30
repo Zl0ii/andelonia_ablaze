@@ -1,0 +1,21 @@
+air_wings = {
+		545 = { 								
+		medium_plane_airframe_0 = { owner = "BOR" amount = 50 version_name = "Runamnai Mk 0" }
+
+	}
+	395 = { 								
+		medium_plane_airframe_0 = { owner = "BOR" amount = 50 version_name = "Runamnai Mk 0" }
+
+	}
+	115 = { 								
+		medium_plane_airframe_0 = { owner = "BOR" amount = 50 version_name = "Runamnai Mk 0" }
+
+	}
+	176 = { 								
+		medium_plane_airframe_0 = { owner = "BOR" amount = 50 version_name = "Runamnai Mk 0" }
+medium_plane_airframe_0 = { owner = "BOR" amount = 50 version_name = "Runamnai Mk 0" }
+
+	}
+
+
+}

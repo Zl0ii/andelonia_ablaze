@@ -1,0 +1,880 @@
+characters = {
+	PON_Georg_Avartakkuilu={
+		name="Georg Avartakkuilu"
+
+		
+		country_leader={
+			ideology=oligarchism
+			traits = { staunch_constitutionalist  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	PON_Georesh_Tunaq={
+		name="Georesh Tunaq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = PON_Georesh_Tunaq
+				traits = {	staunch_constitutionalist 	}
+		}
+
+	}
+	PON_Diran_Imaq={
+		name="Diran Imaq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = PON_Diran_Imaq
+				traits = {	staunch_constitutionalist 	}
+		}
+
+	}
+	PON_Eiran_Veld={
+		name="Eiran Veld"
+
+		advisor={
+			slot = political_advisor
+			idea_token = PON_Eiran_Veld
+				traits = {	socialite_connections 	}
+		}
+
+	}
+	PON_Hels_Avartakkuilu={
+		name="Hels Avartakkuilu"
+
+		advisor={
+			slot = political_advisor
+			idea_token = PON_Hels_Avartakkuilu
+				traits = {	cabinet_crisis 	}
+		}
+
+	}
+	PON_Qajesh_Veld={
+		name="Qajesh Veld"
+
+		advisor={
+			slot = political_advisor
+			idea_token = PON_Qajesh_Veld
+				traits = {	headstrong 	}
+		}
+
+	}
+	PON_Fricharth_Richt={
+		name="Fricharth Richt"
+
+		advisor={
+			slot = political_advisor
+			idea_token = PON_Fricharth_Richt
+				traits = {	inexperienced_monarch 	}
+		}
+
+	}
+	PON_Pran_Richt={
+		name="Pran Richt"
+
+		advisor={
+			slot = army_chief
+			idea_token = PON_Pran_Richt
+				traits = {	army_chief_maneuver_1 	}
+		}
+
+	}
+	PON_Anil_Imaq={
+		name="Anil Imaq"
+
+		advisor={
+			slot = army_chief
+			idea_token = PON_Anil_Imaq
+				traits = {	army_chief_reform_1 	}
+		}
+
+	}
+	PON_Atka_Imaq={
+		name="Atka Imaq"
+
+		advisor={
+			slot = army_chief
+			idea_token = PON_Atka_Imaq
+				traits = {	army_chief_offensive_2 	}
+		}
+
+	}
+	PON_Tala_Avartakkuilu={
+		name="Tala Avartakkuilu"
+
+		advisor={
+			slot = army_chief
+			idea_token = PON_Tala_Avartakkuilu
+				traits = {	army_chief_offensive_1 	}
+		}
+
+	}
+	PON_Siddhana_Tunaq={
+		name="Siddhana Tunaq"
+
+		advisor={
+			slot = navy_chief
+			idea_token = PON_Siddhana_Tunaq
+				traits = {	navy_chief_naval_aviation_2 	}
+		}
+
+	}
+	PON_Olik_Veld={
+		name="Olik Veld"
+
+		advisor={
+			slot = navy_chief
+			idea_token = PON_Olik_Veld
+				traits = {	navy_chief_commerce_raiding_2 	}
+		}
+
+	}
+	PON_Oskashnaq_Tunaq={
+		name="Oskashnaq Tunaq"
+
+		advisor={
+			slot = air_chief
+			idea_token = PON_Oskashnaq_Tunaq
+				traits = {	air_chief_old_guard_2 	}
+		}
+
+	}
+	PON_Varthijs_Imaq={
+		name="Varthijs Imaq"
+
+		advisor={
+			slot = air_chief
+			idea_token = PON_Varthijs_Imaq
+				traits = {	air_chief_old_guard_1 	}
+		}
+
+	}
+	PON_Svenrik_Avartakkuilu={
+		name="Svenrik Avartakkuilu"
+
+		advisor={
+			slot = high_command
+			idea_token = PON_Svenrik_Avartakkuilu
+				traits = {	army_radio_intelligence_1 	}
+		}
+
+	}
+	PON_Atka_Tunaq={
+		name="Atka Tunaq"
+
+		advisor={
+			slot = high_command
+			idea_token = PON_Atka_Tunaq
+				traits = {	army_regrouping_2 	}
+		}
+
+	}
+	PON_Anila_Avartakkuilu={
+		name="Anila Avartakkuilu"
+
+		advisor={
+			slot = high_command
+			idea_token = PON_Anila_Avartakkuilu
+				traits = {	navy_submarine_2 	}
+		}
+
+	}
+	PON_Ulrich_Veld={
+		name="Ulrich Veld"
+
+		advisor={
+			slot = high_command
+			idea_token = PON_Ulrich_Veld
+				traits = {	air_naval_strike_1 	}
+		}
+
+	}
+	PON_Svenrik_Imaq={
+		name="Svenrik Imaq"
+
+		advisor={
+			slot = high_command
+			idea_token = PON_Svenrik_Imaq
+				traits = {	army_commando_2 	}
+		}
+
+	}
+	PON_Iluk_Idak={
+		name="Iluk Idak"
+
+		advisor={
+			slot = high_command
+			idea_token = PON_Iluk_Idak
+				traits = {	navy_amphibious_assault_2 	}
+		}
+
+	}
+	PON_Vinod_Imaq={
+		name="Vinod Imaq"
+
+		
+		country_leader={
+			ideology=nazism
+			traits = { polemarch  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	PON_Ajay_Magupak={
+		name="Ajay Magupak"
+
+		advisor={
+			slot = political_advisor
+			idea_token = PON_Ajay_Magupak
+				traits = {	polemarch 	}
+		}
+
+	}
+	PON_Jagaq_Avartakkuilu={
+		name="Jagaq Avartakkuilu"
+
+		advisor={
+			slot = political_advisor
+			idea_token = PON_Jagaq_Avartakkuilu
+				traits = {	basileus 	}
+		}
+
+	}
+	PON_Hanus_Imaq={
+		name="Hanus Imaq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = PON_Hanus_Imaq
+				traits = {	basileus 	}
+		}
+
+	}
+	PON_Otto_Richt={
+		name="Otto Richt"
+
+		advisor={
+			slot = political_advisor
+			idea_token = PON_Otto_Richt
+				traits = {	autocratic_imperialist 	}
+		}
+
+	}
+	PON_Raghanz_Magupak={
+		name="Raghanz Magupak"
+
+		advisor={
+			slot = political_advisor
+			idea_token = PON_Raghanz_Magupak
+				traits = {	polemarch 	}
+		}
+
+	}
+	PON_Ganz_Avartakkuilu={
+		name="Ganz Avartakkuilu"
+
+		advisor={
+			slot = political_advisor
+			idea_token = PON_Ganz_Avartakkuilu
+				traits = {	spirit_of_genghis 	}
+		}
+
+	}
+	PON_Ulrish_Feishonte={
+		name="Ulrish Feishonte"
+
+		advisor={
+			slot = army_chief
+			idea_token = PON_Ulrish_Feishonte
+				traits = {	army_chief_organizational_2 	}
+		}
+
+	}
+	PON_Erik_Richt={
+		name="Erik Richt"
+
+		advisor={
+			slot = army_chief
+			idea_token = PON_Erik_Richt
+				traits = {	army_chief_morale_1 	}
+		}
+
+	}
+	PON_Eiran_Imaq={
+		name="Eiran Imaq"
+
+		advisor={
+			slot = army_chief
+			idea_token = PON_Eiran_Imaq
+				traits = {	army_chief_organizational_2 	}
+		}
+
+	}
+	PON_Leif_Magupak={
+		name="Leif Magupak"
+
+		advisor={
+			slot = army_chief
+			idea_token = PON_Leif_Magupak
+				traits = {	army_chief_drill_2 	}
+		}
+
+	}
+	PON_Kirana_Veld={
+		name="Kirana Veld"
+
+		advisor={
+			slot = navy_chief
+			idea_token = PON_Kirana_Veld
+				traits = {	navy_chief_maneuver_1 	}
+		}
+
+	}
+	PON_Richaran_Tunaq={
+		name="Richaran Tunaq"
+
+		advisor={
+			slot = navy_chief
+			idea_token = PON_Richaran_Tunaq
+				traits = {	navy_chief_reform_1 	}
+		}
+
+	}
+	PON_Erik_Tunaq={
+		name="Erik Tunaq"
+
+		advisor={
+			slot = air_chief
+			idea_token = PON_Erik_Tunaq
+				traits = {	air_chief_old_guard_1 	}
+		}
+
+	}
+	PON_Sten_Thogugamai={
+		name="Sten Thogugamai"
+
+		advisor={
+			slot = air_chief
+			idea_token = PON_Sten_Thogugamai
+				traits = {	air_chief_old_guard_2 	}
+		}
+
+	}
+	PON_Nalaf_Magupak={
+		name="Nalaf Magupak"
+
+		advisor={
+			slot = high_command
+			idea_token = PON_Nalaf_Magupak
+				traits = {	air_air_superiority_2 	}
+		}
+
+	}
+	PON_Georesh_Avartakkuilu={
+		name="Georesh Avartakkuilu"
+
+		advisor={
+			slot = high_command
+			idea_token = PON_Georesh_Avartakkuilu
+				traits = {	army_entrenchment_2 	}
+		}
+
+	}
+	PON_Magaq_Avartakkuilu={
+		name="Magaq Avartakkuilu"
+
+		advisor={
+			slot = high_command
+			idea_token = PON_Magaq_Avartakkuilu
+				traits = {	army_CombinedArms_2 	}
+		}
+
+	}
+	PON_Arunik_Tunaq={
+		name="Arunik Tunaq"
+
+		advisor={
+			slot = high_command
+			idea_token = PON_Arunik_Tunaq
+				traits = {	navy_capital_ship_2 	}
+		}
+
+	}
+	PON_Sigurd_Magupak={
+		name="Sigurd Magupak"
+
+		advisor={
+			slot = high_command
+			idea_token = PON_Sigurd_Magupak
+				traits = {	army_entrenchment_2 	}
+		}
+
+	}
+	PON_Jagnut_Magupak={
+		name="Jagnut Magupak"
+
+		advisor={
+			slot = high_command
+			idea_token = PON_Jagnut_Magupak
+				traits = {	air_air_superiority_1 	}
+		}
+
+	}
+	PON_Eirk_Thogugamai={
+		name="Eirk Thogugamai"
+
+		
+		country_leader={
+			ideology=marxism
+			traits = { political_dancer  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	PON_Alfrem_Imaq={
+		name="Alfrem Imaq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = PON_Alfrem_Imaq
+				traits = {	polemarch 	}
+		}
+
+	}
+	PON_Fralaf_Veld={
+		name="Fralaf Veld"
+
+		advisor={
+			slot = political_advisor
+			idea_token = PON_Fralaf_Veld
+				traits = {	polemarch 	}
+		}
+
+	}
+	PON_Vinod_Richt={
+		name="Vinod Richt"
+
+		advisor={
+			slot = political_advisor
+			idea_token = PON_Vinod_Richt
+				traits = {	polemarch 	}
+		}
+
+	}
+	PON_Kaveepard_Veld={
+		name="Kaveepard Veld"
+
+		advisor={
+			slot = political_advisor
+			idea_token = PON_Kaveepard_Veld
+				traits = {	mastermind_code_cracker 	}
+		}
+
+	}
+	PON_Satish_Magupak={
+		name="Satish Magupak"
+
+		advisor={
+			slot = political_advisor
+			idea_token = PON_Satish_Magupak
+				traits = {	indomitable_perseverance 	}
+		}
+
+	}
+	PON_Rolf_Idak={
+		name="Rolf Idak"
+
+		advisor={
+			slot = political_advisor
+			idea_token = PON_Rolf_Idak
+				traits = {	mastermind_code_cracker 	}
+		}
+
+	}
+	PON_Oskashnaq_Toru={
+		name="Oskashnaq Toru"
+
+		advisor={
+			slot = army_chief
+			idea_token = PON_Oskashnaq_Toru
+				traits = {	army_chief_planning_1 	}
+		}
+
+	}
+	PON_Vinod_Idak={
+		name="Vinod Idak"
+
+		advisor={
+			slot = army_chief
+			idea_token = PON_Vinod_Idak
+				traits = {	army_chief_entrenchment_2 	}
+		}
+
+	}
+	PON_Satish_Avartakkuilu={
+		name="Satish Avartakkuilu"
+
+		advisor={
+			slot = army_chief
+			idea_token = PON_Satish_Avartakkuilu
+				traits = {	army_chief_morale_2 	}
+		}
+
+	}
+	PON_Ulrich_Avartakkuilu={
+		name="Ulrich Avartakkuilu"
+
+		advisor={
+			slot = army_chief
+			idea_token = PON_Ulrich_Avartakkuilu
+				traits = {	army_chief_defensive_2 	}
+		}
+
+	}
+	PON_Pran_Veld={
+		name="Pran Veld"
+
+		advisor={
+			slot = navy_chief
+			idea_token = PON_Pran_Veld
+				traits = {	navy_chief_reform_1 	}
+		}
+
+	}
+	PON_Tala_Thogugamai={
+		name="Tala Thogugamai"
+
+		advisor={
+			slot = navy_chief
+			idea_token = PON_Tala_Thogugamai
+				traits = {	navy_chief_maneuver_2 	}
+		}
+
+	}
+	PON_Ulrish_Avartakkuilu={
+		name="Ulrish Avartakkuilu"
+
+		advisor={
+			slot = air_chief
+			idea_token = PON_Ulrish_Avartakkuilu
+				traits = {	air_chief_safety_2 	}
+		}
+
+	}
+	PON_Hendermar_Thogugamai={
+		name="Hendermar Thogugamai"
+
+		advisor={
+			slot = air_chief
+			idea_token = PON_Hendermar_Thogugamai
+				traits = {	air_chief_safety_1 	}
+		}
+
+	}
+	PON_Emillem_Toru={
+		name="Emillem Toru"
+
+		advisor={
+			slot = high_command
+			idea_token = PON_Emillem_Toru
+				traits = {	army_CombinedArms_1 	}
+		}
+
+	}
+	PON_Varthijs_Avartakkuilu={
+		name="Varthijs Avartakkuilu"
+
+		advisor={
+			slot = high_command
+			idea_token = PON_Varthijs_Avartakkuilu
+				traits = {	army_entrenchment_1 	}
+		}
+
+	}
+	PON_Tala_Toru={
+		name="Tala Toru"
+
+		advisor={
+			slot = high_command
+			idea_token = PON_Tala_Toru
+				traits = {	navy_amphibious_assault_2 	}
+		}
+
+	}
+	PON_Varthijs_Tunaq={
+		name="Varthijs Tunaq"
+
+		advisor={
+			slot = high_command
+			idea_token = PON_Varthijs_Tunaq
+				traits = {	navy_capital_ship_2 	}
+		}
+
+	}
+	PON_Kanaq_Thogugamai={
+		name="Kanaq Thogugamai"
+
+		advisor={
+			slot = high_command
+			idea_token = PON_Kanaq_Thogugamai
+				traits = {	army_concealment_1 	}
+		}
+
+	}
+	PON_Rudolfren_Thogugamai={
+		name="Rudolfren Thogugamai"
+
+		advisor={
+			slot = high_command
+			idea_token = PON_Rudolfren_Thogugamai
+				traits = {	army_concealment_1 	}
+		}
+
+	}
+	PON_Kirana_Idak={
+		name="Kirana Idak"
+
+		
+		country_leader={
+			ideology=socialism
+			traits = { conservative_grandee  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	PON_Qajiv_Thogugamai={
+		name="Qajiv Thogugamai"
+
+		advisor={
+			slot = political_advisor
+			idea_token = PON_Qajiv_Thogugamai
+				traits = {	liberal_democratic_paragon 	}
+		}
+
+	}
+	PON_Erishnaq_Thogugamai={
+		name="Erishnaq Thogugamai"
+
+		advisor={
+			slot = political_advisor
+			idea_token = PON_Erishnaq_Thogugamai
+				traits = {	the_banker 	}
+		}
+
+	}
+	PON_Satto_Tunaq={
+		name="Satto Tunaq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = PON_Satto_Tunaq
+				traits = {	liberal_democratic_paragon 	}
+		}
+
+	}
+	PON_Kumaq_Veld={
+		name="Kumaq Veld"
+
+		advisor={
+			slot = political_advisor
+			idea_token = PON_Kumaq_Veld
+				traits = {	the_young_magnate 	}
+		}
+
+	}
+	PON_Pred_Thogugamai={
+		name="Pred Thogugamai"
+
+		advisor={
+			slot = political_advisor
+			idea_token = PON_Pred_Thogugamai
+				traits = {	staunch_constitutionalist 	}
+		}
+
+	}
+	PON_Larl_Magupak={
+		name="Larl Magupak"
+
+		advisor={
+			slot = political_advisor
+			idea_token = PON_Larl_Magupak
+				traits = {	conservative_grandee 	}
+		}
+
+	}
+	PON_Pred_Avartakkuilu={
+		name="Pred Avartakkuilu"
+
+		advisor={
+			slot = army_chief
+			idea_token = PON_Pred_Avartakkuilu
+				traits = {	army_chief_drill_1 	}
+		}
+
+	}
+	PON_Magaq_Thogugamai={
+		name="Magaq Thogugamai"
+
+		advisor={
+			slot = army_chief
+			idea_token = PON_Magaq_Thogugamai
+				traits = {	army_chief_entrenchment_1 	}
+		}
+
+	}
+	PON_Knutaran_Idak={
+		name="Knutaran Idak"
+
+		advisor={
+			slot = army_chief
+			idea_token = PON_Knutaran_Idak
+				traits = {	army_chief_offensive_1 	}
+		}
+
+	}
+	PON_Praka_Tunaq={
+		name="Praka Tunaq"
+
+		advisor={
+			slot = army_chief
+			idea_token = PON_Praka_Tunaq
+				traits = {	army_chief_organizational_1 	}
+		}
+
+	}
+	PON_Wilaf_Avartakkuilu={
+		name="Wilaf Avartakkuilu"
+
+		advisor={
+			slot = navy_chief
+			idea_token = PON_Wilaf_Avartakkuilu
+				traits = {	navy_chief_commerce_raiding_1 	}
+		}
+
+	}
+	PON_Johanz_Feishonte={
+		name="Johanz Feishonte"
+
+		advisor={
+			slot = navy_chief
+			idea_token = PON_Johanz_Feishonte
+				traits = {	navy_chief_decisive_battle_2 	}
+		}
+
+	}
+	PON_Ajay_Feishonte={
+		name="Ajay Feishonte"
+
+		advisor={
+			slot = air_chief
+			idea_token = PON_Ajay_Feishonte
+				traits = {	air_chief_safety_1 	}
+		}
+
+	}
+	PON_Panik_Magupak={
+		name="Panik Magupak"
+
+		advisor={
+			slot = air_chief
+			idea_token = PON_Panik_Magupak
+				traits = {	air_chief_reform_2 	}
+		}
+
+	}
+	PON_Fricharth_Tunaq={
+		name="Fricharth Tunaq"
+
+		advisor={
+			slot = high_command
+			idea_token = PON_Fricharth_Tunaq
+				traits = {	air_naval_strike_1 	}
+		}
+
+	}
+	PON_Kumaq_Imaq={
+		name="Kumaq Imaq"
+
+		advisor={
+			slot = high_command
+			idea_token = PON_Kumaq_Imaq
+				traits = {	army_regrouping_1 	}
+		}
+
+	}
+	PON_Senth_Toru={
+		name="Senth Toru"
+
+		advisor={
+			slot = high_command
+			idea_token = PON_Senth_Toru
+				traits = {	army_infantry_1 	}
+		}
+
+	}
+	PON_Larl_Toru={
+		name="Larl Toru"
+
+		advisor={
+			slot = high_command
+			idea_token = PON_Larl_Toru
+				traits = {	army_cavalry_1 	}
+		}
+
+	}
+	PON_Nuvuk_Richt={
+		name="Nuvuk Richt"
+
+		advisor={
+			slot = high_command
+			idea_token = PON_Nuvuk_Richt
+				traits = {	air_close_air_support_2 	}
+		}
+
+	}
+	PON_Pann_Toru={
+		name="Pann Toru"
+
+		advisor={
+			slot = high_command
+			idea_token = PON_Pann_Toru
+				traits = {	navy_capital_ship_1 	}
+		}
+
+	}
+	PON_Rich_Magupak={
+		name="Rich Magupak"
+
+		advisor={
+			slot = theorist
+			idea_token = PON_Rich_Magupak
+				traits = {	military_theorist 	}
+		}
+
+	}
+	PON_Nala_Magupak={
+		name="Nala Magupak"
+
+		advisor={
+			slot = theorist
+			idea_token = PON_Nala_Magupak
+				traits = {	naval_theorist 	}
+		}
+
+	}
+	PON_Fricharth_Veld={
+		name="Fricharth Veld"
+
+		advisor={
+			slot = theorist
+			idea_token = PON_Fricharth_Veld
+				traits = {	air_warfare_theorist 	}
+		}
+
+	}
+}

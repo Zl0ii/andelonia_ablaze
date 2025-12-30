@@ -1,0 +1,41 @@
+
+state={
+	id=181
+	name="STATE_181"
+	manpower = 2753241
+	
+	state_category = large_town
+	resources={
+		aluminium=1
+		chromium=2
+		oil=2
+		rubber=0
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 3664 3}
+		victory_points = { 3672 10}
+		
+		owner = DRR
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			3671 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = DRR
+	}
+
+	provinces={
+		3660 3661 3662 3663 3664 3665 3666 3667 3668 3669 3670 3671 3672 3673 3674 3675 3676 
+	}
+	local_supplies=0.0 
+}
